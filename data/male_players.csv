@@ -1,0 +1,5001 @@
+long_name,short_name,player_positions
+Lionel Andrés Messi Cuccittini,L. Messi,RW
+Karim Benzema,K. Benzema,"CF, ST"
+Robert Lewandowski,R. Lewandowski,ST
+Kevin De Bruyne,K. De Bruyne,"CM, CAM"
+Kylian Mbappé Lottin,K. Mbappé,"ST, LW"
+Thibaut Nicolas Marc Courtois,T. Courtois,GK
+Mohamed Salah Ghaly,M. Salah,RW
+Manuel Peter Neuer,M. Neuer,GK
+Neymar da Silva Santos Júnior,Neymar Jr,LW
+Carlos Henrique Venancio Casimiro,Casemiro,CDM
+Jan Oblak,J. Oblak,GK
+Harry Kane,H. Kane,ST
+Virgil van Dijk,V. van Dijk,CB
+Sadio Mané,S. Mané,"CF, LM"
+Ederson Santana de Moraes,Ederson,GK
+Joshua Walter Kimmich,J. Kimmich,"CDM, RB, CM"
+Alisson Ramsés Becker,Alisson,GK
+Erling Braut Haaland,E. Haaland,ST
+Cristiano Ronaldo dos Santos Aveiro,Cristiano Ronaldo,ST
+Luka Modrić,L. Modrić,CM
+Toni Kroos,T. Kroos,CM
+Marc-André ter Stegen,M. ter Stegen,GK
+Keylor Navas Gamboa,K. Navas,GK
+손흥민 孙兴慜,H. Son,"LW, LM, ST"
+Marcos Aoás Corrêa,Marquinhos,CB
+João Pedro Cavaco Cancelo,João Cancelo,"LB, RB"
+N'Golo Kanté,N. Kanté,"CDM, CM"
+Bernardo Mota Veiga de Carvalho e Silva,Bernardo Silva,"CAM, CM"
+Gianluigi Donnarumma,G. Donnarumma,GK
+Rúben dos Santos Gato Alves Dias,Rúben Dias,CB
+David De Gea Quintana,De Gea,GK
+Marco Verratti,M. Verratti,"CM, CAM"
+Antonio Rüdiger,A. Rüdiger,CB
+Leon Christoph Goretzka,L. Goretzka,"CM, CDM"
+Mike Maignan,M. Maignan,GK
+Andrew Robertson,A. Robertson,LB
+Frenkie de Jong,F. de Jong,CM
+Rodrigo Hernández Cascante,Rodri,CDM
+Thiago Emiliano da Silva,Thiago Silva,CB
+Hugo Lloris,H. Lloris,GK
+Yann Sommer,Y. Sommer,GK
+Wojciech Tomasz Szczęsny,W. Szczęsny,GK
+Kevin Trapp,K. Trapp,GK
+Thiago Alcântara do Nascimento,Thiago,CM
+Daniel Parejo Muñoz,Parejo,"CM, CDM"
+Thomas Müller,T. Müller,"CAM, CF"
+Ciro Immobile,C. Immobile,ST
+David Olatukunbo Alaba,D. Alaba,"CB, LB"
+Kalidou Koulibaly,K. Koulibaly,CB
+Fábio Henrique Tavares,Fabinho,CDM
+Paulo Bruno Exequiel Dybala,P. Dybala,"CF, CAM"
+Bruno Miguel Borges Fernandes,Bruno Fernandes,"CAM, CM"
+Aymeric Laporte,A. Laporte,CB
+Kingsley Junior Coman,K. Coman,"RM, LM"
+Marcelo Brozović,M. Brozović,"CDM, CM"
+Sergej Milinković-Savić,S. Milinković-Savić,CM
+Nicolò Barella,N. Barella,CM
+Trent Alexander-Arnold,T. Alexander-Arnold,RB
+Lautaro Javier Martínez,L. Martínez,ST
+Milan Škriniar,M. Škriniar,CB
+Christopher Nkunku,C. Nkunku,"CF, CAM, ST"
+Édouard Mendy,É. Mendy,GK
+Vinícius José Paixão de Oliveira Júnior,Vinícius Jr.,LW
+Péter Gulácsi,P. Gulácsi,GK
+İlkay Gündoğan,İ. Gündoğan,"CM, CDM"
+Marco Reus,M. Reus,"CAM, CF, RM"
+Kyle Walker,K. Walker,RB
+Jordi Alba Ramos,Jordi Alba,LB
+Sergio Busquets i Burgos,Sergio Busquets,CDM
+Romelu Lukaku Menama,R. Lukaku,ST
+Iago Aspas Juncal,Iago Aspas,ST
+Paul Pogba,P. Pogba,"CM, CDM, LM"
+Raphaël Varane,R. Varane,CB
+Memphis Depay,M. Depay,"CF, LW, ST"
+Raheem Sterling,R. Sterling,"LW, RW, ST"
+Damián Emiliano Martínez,E. Martínez,GK
+Riyad Mahrez,R. Mahrez,"RW, RM"
+Gerard Moreno Balagueró,Gerard Moreno,ST
+Filip Kostić,F. Kostić,"LM, LW, LWB"
+Yassine Bounou,Y. Bounou,GK
+Niklas Süle,N. Süle,"CB, RB"
+Nabil Fekir,N. Fekir,CAM
+Marcos Javier Acuña,M. Acuña,"LB, LM"
+Diogo José Teixeira da Silva,Diogo Jota,"CF, LW"
+Theo Bernard François Hernández,T. Hernández,LB
+Gregor Kobel,G. Kobel,GK
+Matthijs de Ligt,M. de Ligt,CB
+Philip Foden,P. Foden,"LW, CF, CAM"
+Federico Santiago Valverde Dipetta,F. Valverde,"CM, RW"
+Pedro González López,Pedri,CM
+Jude Victor William Bellingham,J. Bellingham,CM
+Giorgio Chiellini,G. Chiellini,CB
+Alejandro Darío Gómez,A. Gómez,"CAM, LW, CM"
+Sergio Ramos García,Sergio Ramos,CB
+Dries Mertens,D. Mertens,"CAM, CF"
+Mats Hummels,M. Hummels,CB
+Edin Džeko,E. Džeko,ST
+Eden Michael Hazard,E. Hazard,LW
+Ángel Fabián Di María Hernández,Á. Di María,RW
+Kieran Trippier,K. Trippier,"RB, RM"
+Pierre-Emerick Emiliano François Aubameyang,P. Aubameyang,ST
+Iker Muniain Goñi,Muniain,"LM, CAM"
+Sergio Canales Madrazo,Canales,"RM, CAM, LM"
+Koen Casteels,K. Casteels,GK
+Antoine Griezmann,A. Griezmann,"ST, CF"
+Joël Andre Job Matip,J. Matip,CB
+Stefan de Vrij,S. de Vrij,CB
+Lorenzo Insigne,L. Insigne,"LW, CF, LM"
+Wissam Ben Yedder,W. Ben Yedder,ST
+Stefan Savić,S. Savić,CB
+Daniel Carvajal Ramos,Carvajal,RB
+Luiz Frello Filho Jorge,Jorginho,"CM, CDM"
+Serge David Gnabry,S. Gnabry,"RM, LM"
+Jack Grealish,J. Grealish,"LW, LM"
+Mateo Kovačić,M. Kovačić,CM
+Hakan Çalhanoğlu,H. Çalhanoğlu,CM
+Yannick Ferreira Carrasco,Y. Carrasco,"LM, LWB"
+Thomas Partey,T. Partey,"CDM, CM"
+Domenico Berardi,D. Berardi,"RM, RW"
+Rodrigo Javier De Paul,R. De Paul,"CM, RM"
+Pierre-Emile Kordt Højbjerg,P. Højbjerg,"CDM, CM"
+Youri Tielemans,Y. Tielemans,"CM, CDM"
+James Maddison,J. Maddison,"RM, CAM"
+Lucas François Bernard Hernández Pi,L. Hernández,"CB, LB"
+Leroy Aziz Sané,L. Sané,"LM, RM, CF"
+Martin Ødegaard,M. Ødegaard,"CAM, CM"
+Rúben Diogo da Silva Neves,Rúben Neves,"CDM, CM"
+Marcos Llorente Moreno,Marcos Llorente,"CM, RM, RB"
+Lorenzo Pellegrini,L. Pellegrini,"CAM, CM"
+Mikel Oyarzabal Ugarte,Oyarzabal,"LW, RW"
+Gabriel Fernando de Jesus,Gabriel Jesus,"ST, RW"
+Franck Yannick Kessié,F. Kessié,"CDM, CM, CAM"
+Fikayo Tomori,F. Tomori,CB
+Patrik Schick,P. Schick,ST
+Declan Rice,D. Rice,"CDM, CM"
+Alphonso Boyle Davies,A. Davies,"LB, LM"
+Achraf Hakimi Mouh,A. Hakimi,"RB, RWB"
+Kai Lukas Havertz,K. Havertz,"CAM, CF, ST"
+Federico Chiesa,F. Chiesa,LW
+Alessandro Bastoni,A. Bastoni,CB
+Reece James,R. James,"RWB, RB"
+Éder Gabriel Militão,Éder Militão,CB
+Luis Fernando Díaz Marulanda,L. Díaz,"LW, LM"
+Sandro Tonali,S. Tonali,"CDM, CM"
+Jules Koundé,J. Koundé,"CB, RB"
+Rafael Alexandre Conceição Leão,Rafael Leão,"LW, LM"
+Moussa Diaby,M. Diaby,"RM, LM, LW"
+Dušan Vlahović,D. Vlahović,ST
+Samir Handanovič,S. Handanovič,GK
+Kasper Peter Schmeichel,K. Schmeichel,GK
+David Josué Jiménez Silva,David Silva,"CAM, CM"
+Fernando Francisco Reges,Fernando,"CDM, CB"
+Leonardo Bonucci,L. Bonucci,CB
+Christian Dannemann Eriksen,C. Eriksen,"CM, CDM"
+Luis Alberto Romero Alconchel,Luis Alberto,CM
+Dušan Tadić,D. Tadić,"LW, CF, CAM"
+Roberto Firmino Barbosa de Oliveira,Roberto Firmino,CF
+John Stones,J. Stones,"CB, RB"
+Nick Pope,N. Pope,GK
+Matthias Ginter,M. Ginter,CB
+Hakim Ziyech,H. Ziyech,"RW, CAM"
+Jamie Vardy,J. Vardy,ST
+Alejandro Grimaldo García,Grimaldo,"LB, LWB, LM"
+Raúl De Tomás Gómez,Raúl de Tomás,ST
+Piotr Sebastian Zieliński,P. Zieliński,"CAM, CM"
+Thomas Lemar,T. Lemar,"CM, LM, RM"
+Ángel Martín Correa,Á. Correa,"ST, RM, CF"
+Duván Esteban Zapata Banguera,D. Zapata,ST
+José María Giménez de Vargas,J. Giménez,CB
+Rafael Alexandre Fernandes Ferreira da Silva,Rafa,"CF, RM, RW"
+Diego Carlos Santos Silva,Diego Carlos,CB
+Marco Asensio Willemsen,Marco Asensio,"RW, LW"
+Mikel Merino Zazón,Merino,"CM, LM, RM"
+Konrad Laimer,K. Laimer,"CDM, CM"
+Presnel Kimpembe,P. Kimpembe,CB
+Fabián Ruiz Peña,Fabián Ruiz,"CM, CDM"
+Onyinye Wilfred Ndidi,W. Ndidi,"CDM, CM, CB"
+Ferland Mendy,F. Mendy,LB
+Dayotchanculle Oswald Upamecano,D. Upamecano,CB
+Ronaldo Jailson Cabrais Petri,Ronaldo Cabrais,"CAM, RM"
+Unai Simón Mendibil,Unai Simón,GK
+Ousmane Dembélé,O. Dembélé,"RW, LW"
+Marcus Rashford,M. Rashford,"LW, LM, ST"
+Victor James Osimhen,V. Osimhen,ST
+Cristian Gabriel Romero,C. Romero,CB
+鎌田 大地,D. Kamada,"CAM, CF, CM"
+Jadon Sancho,J. Sancho,"LW, RW, LM"
+Mason Mount,M. Mount,"CAM, RW, CM"
+Raphael Dias Belloli,Raphinha,"RW, RM"
+Carlos Soler Barragán,Carlos Soler,"CM, RM, CDM"
+Gleison Bremer Silva Nascimento,Bremer,CB
+Pau Francisco Torres,Pau Torres,CB
+Aurélien Tchouaméni,A. Tchouaméni,"CDM, CM"
+João Félix Sequeira,João Félix,"CF, ST"
+Cody Mathès Gakpo,C. Gakpo,LW
+Bukayo Saka,B. Saka,"RM, RW"
+Bruno Guimarães Rodriguez Moura,Bruno Guimarães,"CM, CDM"
+Ronald Federico Araújo da Silva,R. Araujo,"CB, RB"
+Jamal Musiala,J. Musiala,"CAM, LM, CM"
+Zlatan Ibrahimović,Z. Ibrahimović,ST
+Jesús Navas González,Jesús Navas,"RB, RM"
+Raúl Albiol Tortajada,Raúl Albiol,CB
+Ivan Rakitić,I. Rakitić,CM
+Olivier Giroud,O. Giroud,ST
+Simon Thorup Kjær,S. Kjær,CB
+Ivan Perišić,I. Perišić,"LWB, LM"
+Yuri Berchiche Izeta,Yuri Berchiche,LB
+Jordan Henderson,J. Henderson,"CM, CDM"
+Toby Albertine Maurits Alderweireld,T. Alderweireld,CB
+Marko Arnautović,M. Arnautović,ST
+César Azpilicueta Tanco,Azpilicueta,"CB, RWB, RB"
+Chris Smalling,C. Smalling,CB
+Mario Götze,M. Götze,"CAM, CM, LM"
+Juan Guillermo Cuadrado Bello,J. Cuadrado,"RB, RM, RW"
+Alexandre Lacazette,A. Lacazette,ST
+Idrissa Gana Gueye,I. Gueye,"CDM, CM"
+Oliver Baumann,O. Baumann,GK
+Jorge Resurrección Merodio,Koke,"CM, CDM"
+Sebastián Coates Nión,S. Coates,CB
+Wilfried Zaha,W. Zaha,"LW, CF"
+Luis Fernando Muriel Fruto,L. Muriel,ST
+Anthony Lopes,A. Lopes,GK
+Francesco Acerbi,F. Acerbi,CB
+Steven Berghuis,S. Berghuis,"CAM, RW, CM"
+Lucas Digne,L. Digne,LB
+José Ignacio Fernández Iglesias,Nacho Fernández,"CB, LB"
+Álvaro Borja Morata Martín,Morata,ST
+Gabriel Armando de Abreu,Gabriel Paulista,CB
+Geoffrey Edwin Kondogbia,G. Kondogbia,"CM, CDM, CB"
+Sergi Darder Moll,Sergi Darder,"CM, CAM"
+Leonardo Spinazzola,L. Spinazzola,"LWB, LM"
+Íñigo Martínez Berridi,Iñigo Martínez,CB
+Vilmos Tamás Orban,W. Orban,CB
+Jordan Pickford,J. Pickford,GK
+Sébastien Haller,S. Haller,ST
+Raphaël Adelino José Guerreiro,R. Guerreiro,"LB, LM"
+Ricardo Domingos Barbosa Pereira,Ricardo Pereira,"RB, RWB"
+Otávio Edmilson da Silva Monteiro,Otávio,"RM, LM"
+José Luís Gayà Peña,Gayà,"LB, LWB"
+Vincenzo Grifo,V. Grifo,"LM, CF, CAM"
+Timo Werner,T. Werner,"ST, LW"
+Julian Brandt,J. Brandt,"CAM, RM, CM"
+Anderson Souza Conceição,Anderson Talisca,"CF, ST, CAM"
+Andreas Bødtker Christensen,A. Christensen,CB
+Gerónimo Rulli,G. Rulli,GK
+Giovanni Di Lorenzo,G. Di Lorenzo,RB
+José Ángel Esmoris Tasende,Angeliño,"LWB, LM"
+Manuel Locatelli,M. Locatelli,"CDM, CM"
+Robin Everardus Gosens,R. Gosens,"LWB, LM"
+David Soria Solís,David Soria,GK
+Borja Iglesias Quintás,Borja Iglesias,ST
+Guido Rodríguez,G. Rodríguez,CDM
+André Onana,A. Onana,GK
+Ismaël Bennacer,I. Bennacer,"CDM, CM"
+Alejandro Remiro Gargallo,Álex Remiro,GK
+Christian Pulisic,C. Pulisic,"LW, RW, LM"
+André Miguel Valente da Silva,André Silva,ST
+Ben Chilwell,B. Chilwell,"LWB, LB"
+Lucas Luciano Mantela Patrício,Lucas Mantela,GK
+Josué Durval Chiamulera Vaz,Josué Chiamulera,CB
+Tammy Bakumo-Abraham,T. Abraham,ST
+Denzel Justus Morris Dumfries,D. Dumfries,"RWB, RM"
+Lucas Tolentino Coelho de Lima,Lucas Paquetá,"CAM, CM"
+Aaron Ramsdale,A. Ramsdale,GK
+Arnaut Danjuma Adam Groeneveld,A. Danjuma,"ST, LM"
+Noussair Mazraoui,N. Mazraoui,RB
+Lisandro Martínez,L. Martínez,CB
+Pedro António Pereira Gonçalves,Pedro Gonçalves,"LW, RW, CM"
+Ferran Torres García,Ferran Torres,"LW, ST"
+Mehdi Taremi,M. Taremi,"ST, CF"
+Pedro Antonio Porro Sauceda,Pedro Porro,"RWB, RM"
+Daniel Olmo Carvajal,Dani Olmo,"CAM, CF"
+Joško Gvardiol,J. Gvardiol,"CB, LB"
+Darwin Gabriel Núñez Ribeiro,D. Núñez,"ST, LW"
+Antony Matheus dos Santos,Antony,"RW, RM"
+Florian Richard Wirtz,F. Wirtz,"CAM, CM"
+Kléper Laveran de Lima Ferreira,Pepe,CB
+Łukasz Fabiański,Ł. Fabiański,GK
+Carlos Alberto Vela Garrido,C. Vela,"RW, LW, CAM"
+Jan Bert Lieve Vertonghen,J. Vertonghen,CB
+Simon Luc Hildebert Mignolet,S. Mignolet,GK
+Rui Pedro dos Santos Patrício,Rui Patrício,GK
+Antonio Adán Garrido,Adán,GK
+Éver Maximiliano David Banega,É. Banega,"CM, CDM, CAM"
+Edinson Roberto Cavani Gómez,E. Cavani,ST
+Rafael Tolói,Rafael Tolói,CB
+Oscar dos Santos Emboaba Júnior,Oscar,"CAM, CM, LW"
+Philippe Coutinho Correia,Coutinho,"CAM, LW, CM"
+Lukáš Hrádecký,L. Hrádecký,GK
+Nicolás Hernán Gonzalo Otamendi,N. Otamendi,CB
+Henrikh Mkhitaryan,H. Mkhitaryan,"CAM, CM"
+Alphonse Areola,A. Areola,GK
+Norberto Murara Neto,Neto,GK
+Marc Bartra Aregall,Marc Bartra,CB
+Pablo Sarabia García,Pablo Sarabia,"RW, CAM, LW"
+Danilo Luiz da Silva,Danilo,"RB, CB"
+Granit Xhaka,G. Xhaka,"CDM, CM"
+Kevin Volland,K. Volland,"ST, CAM, CF"
+Gerard Deulofeu Lázaro,Deulofeu,"CF, ST"
+Marcel Sabitzer,M. Sabitzer,"CM, CDM, CAM"
+James Ward-Prowse,J. Ward-Prowse,CM
+Edin Višća,E. Višća,"RM, RW"
+Téji Tedy Savanier,T. Savanier,"CAM, CM"
+Luke Shaw,L. Shaw,LB
+Maximilian Arnold,M. Arnold,"CDM, CM"
+Kepa Arrizabalaga Revuelta,Kepa,GK
+William Silva de Carvalho,William Carvalho,"CDM, CM"
+Lucas Vázquez Iglesias,Lucas Vázquez,"RB, RW"
+Gaëtan Laborde,G. Laborde,ST
+Adrien Rabiot,A. Rabiot,"CM, LM"
+Jonas Hofmann,J. Hofmann,"CAM, RM, LM"
+Alessio Romagnoli,A. Romagnoli,CB
+Nicolás Alejandro Tagliafico,N. Tagliafico,LB
+Mark Flekken,M. Flekken,GK
+Kerem Demirbay,K. Demirbay,"CM, CDM, CAM"
+Odisseas Vlachodimos,O. Vlachodimos,GK
+Robert Andrich,R. Andrich,"CDM, CM"
+José Pedro Malheiro de Sá,José Sá,GK
+João Mário Naval da Costa Eduardo,João Mário,"LM, CM"
+Jonathan Tah,J. Tah,CB
+Ricardo Jorge da Luz Horta,Ricardo Horta,"CAM, CF, ST"
+Andrés Mateus Uribe Villa,M. Uribe,"CM, CDM"
+Benjamin Bourigeaud,B. Bourigeaud,"RW, RM, LM"
+Juan Agustín Musso,J. Musso,GK
+Iñaki Williams Arthuer,Iñaki Williams,ST
+Seko Fofana,S. Fofana,CM
+Andrej Kramarić,A. Kramarić,"CF, CAM"
+Allan Saint-Maximin,A. Saint-Maximin,"LM, LW"
+Matteo Politano,M. Politano,"RW, RM"
+Stanislav Lobotka,S. Lobotka,"CM, CDM"
+Hirving Rodrigo Lozano Bahena,H. Lozano,RW
+Mario Pašalić,M. Pašalić,"CAM, CF, CM"
+Lucas Torreira Di Pascua,L. Torreira,"CDM, CM"
+Kalvin Phillips,K. Phillips,"CDM, CM"
+Gonçalo Manuel Ganchinho Guedes,Gonçalo Guedes,"ST, LW"
+Joe Gomez,J. Gomez,"CB, RB"
+Steven Charles Bergwijn,S. Bergwijn,"LW, RW"
+Aritz Elustondo Irribaria,Aritz Elustondo,"CB, RB"
+Giovani Lo Celso,G. Lo Celso,"CAM, LM, ST"
+Kieran Tierney,K. Tierney,LB
+Benjamin Pavard,B. Pavard,"RB, CB"
+André-Franck Zambo Anguissa,A. Zambo Anguissa,"CDM, CM"
+Rodrigo Bentancur Colmán,R. Bentancur,CM
+Manuel Obafemi Akanji,M. Akanji,CB
+Denis Lemi Zakaria Lako Lado,D. Zakaria,"CDM, CM"
+João Maria Lobo Alves Palhinha Gonçalves,Palhinha,"CDM, CM"
+Gianluca Mancini,G. Mancini,CB
+Juan Heberto Mestres de Mesquita,Heberto Gaúcho,"CB, CDM"
+Adryan Juliano Zonta Torres,Adryan Zonta,"LWB, LB"
+Rosival Jailson Dourado Santos,Rosival Jailson,"CDM, CM, CAM"
+Louri Adriano Bisesi Barbosa,Adriano Bisesi,"ST, CF"
+Welington Kauê Dano Nascimento,Welington Dano,"LB, LM"
+Nailton Suzuki Ito,Nailton Suzuki,"CAM, CF, ST"
+Marvin Oswaldo Rangel Azevedo,Oswaldinato,ST
+Richarlison de Andrade,Richarlison,"ST, LW"
+Ruslan Malinovskyi,R. Malinovskyi,"CF, CAM"
+Gabriel dos Santos Magalhães,Gabriel,CB
+Xaver Schlager,X. Schlager,"CDM, CM"
+Robin Le Normand,R. Le Normand,CB
+Diogo Meireles Costa,Diogo Costa,GK
+Ibrahim Sangaré,I. Sangaré,"CDM, CM"
+Dominik Szoboszlai,D. Szoboszlai,"CAM, LM"
+Martin Terrier,M. Terrier,"LW, LM, ST"
+Antonín Barák,A. Barák,"CF, CM"
+Tomáš Souček,T. Souček,"CDM, CM"
+Ibrahima Konaté,I. Konaté,CB
+Randal Kolo Muani,R. Kolo Muani,"ST, RM"
+Nicolò Zaniolo,N. Zaniolo,"CF, RW, RM"
+Marc Cucurella Saseta,Cucurella,"LB, CB, LWB"
+Dominik Livaković,D. Livaković,GK
+William Alain André Gabriel Saliba,W. Saliba,CB
+Rodrygo Silva de Goes,Rodrygo,"RW, LW, ST"
+Dejan Kulusevski,D. Kulusevski,RW
+Nico Schlotterbeck,N. Schlotterbeck,CB
+Sven Botman,S. Botman,CB
+Jeremie Agyekum Frimpong,J. Frimpong,"RB, RWB, RM"
+Francisco Guillermo Ochoa Magaña,G. Ochoa,GK
+Andrea Consigli,A. Consigli,GK
+Raúl García Escudero,Raúl García,ST
+José Miguel da Rocha Fonte,José Fonte,CB
+Antonio Candreva,A. Candreva,"RM, CM"
+José Luis Sanmartín Mato,Joselu,ST
+David Ospina Ramírez,D. Ospina,GK
+Dimitri Payet,D. Payet,"CAM, LW, CF"
+Etienne Capoue,E. Capoue,"CM, CDM"
+Georginio Gregion Emile Wijnaldum,G. Wijnaldum,"CM, CDM"
+Néstor Fernando Muslera Micol,F. Muslera,GK
+Matteo Darmian,M. Darmian,"RWB, RM"
+Francis Coquelin,F. Coquelin,"CM, LM, CDM"
+Alex Sandro Lobo Silva,Alex Sandro,LB
+Bernd Leno,B. Leno,GK
+Jesús Manuel Corona Ruíz,J. Corona,"RW, LW"
+Thomas Joseph Delaney,T. Delaney,"CDM, CM"
+Andy Delort,A. Delort,ST
+Callum Wilson,C. Wilson,ST
+Jonathan Viera Ramos,Jonathan Viera,"CAM, CM, LM"
+Sergio Roberto Carnicer,Sergi Roberto,"RB, CM"
+Jasper Cillessen,J. Cillessen,GK
+Hans Vanaken,H. Vanaken,"CM, CAM"
+Stefan Ortega Moreno,S. Ortega,GK
+Danilo Luís Hélio Pereira,Danilo Pereira,"CDM, CM, CB"
+Cristiano Biraghi,C. Biraghi,LB
+Remo Marco Freuler,R. Freuler,"CM, CDM"
+Eric Dier,E. Dier,CB
+James Tarkowski,J. Tarkowski,CB
+Harry Maguire,H. Maguire,CB
+Tomáš Vaclík,T. Vaclík,GK
+Edgar Badia Guardiola,Edgar Badia,GK
+Kurt Happy Zouma,K. Zouma,CB
+Arkadiusz Krystian Milik,A. Milik,ST
+Lucas Ariel Ocampos,L. Ocampos,"RW, LW"
+Leandro Trossard,L. Trossard,"LM, ST"
+Leandro Daniel Paredes,L. Paredes,"CM, CDM"
+Felipe Augusto de Almeida Monteiro,Felipe,CB
+Bryan Cristante,B. Cristante,"CDM, CM"
+Emre Can,E. Can,"CM, CB, CDM"
+Saúl Ñíguez Esclápez,Saúl,"CM, LM, LWB"
+Emil Peter Forsberg,E. Forsberg,"CAM, CF"
+Marten Elco de Roon,M. de Roon,"CDM, CM, CB"
+Andrea Belotti,A. Belotti,ST
+Frederico Rodrigues de Paula Santos,Fred,"CM, CDM"
+Christian Günter,C. Günter,"LB, LWB, LM"
+Rui Tiago Dantas da Silva,Rui Silva,GK
+Chancel Mbemba Mangulu,C. Mbemba,CB
+Carles Gil de Pareja Vicent,Carles Gil,"CAM, RM"
+Anthony Martial,A. Martial,"ST, LM"
+Alex Nicolao Telles,Alex Telles,LB
+Walter Daniel Benítez,W. Benítez,GK
+Carlos Joaquín Correa,J. Correa,"CF, ST"
+Ignacio Martín Fernández,I. Fernández,"CM, CAM"
+José Luis Morales Nogales,Morales,"ST, LM"
+Alexandre Moreno Lopera,Álex Moreno,LB
+Mahmoud Dahoud,M. Dahoud,"CM, CDM"
+Jeremías Conan Ledesma,J. Ledesma,GK
+Corentin Tolisso,C. Tolisso,"CM, CDM"
+Hamari Traoré,H. Traoré,RB
+Ante Rebić,A. Rebić,"LW, LM, ST"
+Hans Hateboer,H. Hateboer,"RWB, RB, RM"
+Naby Keïta,N. Keïta,CM
+Pau López Sabata,Pau López,GK
+Lukas Manuel Klostermann,L. Klostermann,"CB, RB"
+Rick Karsdorp,R. Karsdorp,"RWB, RM, RB"
+Ramy Bensebaini,R. Bensebaini,"LB, CB"
+Joan Jordán Moreno,Joan Jordán,"CM, CDM"
+Jarrod Bowen,J. Bowen,RM
+Alejandro Berenguer Remiro,Álex Berenguer,"RM, LM"
+Emiliano Buendía,E. Buendía,"RM, RW, CAM"
+Uğurcan Çakır,U. Çakır,GK
+Gianluca Scamacca,G. Scamacca,ST
+Marko Dmitrović,M. Dmitrović,GK
+Nuno Miguel Gomes dos Santos,Nuno Santos,"LW, LWB, RW"
+Yeray Álvarez López,Yeray,CB
+Marcus Lilian Thuram-Ulien,M. Thuram,"ST, LM"
+Luis Ezequiel Ávila,E. Ávila,"ST, RM"
+Davide Calabria,D. Calabria,RB
+Mario Hermoso Canseco,Mario Hermoso,"CB, LB"
+Mohameth Djibril Ibrahima Sow,D. Sow,"CM, CDM"
+Leon Bailey Butler,L. Bailey,"RW, CF, LM"
+Maikel Renan Catarino Fagundes,Maikel Catarino,"RB, RM"
+Héniton Enaldo Pires Tramontino,Héniton Pires,GK
+Laureano Thomas Santeiro Marre,Laure Santeiro,"CAM, LM, LW"
+Tony Josimar Abranjes Meneses,Tony Abranjes,CB
+Arthur Henrique Ramos de Oliveira Melo,Arthur,"CM, CDM"
+Renato Júnior Luz Sanches,Renato Sanches,"CM, RM"
+Miguel Ángel Almirón Rejala,M. Almirón,"RW, RM"
+Javier Galán Gil,Javi Galán,LB
+Alban Lafont,A. Lafont,GK
+Benjamin White,B. White,"CB, RB"
+Mauro Wilney Arambarri Rosa,M. Arambarri,"CDM, CM"
+Luis Fernando Sinisterra Lucumí,L. Sinisterra,"LM, RM"
+Alexander Isak,A. Isak,ST
+José Diogo Dalot Teixeira,Diogo Dalot,RB
+Harvey Lewis Barnes,H. Barnes,LM
+Florian Christian Neuhaus,F. Neuhaus,CM
+Youssef En-Nesyri,Y. En-Nesyri,ST
+Edson Omar Álvarez Velázquez,E. Álvarez,"CDM, CM"
+Reinildo Isnard Mandava,Reinildo,"LB, CB"
+Obite Evan N'Dicka,E. Ndicka,CB
+Yves Bissouma,Y. Bissouma,"CDM, CM"
+Mattéo Elias Kenzo Guendouzi Olié,M. Guendouzi,"CM, CDM"
+David Neres Campos,David Neres,"RM, RW, CAM"
+David Raum,D. Raum,"LB, LWB, LM"
+Boubacar Bernard Kamara,B. Kamara,"CDM, CM"
+Scott McTominay,S. McTominay,"CDM, CM"
+Nikola Milenković,N. Milenković,CB
+Jonathan Clauss,J. Clauss,RWB
+Matheus Santos Carneiro Da Cunha,Matheus Cunha,"ST, CAM, LM"
+Emile Smith Rowe,E. Smith Rowe,"LM, CAM"
+Teun Koopmeiners,T. Koopmeiners,"CM, CDM"
+Nicolás Iván González,N. González,"RW, LW"
+Orkun Kökçü,O. Kökçü,"CM, CAM"
+Lovro Majer,L. Majer,CM
+Amir Rrahmani,A. Rrahmani,CB
+Viktor Tsygankov,V. Tsygankov,RM
+Nayef Aguerd,N. Aguerd,CB
+Sergio Reguilón Rodríguez,Reguilón,"LWB, LB"
+Youssouf Fofana,Y. Fofana,"CDM, CM"
+Enzo Jeremías Fernández,E. Fernández,"CM, CDM"
+Roger Ibañez Da Silva,Ibañez,CB
+Edmond Fayçal Tapsoba,E. Tapsoba,CB
+Renan Augusto Lodi dos Santos,Renan Lodi,"LWB, LB, LM"
+Jurriën David Norman Timber,J. Timber,"CB, RB"
+Norberto Bercique Gomes Betuncal,Beto,ST
+Nuno Alexandre Tavares Mendes,Nuno Mendes,"LB, LWB"
+Almoatasembellah Ali Mohamed Al musrati,A. Musrati,"CDM, CM"
+Pablo Martín Páez Gavira,Gavi,"CM, LW, RW"
+Joaquín Sánchez Rodríguez,Joaquín,"RM, LM, CAM"
+Diego López Rodríguez,Diego López,GK
+João Filipe Iria Santos Moutinho,João Moutinho,CM
+Steve Mandanda,S. Mandanda,GK
+Jonathan Grant Evans,J. Evans,CB
+Erik Lamela,E. Lamela,"RW, CAM, ST"
+Marek Hamšík,M. Hamšík,"CM, CDM"
+Óscar Guido Trejo,Ó. Trejo,CAM
+Claudio Andrés Bravo Muñoz,C. Bravo,GK
+Axel Laurent Angel Lambert Witsel,A. Witsel,"CDM, CM, CB"
+Javier Hernández Balcázar,J. Hernández,ST
+Alexis Alejandro Sánchez Sánchez,A. Sánchez,ST
+Pedro Eliezer Rodríguez Ledesma,Pedro,"LW, RW"
+Vicente Guaita Panadero,Guaita,GK
+Luuk de Jong,L. de Jong,ST
+Benjamin André,B. André,"CDM, CM"
+Michail Antonio,M. Antonio,ST
+Marco Silvestri,M. Silvestri,GK
+Daley Blind,D. Blind,"LB, CB"
+Nemanja Matić,N. Matić,"CDM, CM"
+Ander Herrera Agüera,Ander Herrera,"CM, CDM"
+Marcos Alonso Mendoza,Marcos Alonso,"LB, CB"
+Roberto Maximiliano Pereyra,R. Pereyra,"CM, RM"
+Nemanja Gudelj,N. Gudelj,"CDM, CB"
+Kevin Kampl,K. Kampl,"CM, CDM"
+Daniel William John Ings,D. Ings,ST
+Juan Miguel Jiménez López,Juanmi,"LM, ST"
+Mattia Perin,M. Perin,GK
+Sérgio Miguel Relvas de Oliveira,Sérgio Oliveira,CM
+João Pedro Geraldino dos Santos Galvão,João Pedro,ST
+Matz Willy Els Sels,M. Sels,GK
+Gernot Trauner,G. Trauner,CB
+Lars Unnerstall,L. Unnerstall,GK
+Lewis Dunk,L. Dunk,CB
+Sebastian Rode,S. Rode,"CDM, CM"
+Lucas Rodrigues Moura da Silva,Lucas Moura,RW
+Agustín Federico Marchesín,A. Marchesín,GK
+Ismaily Gonçalves dos Santos,Ismaily,LB
+Jordan Veretout,J. Veretout,"CDM, CM"
+Felipe Anderson Pereira Gomes,Felipe Anderson,"RW, ST"
+Conor Coady,C. Coady,CB
+Julian Draxler,J. Draxler,"LW, CAM"
+Jesús Joaquín Fernández Sáez de la Torre,Suso,RW
+Alessandro Florenzi,A. Florenzi,RB
+Héctor Bellerín Moruno,Héctor Bellerín,RB
+Alejandro Pozuelo Melero,Pozuelo,"CAM, CF"
+Mário Rui Silva Duarte,Mário Rui,LB
+Raúl Alonso Jiménez Rodríguez,R. Jiménez,ST
+Denis Suárez Fernández,Denis Suárez,CM
+Samuel Yves Umtiti,S. Umtiti,CB
+Alessio Cragno,A. Cragno,GK
+Alassane Alexandre Pléa,A. Plea,"CF, LM"
+Matheus Lima Magalhães,Matheus,GK
+Berat Djimsiti,B. Djimsiti,CB
+Nathan Aké,N. Aké,"CB, LB"
+Fabian Lukas Schär,F. Schär,CB
+Rachid Ghezzal,R. Ghezzal,"RW, RM, CAM"
+Rubén García Santos,Rubén García,"LM, CM, CAM"
+Stole Dimitrievski,S. Dimitrievski,GK
+Moussa Dembélé,M. Dembélé,ST
+Nicolae Claudiu Stanciu,N. Stanciu,"CM, CAM, RM"
+Ivan Toney,I. Toney,ST
+Federico Bernardeschi,F. Bernardeschi,"RM, RW"
+Sardar Azmoun,S. Azmoun,"ST, CAM"
+Franco Armani,F. Armani,GK
+Lucas Manuel Zelarayán,L. Zelarayán,CAM
+Aleksandar Mitrović,A. Mitrović,ST
+Davide Zappacosta,D. Zappacosta,"LWB, LM, RM"
+Ludovic Ajorque,L. Ajorque,ST
+Munir El Haddadi Mohamed,Munir,"LM, RM, LW"
+Martin Dúbravka,M. Dúbravka,GK
+Mattia Zaccagni,M. Zaccagni,LW
+Renato Fabrizio Tapia Cortijo,R. Tapia,"CDM, CM"
+Davinson Sánchez Mina,D. Sánchez,CB
+Dominic Calvert-Lewin,D. Calvert-Lewin,ST
+Victor Jörgen Nilsson Lindelöf,V. Lindelöf,CB
+Julian Weigl,J. Weigl,"CM, CDM"
+Enes Ünal,E. Ünal,ST
+Jonas Omlin,J. Omlin,GK
+Wout Weghorst,W. Weghorst,ST
+Adam Marušić,A. Marušić,"LB, RB"
+Alex Meret,A. Meret,GK
+Ellyes Joris Skhiri,E. Skhiri,"CDM, CM"
+David García Zubiría,David García,CB
+Aleksandr Golovin,A. Golovin,"LM, RM, CAM"
+Nicolas Pépé,N. Pépé,"RM, LM, LW"
+Nordi Mukiele Mulere,N. Mukiele,"RWB, CB"
+Federico Dimarco,F. Dimarco,"LWB, LM, CB"
+Pablo Fornals Malla,Pablo Fornals,"LM, CAM"
+Matty Cash,M. Cash,"RB, RWB"
+Agustín Daniel Rossi,A. Rossi,GK
+Ezri Konsa Ngoyo,E. Konsa,CB
+Oleksandr Zinchenko,O. Zinchenko,LB
+Stefano Sensi,S. Sensi,"CM, CAM"
+Aaron Wan-Bissaka,A. Wan-Bissaka,RB
+Emelvin William Anjos Rochedo,Emelvinson,GK
+Ronaldo Diego Essler Domingues,Diego Essler,"LB, LM"
+Adnan Claudiano Vidual Machado,Adnan Vidual,RB
+Everton Jorge Andrade Zanon,Jorge Andrão,"CDM, CM"
+Melvin Luan Parrela Porfírio,Melvin Parrela,CDM
+Bernard Gabriel Prestão Chaves,Gabri Prestão,GK
+Luan Vágner Boas Macedo,Luimo Boas Santos,ST
+Matheus Reis de Lima,Matheus Reis,"CB, LB, LWB"
+Ludovic Blas,L. Blas,"CAM, RM, ST"
+Gonzalo Ariel Montiel,G. Montiel,"RB, RWB"
+Exequiel Alejandro Palacios,E. Palacios,"CM, CDM, CAM"
+Rafael Mir Vicente,Rafa Mir,ST
+Luka Jović,L. Jović,ST
+遠藤 航,W. Endo,"CM, CDM"
+Isaac Palazón Camacho,Isi Palazón,RM
+冨安 健洋,T. Tomiyasu,RB
+Nahuel Molina Lucero,N. Molina,"RM, RWB, RB"
+Ernesto Alexis Vega Rojas,A. Vega,"LW, ST, LM"
+Dean Henderson,D. Henderson,GK
+Marcos do Nascimento Teixeira,Marcão,CB
+Emanuel Reynoso,E. Reynoso,"CAM, LM"
+Josip Brekalo,J. Brekalo,"CF, LM"
+Manuel Lazzari,M. Lazzari,RB
+Salih Özcan,S. Özcan,"CDM, CM"
+Tanguy Ndombèlé Alvaro,T. Ndombele,"CM, CDM, CAM"
+Marcus Edwards,M. Edwards,"RW, LW, ST"
+Brais Méndez Portela,Brais Méndez,"RM, CM"
+Francisco José Beltrán Peinado,Fran Beltrán,"CDM, CM"
+Luiz Felipe Ramos Marchi,Luiz Felipe,CB
+김민재 金敏在,Kim Min Jae,CB
+Juan Marcos Foyth,J. Foyth,"RB, CB, CDM"
+Pervis Josué Estupiñán Tenorio,P. Estupiñán,"LB, LWB"
+Tyrell Malacia,T. Malacia,LB
+Weston James Earl McKennie,W. McKennie,"CM, LM, RM"
+Eduardo Gabriel Aquino Cossa,Pepê,"LM, RB"
+Nemanja Maksimović,N. Maksimović,"CM, CDM"
+Guglielmo Vicario,G. Vicario,GK
+Ridle Bote Baku,R. Baku,"RB, RM"
+Amine Gouiri,A. Gouiri,"ST, LM"
+Unai Núñez Gestoso,Unai Núñez,CB
+Anthony Nuatuzor Nwakaeme,A. Nwakaeme,LM
+Luis Milla Manzanares,Luis Milla,"CM, CDM"
+Borna Sosa,B. Sosa,"LB, LM, LWB"
+Jonathan Christian David,J. David,ST
+Mohamed Simakan,M. Simakan,"CB, RB"
+Vladimír Coufal,V. Coufal,RB
+Jean-Clair Dimitri Roger Todibo,J. Todibo,CB
+Ryan Jiro Gravenberch,R. Gravenberch,CM
+Samuel Chimerenka Chukwueze,S. Chukwueze,"RM, RW"
+Julián Álvarez,J. Álvarez,"ST, RW, LW"
+Boulaye Dia,B. Dia,"ST, RW"
+Khvicha Kvaratskhelia,K. Kvaratskhelia,"LW, CAM"
+Martín Zubimendi Ibáñez,Zubimendi,"CM, CDM"
+Eduardo Celmi Camavinga,E. Camavinga,"CM, CDM"
+Wesley Fofana,W. Fofana,CB
+Gabriel Teodoro Martinelli Silva,Gabriel Martinelli,"LM, LW"
+Giacomo Raspadori,G. Raspadori,"CF, CAM, ST"
+Anssumane Fati,Ansu Fati,LW
+Matheus Luiz Nunes,Matheus Nunes,CM
+Vítor Machado Ferreira,Vitinha,"CM, CAM"
+Gonçalo Bernardo Inácio,Gonçalo Inácio,CB
+Yeremy Jesús Pino Santos,Yeremy Pino,"RM, ST, LM"
+Gianluigi Buffon,G. Buffon,GK
+Alfredo Talavera Díaz,A. Talavera,GK
+Héctor Miguel Herrera López,H. Herrera,"CM, CDM"
+Dante Bonfim da Costa Santos,Dante,CB
+Daniel Wass,D. Wass,"CM, RB"
+Jean-Eric Maxim Choupo-Moting,E. Choupo-Moting,"ST, CAM"
+Angelo Obinze Ogbonna,A. Ogbonna,CB
+Jérôme Boateng,J. Boateng,CB
+Lars Edi Stindl,L. Stindl,CAM
+Manuel Lanzini,M. Lanzini,"CAM, LM"
+Giacomo Bonaventura,G. Bonaventura,CM
+Aaron Cresswell,A. Cresswell,"LB, CB"
+Óscar de Marcos Arana,De Marcos,RB
+Marwin Hitz,M. Hitz,GK
+Pascal Groß,P. Groß,"CM, CF"
+Christopher Trimmel,C. Trimmel,"RWB, RM, RB"
+Rafał Gikiewicz,R. Gikiewicz,GK
+Craig Dawson,C. Dawson,CB
+Dejan Lovren,D. Lovren,CB
+Willian José da Silva,Willian José,ST
+James Henry Tavernier,J. Tavernier,RB
+Enzo Nicolás Pérez,E. Pérez,"CDM, CM"
+Marcelo Nicolás Lodeiro Benítez,N. Lodeiro,"CAM, CM"
+Grzegorz Krychowiak,G. Krychowiak,"CDM, CM"
+Serge Alain Stéphane Aurier,S. Aurier,"RB, RWB"
+Dan Burn,D. Burn,"CB, LB"
+Rodrigo Moreno Machado,Rodrigo,"ST, CAM"
+Danilo D'Ambrosio,D. D'Ambrosio,CB
+Mathew David Ryan,M. Ryan,GK
+Charles Mariano Aránguiz Sandoval,C. Aránguiz,"CDM, CM"
+Manuel Riemann,M. Riemann,GK
+Oriol Romeu Vidal,Oriol Romeu,"CDM, CM"
+Dennis Praet,D. Praet,"CAM, CF, CM"
+Mauro Emanuel Icardi Rivero,M. Icardi,ST
+David López Silva,David López,"CB, CDM"
+Faustino Marcos Alberto Rojo,M. Rojo,CB
+Fernando Lucas Martins,Fernando,"CDM, CM"
+Gianluca Caprari,G. Caprari,CF
+Karim Bellarabi,K. Bellarabi,"RM, RW"
+Davy Klaassen,D. Klaassen,"CAM, CM"
+Thorgan Ganael Francis Hazard,T. Hazard,"LM, CF"
+Christoph Kramer,C. Kramer,CDM
+Raúl Mario Ruidíaz Misitich,R. Ruidíaz,ST
+Juan Bernat Velasco,Juan Bernat,LB
+Cristian Portugués Manzanera,Portu,"RM, LM"
+Niclas Füllkrug,N. Füllkrug,ST
+Pietro Terracciano,P. Terracciano,GK
+Benjamin Thomas Davies,B. Davies,CB
+Taras Stepanenko,T. Stepanenko,CDM
+Patrick Bamford,P. Bamford,ST
+Manuel Trigueros Muñoz,Manu Trigueros,"CM, LM, RM"
+Moisés Gómez Bordonado,Moi Gómez,"LM, CM, RM"
+Michael Keane,M. Keane,CB
+Josef Alexander Martínez Mencia,J. Martínez,ST
+Joël Ivo Veltman,J. Veltman,"CB, RB"
+Abdoulaye Doucouré,A. Doucouré,"CM, CDM"
+Romain Saïss,R. Saïss,"CB, CDM"
+Adnan Januzaj,A. Januzaj,"RW, LW"
+Jonas Hector,J. Hector,"LB, CDM"
+Óliver Torres Muñoz,Óliver Torres,"CM, LW, CAM"
+Salem Mohammed Al-Dawsari,S. Al Dawsari,"LW, RW"
+John McGinn,J. McGinn,"CM, CDM"
+Gilberto Moraes Júnior,Gilberto,RB
+Iuri José Picanço Medeiros,Iuri Medeiros,"CAM, CF, RM"
+Paul Ebere Onuachu,P. Onuachu,ST
+Tyrone Mings,T. Mings,CB
+Gnaly Maxwel Cornet,M. Cornet,"LM, CF"
+João Paulo Dias Fernandes,Paulinho,ST
+Giovanni Pablo Simeone,G. Simeone,ST
+José Luis Palomino,J. Palomino,CB
+Djené Dakonam Ortega,D. Djené,CB
+Guillermo Alfonso Maripán Loaysa,G. Maripán,CB
+Clément Nicolas Laurent Lenglet,C. Lenglet,CB
+Mohamed Saïd Benrahma,S. Benrahma,"LM, CAM"
+Sebastián Driussi,S. Driussi,"CAM, ST"
+Mislav Oršić,M. Oršić,"LW, LM, ST"
+Pablo Carmine Maffeo Becerra,Pablo Maffeo,"RWB, RB"
+Donny van de Beek,D. van de Beek,"CM, CAM, CDM"
+Nico Elvedi,N. Elvedi,CB
+Jindřich Staněk,J. Staněk,GK
+Breel-Donald Embolo,B. Embolo,ST
+Luis Gerardo Chávez Magallón,L. Chávez,"CM, CDM"
+Timothy Castagne,T. Castagne,"RB, RWB"
+Franco Emanuel Cervi,F. Cervi,"LM, RM"
+Gabriel Arias Arroyo,G. Arias,GK
+Sergio Ramón Rochet Álvarez,S. Rochet,GK
+Sheraldo Becker,S. Becker,"ST, RM"
+Valentin Rongier,V. Rongier,"CM, CDM"
+Alexander Nübel,A. Nübel,GK
+Sergio Herrera Pirón,Sergio Herrera,GK
+Maxime Lopez,M. Lopez,"CM, CDM"
+Marvin Schwäbe,M. Schwäbe,GK
+Henry Josué Martín Mex,H. Martín,ST
+Joachim Andersen,J. Andersen,CB
+Ivan Provedel,I. Provedel,GK
+Duje Ćaleta-Car,D. Ćaleta-Car,CB
+Abdou Diallo,A. Diallo,"CB, LB"
+Moussa Niakhaté,M. Niakhaté,CB
+Kyle Walker-Peters,K. Walker-Peters,"RB, LB"
+Nélson Cabral Semedo,Nélson Semedo,"RB, RWB"
+Alfonso Pedraza Sag,Pedraza,"LB, LM"
+Florian Grillitsch,F. Grillitsch,"CDM, CB, CM"
+Emil Audero Mulyadi,E. Audero,GK
+Robert Lynch Sánchez,Robert Sánchez,GK
+Axel Arthur Disasi,A. Disasi,CB
+César Jasib Montes Castro,C. Montes,CB
+Joseph Aidoo,J. Aidoo,CB
+Lukas Nmecha,L. Nmecha,ST
+Gérson Adriano Gutierres Serra,Gerson Armão,"LB, LWB, LM"
+Wellingt. Edson Sabrão Rolim,Wellington Sabrão,"RB, LB"
+A. Zervandro Chiamuloira Paes,Zervandro,"CB, LB"
+Pedro Tofico Dourado Hermes,Pedrão Tofico,CB
+Hediselton Simão Resende,Hediselton,"RB, RM, CM"
+Alberto Marcelo Dutra Cirino,Albertinho Dutra,"LW, LM"
+G. Pierre Paiva Souza,Guilson Paiva,"RM, RW"
+Arturo Adolfo Inálcio Dutra,Arturo Inálcio,"CM, CAM"
+Fred Claudinei Tófoli Vilela,Fredditinho,ST
+Jason Bardeira Cunha,Jason Bardeira,ST
+Jonathan Prazeres Conradi,Jonatão Praz,LW
+Ademola Lookman,A. Lookman,"LM, RM"
+Philipp Lienhart,P. Lienhart,CB
+Brahim Abdelkader Díaz,Brahim,CAM
+Donyell Malen,D. Malen,"ST, LM"
+Karl Jesper Karlsson,J. Karlsson,LW
+Fredrik Aursnes,F. Aursnes,"CM, CDM"
+Çağlar Söyüncü,Ç. Söyüncü,CB
+Justin Bijlow,J. Bijlow,GK
+Caio Henrique Oliveira Silva,Caio Henrique,"LB, LWB"
+堂安 律,R. Doan,"RM, CAM"
+伊东 纯也,J. Ito,"RW, CF"
+Tyler Shaan Adams,T. Adams,"CDM, CM"
+Igor Zubeldía Elorza,Zubeldia,CB
+Sebastián Villa Cano,S. Villa,"LW, RW"
+Álvaro Odriozola Arzalluz,Odriozola,RB
+Luiz de Araujo Guimarães Neto,Luiz Araújo,"RM, LM, CAM"
+Florentino Ibrain Morris Luís,Florentino,"CDM, CM"
+Houssem Aouar,H. Aouar,"CAM, LM, CM"
+Wout Felix Lina Faes,W. Faes,CB
+Lucas Veríssimo da Silva,Lucas Veríssimo,CB
+Cengiz Ünder,C. Ünder,"RW, RM"
+Douglas Luiz Soares de Paulo,Douglas Luiz,"CDM, CM"
+Owen Wijndal,O. Wijndal,LB
+Jiří Pavlenka,J. Pavlenka,GK
+Moise Bioty Kean,M. Kean,"ST, LW"
+Conor Gallagher,C. Gallagher,CM
+Amadou Haïdara,A. Haidara,"CM, CDM, RM"
+Pedro Lomba Neto,Pedro Neto,"LW, RW, ST"
+Maximiliano Gómez González,M. Gómez,ST
+Wenderson Rodrigues do Nascimento Galeno,Galeno,LM
+Matteo Pessina,M. Pessina,"CAM, CM, CF"
+Davide Frattesi,D. Frattesi,"CM, CDM"
+Alexis Mac Allister,A. Mac Allister,"CM, CAM"
+Saša Kalajdžić,S. Kalajdžić,ST
+Diego Nicolás De La Cruz Arcosa,N. De la Cruz,"CM, LM, CAM"
+Callum Hudson-Odoi,C. Hudson-Odoi,"LM, CAM, RM"
+Junior Walter Messias,Junior Messias,"RW, RM"
+Nikola Vlašić,N. Vlašić,"CF, LM, CAM"
+Addji Keaninkin Marc-Israel Guéhi,M. Guéhi,CB
+Eljif Elmas,E. Elmas,"CAM, CM, LW"
+Predrag Rajković,P. Rajković,GK
+Konstantinos Mavropanos,K. Mavropanos,"CB, RB"
+守田 英正,H. Morita,"CM, CDM"
+Christoph Baumgartner,C. Baumgartner,"CAM, CM, ST"
+Cheick Oumar Doucouré,C. Doucouré,"CDM, CM"
+Alexis Jesse Saelemaekers,A. Saelemaekers,"RW, RM"
+Altay Bayındır,A. Bayındır,GK
+Luís Manuel Arantes Maximiano,Luís Maximiano,GK
+Sofiane Diop,S. Diop,"LM, RM, CF"
+Alexander Hartmann Bah,A. Bah,"RB, RM"
+Maxence Caqueret,M. Caqueret,"CM, CDM"
+Dávid Hancko,D. Hancko,"CB, LB"
+Luis Alfonso Espino García,A. Espino,LB
+Khéphren Thuram-Ulien,K. Thuram,"CM, CDM"
+Edgar González Estrada,Edgar,"CB, CDM"
+Tomáš Holeš,T. Holeš,"CDM, CB"
+Charles De Ketelaere,C. De Ketelaere,"ST, LW"
+Joey Veerman,J. Veerman,"CM, CDM, CAM"
+Manuel Ugarte Ribeiro,M. Ugarte,"CM, CDM"
+Pierre Kazeye Rommel Kalulu Kyatengwa,P. Kalulu,"CB, RB"
+Piero Martín Hincapié Reyna,P. Hincapié,"LB, CB"
+Francisco Evanilson de Lima Barbosa,Evanilson,ST
+Gonçalo Matias Ramos,Gonçalo Ramos,ST
+Giorgi Mamardashvili,G. Mamardashvili,GK
+José Manuel Reina Páez,Pepe Reina,GK
+James Philip Milner,J. Milner,"CM, RB"
+Luís Carlos Almeida da Cunha,Nani,"LM, RM"
+Álvaro Negredo Sánchez,Negredo,ST
+Remko Pasveer,R. Pasveer,GK
+Salvatore Sirigu,S. Sirigu,GK
+José Andrés Guardado Hernández,A. Guardado,CDM
+Héctor Alfredo Moreno Herrera,H. Moreno,CB
+Kévin Gameiro,K. Gameiro,ST
+Mesut Özil,M. Özil,"CAM, RM"
+Sergio Asenjo Andrés,Sergio Asenjo,GK
+Anthony Modeste,A. Modeste,ST
+Maximiliano Nicol Moralez,M. Moralez,"CAM, CM"
+Odion Jude Ighalo,O. Ighalo,ST
+Cristhian Ricardo Stuani Curbelo,C. Stuani,ST
+Mario Barwuah Balotelli,M. Balotelli,ST
+Cheikhou Kouyaté,C. Kouyaté,"CDM, CB, CM"
+Matías Ezequiel Suárez,M. Suárez,"ST, LW"
+Gustavo Leonardo Bou,G. Bou,"ST, CF"
+Fidel Chaves de la Torre,Fidel,"LM, CM"
+Ben Mee,B. Mee,CB
+Asier Illarramendi Andonegi,Illarramendi,"CM, CDM"
+Stephan El Shaarawy,S. El Shaarawy,"LW, LM"
+Mats Rits,M. Rits,"CDM, CM"
+Mario Gaspar Pérez Martínez,Mario Gaspar,RB
+Luis Miguel Rodríguez,L. Rodríguez,"ST, CF, CAM"
+Martin Braithwaite Christensen,M. Braithwaite,"LW, LM, ST"
+Aitor Fernández Abarisketa,Aitor,GK
+Roberto Soriano,R. Soriano,"CAM, CM, CF"
+Víctor Ruíz Torre,Víctor Ruiz,CB
+Germán Alejandro Pezzella,G. Pezzella,CB
+Hugo Mallo Novegil,Hugo Mallo,RB
+Marco Davide Faraoni,M. Faraoni,"RWB, RM"
+Florian Lejeune,F. Lejeune,CB
+Jonas Svensson,J. Svensson,RB
+Alex Oxlade-Chamberlain,A. Oxlade-Chamberlain,CM
+Michael Gregoritsch,M. Gregoritsch,ST
+José Ángel Gómez Campaña,Campaña,"CM, LM, RM"
+Cristian Tello Herrera,Cristian Tello,"LM, RM"
+Frederik Riis Rønnow,F. Rønnow,GK
+Matthew James Doherty,M. Doherty,"RWB, RB"
+Diego Demme,D. Demme,"CDM, CM"
+Thomas Meunier,T. Meunier,"RB, RM"
+Igor Caique Coronado,Igor Coronado,"CAM, CM, LM"
+Willy-Arnaud Zobo Boly,W. Boly,CB
+Robin Knoche,R. Knoche,CB
+André Martín Carrillo Díaz,A. Carrillo,"CAM, RW, CM"
+Pavel Kadeřábek,P. Kadeřábek,"RWB, RB, RM"
+Damián Nicolás Suárez Suárez,D. Suárez,"RWB, RB"
+John Anthony Brooks,J. Brooks,CB
+Michy Batshuayi Tunga,M. Batshuayi,ST
+Karim Rekik,K. Rekik,"CB, LB"
+Alberto Moreno Pérez,Alberto Moreno,"LB, LM"
+Marko Livaja,M. Livaja,"CF, ST, LW"
+Jordan Ferri,J. Ferri,"CDM, CM"
+Jesse Lingard,J. Lingard,CAM
+Yussuf Yurary Poulsen,Y. Poulsen,ST
+Willian Souza Arão da Silva,Willian Arão,"CDM, CM"
+Anastasios Bakasetas,A. Bakasetas,"CAM, CM"
+Clinton Mukoni Mata Pedro Lourenço,Clinton Mata,"CB, RB"
+Romário Ricardo da Silva,Romarinho,"CF, CAM, ST"
+Fernando Pacheco Flores,Pacheco,GK
+Hany Mukhtar,H. Mukhtar,"CF, ST, CAM"
+Ahmed Elsayed Ali Elsayed Hegazy,A. Hegazi,CB
+Marcel Halstenberg,M. Halstenberg,"CB, LB"
+Emerson Palmieri dos Santos,Emerson,LB
+Callum William McGregor,C. McGregor,"CDM, CM"
+Pierluigi Gollini,P. Gollini,GK
+Thomas Strakosha,T. Strakosha,GK
+Philipp Martin Max,P. Max,LB
+Dominik Kohr,D. Kohr,"CDM, CM"
+Yannick Gerhardt,Y. Gerhardt,CM
+Hans Carl Ludwig Augustinsson,L. Augustinsson,"LB, LM, LWB"
+Flavien Tait,F. Tait,CM
+Ruben Loftus-Cheek,R. Loftus-Cheek,"CM, CDM, RM"
+Fábio Rafael Rodrigues Cardoso,Fábio Cardoso,CB
+Adama Traoré Diarra,Adama Traoré,"RW, LW, ST"
+Gustavo Leonardo Cuéllar Gallego,G. Cuéllar,CDM
+Johan Andrés Mojica Palacio,J. Mojica,"LB, LWB, LM"
+Frank Yusty Fabra Palacios,F. Fabra,LB
+Aleksey Miranchuk,A. Miranchuk,"CF, CAM"
+Darío Ismael Benedetto,D. Benedetto,ST
+Milton Casco,M. Casco,"LB, RB"
+Leonardo Germán Sigali,L. Sigali,CB
+Emiliano Ariel Rigoni,E. Rigoni,"RM, ST, LM"
+Youssouf Sabaly,Y. Sabaly,"RB, RM"
+Ihlas Bebou,I. Bebou,"ST, RM, RW"
+Danilo Teodoro Soares,Danilo,LB
+Álvaro García Rivera,Álvaro García,LM
+Moses Daddy-Ajala Simon,M. Simon,"LM, ST, LW"
+Andre Jason Blake,A. Blake,GK
+Nuno Miguel Ribeiro Cruz Jerónimo Sequeira,Sequeira,"LB, CB"
+Matt Targett,M. Targett,LB
+Matías Vecino Falero,M. Vecino,"CM, CDM"
+Enner Remberto Valencia Lastra,E. Valencia,"ST, LW, RW"
+Yerry Fernando Mina González,Y. Mina,CB
+Demarai Gray,D. Gray,"LM, LW, CAM"
+Franck Honorat,F. Honorat,"LM, RM, LW"
+Rafael Santos Borré Maury,R. Borré,ST
+David Raya Martin,David Raya,GK
+Ollie Watkins,O. Watkins,"ST, LW"
+Marvin Friedrich,M. Friedrich,CB
+Daniel Ceballos Fernández,Dani Ceballos,"CM, CDM"
+Joelinton Cassio Apolinário de Lira,Joelinton,"CM, LW"
+Ruben Aguilar,R. Aguilar,RB
+Vedat Muriqi,V. Muriqi,ST
+Karl Brillant Toko Ekambi,K. Toko Ekambi,"LW, LM"
+Jérémie Boga,J. Boga,"LW, CF, LM"
+Marius Wolf,M. Wolf,"RM, RB"
+Gaetano Castrovilli,G. Castrovilli,CM
+Jean Butez,J. Butez,GK
+Habibou Mouhamadou Diallo,H. Diallo,ST
+Nadiem Amiri,N. Amiri,"CAM, CM"
+İrfan Can Kahveci,İ. Kahveci,"CAM, CM, RM"
+Eric Bertrand Bailly,E. Bailly,CB
+Kelechi Promise Iheanacho,K. Iheanacho,ST
+Stephy Alvaro Mavididi,S. Mavididi,"LM, ST"
+Ben Godfrey,B. Godfrey,"CB, LB"
+Olivier Maxime Boscagli,O. Boscagli,"CB, LB, CDM"
+황희찬 黄喜灿,Hwang Hee Chan,"LW, ST"
+Andrei Girotto,Andrei Girotto,"CB, CDM"
+Daniel Castelo Podence,Daniel Podence,"LW, ST, CAM"
+Gelson Dany Batalha Martins,Gelson Martins,"RM, LM"
+Lucas Simon Pierre Tousart,L. Tousart,"CDM, CM"
+Rob Holding,R. Holding,CB
+Benjamin Henrichs,B. Henrichs,"RB, RM, CM"
+Kasper Dolberg Rasmussen,K. Dolberg,ST
+Levi Samuel Garcia,L. García,"RW, ST"
+Rade Krunić,R. Krunić,"CM, CAM"
+Eduardo Expósito Jaén,Edu Expósito,"CAM, CM, CDM"
+Suat Serdar,S. Serdar,"CM, CDM, CAM"
+Alessandro L. Baia Marques,Leander Baia,"RB, RM"
+Enzo Leandro Chissano Baia,Enzo Chissano,"LB, RB, CB"
+Claudio Nuno Coíntra Calegari,Claudio Coíntra,"CAM, CF"
+Wagner Mauro Laranjo Coelho,Wagner Laranjo,"CDM, CM"
+Andeson Jaime Trigo Gonçalves,Andeson Trigo,"LB, LM, CAM"
+Jadson José Meireles Correia,Jadsinho Mei,"CDM, CM"
+Rodrigo Éder Vuarte Ruiz,Rodrigo Vuarte,CDM
+Victorio Martin Maia Padilha Jabim,Victorio Jabim,"RB, RM"
+Danilo Manuel Vieira Espíndola,Vieirundinho,CB
+Murildo Kauê Cadete Teixeira,Murildo Kauê,LM
+Sidney Adrián Pessoa Vidigal,Sidney Pessinho,"CDM, CM"
+Taiwo Michael Awoniyi,T. Awoniyi,ST
+Niklas Bernd Dorsch,N. Dorsch,"CDM, CM"
+Dodi Lukébakio,D. Lukébakio,"RM, ST"
+Umar Sadiq Mesbah,U. Sadiq,ST
+Issa Diop,I. Diop,CB
+Simon Bokoté Banza,S. Banza,ST
+Jack Harrison,J. Harrison,"LM, RM"
+Amine Harit,A. Harit,"LM, CAM"
+Konstantinos Tsimikas,K. Tsimikas,LB
+Matthew Charles Turner,M. Turner,GK
+Rasmus Nissen Kristensen,R. Kristensen,RB
+Gedson Carvalho Fernandes,Gedson Fernandes,CM
+Nanitamo Jonathan Ikoné,J. Ikoné,"RW, RM"
+Valentin André Henri Rosier,V. Rosier,"RB, RWB"
+Domingos Sousa Coutinho Meneses Duarte,Domingos Duarte,"CB, LB"
+Ismaïla Sarr,I. Sarr,"RM, RW"
+Ghislain Konan,G. Konan,"LB, LWB"
+Eberechi Eze,E. Eze,"CAM, CM, LM"
+Marc Roca Junqué,Marc Roca,"CDM, CM"
+Giulio Maggiore,G. Maggiore,"CM, CDM"
+Marcos Nicolás Senesi Barón,M. Senesi,CB
+Saša Lukić,S. Lukić,CM
+Valentín Mariano José Castellanos Giménez,V. Castellanos,ST
+Merih Demiral,M. Demiral,CB
+Noa Noëll Lang,N. Lang,"LW, RW, ST"
+Mathías Olivera Miramontes,M. Olivera,"LB, LWB"
+Hamed Junior Traorè,H. Traorè,"LM, LW, CAM"
+Oliver Skipp,O. Skipp,"CDM, CM"
+Andoni Gorosabel Espinosa,Gorosabel,RB
+Lutsharel Geertruida,L. Geertruida,"RB, CB, CM"
+Patson Daka,P. Daka,ST
+Musa Barrow,M. Barrow,"CF, ST, LW"
+Stephen Antunes Eustáquio,Stephen Eustáquio,"CDM, CM"
+Romain Faivre,R. Faivre,"RM, CM, CAM"
+Benoît Badiashile Mukinayi,B. Badiashile,CB
+Illan Meslier,I. Meslier,GK
+Mykola Shaparenko,M. Shaparenko,"CM, CAM"
+Oihan Sancet Tirapu,Sancet,"CM, CAM, ST"
+Mohamed Salisu Abdul Karim,M. Salisu,CB
+Mohammed Kudus,M. Kudus,"CAM, CM, CF"
+Jordan Teze,J. Teze,"CB, RB"
+Giovanni Alejandro Reyna,G. Reyna,"LM, CAM, RM"
+Jesper Grænge Lindstrøm,J. Lindstrøm,"CAM, CF, RM"
+Adrià Giner Pedrosa,Adrià Pedrosa,LB
+Arthur Mendonça Cabral,Arthur Cabral,ST
+Mohamed Camara,M. Camara,"CDM, CM"
+Gonzalo Jordy Plata Jiménez,G. Plata,"RM, RW"
+Lucas Silva Melo,Tuta,CB
+Emerson Aparecido Leite de Souza Junior,Emerson Royal,"RWB, RB"
+Mateus Cardoso Lemos Martins,Tetê,"RW, RM"
+Michael Olise,M. Olise,"RW, CAM, RM"
+Daniel Vivian Moreno,Vivian,CB
+Emmanuel Kouadio Koné,K. Koné,CM
+David Mota Veiga Teixeira Carmo,David Carmo,CB
+Sergiño Gianni Dest,S. Dest,"RB, RM, LB"
+Brian Ebenezer Adjei Brobbey,B. Brobbey,ST
+Chukwunonso Tristan Madueke,N. Madueke,RW
+Nicolò Rovella,N. Rovella,"CM, CDM"
+Josip Šutalo,J. Šutalo,CB
+Fábio Daniel Ferreira Vieira,Fábio Vieira,"CAM, RM"
+Vinicius de Souza Costa,Vinicius Souza,"CDM, CM"
+Burak Yılmaz,B. Yılmaz,ST
+Ashley Young,A. Young,"LB, RB, LM"
+Lucas Rodrigo Biglia,L. Biglia,"CDM, CM"
+Fabio Quagliarella,F. Quagliarella,ST
+Radamel Falcao García Zárate,Falcao,ST
+Fraser Forster,F. Forster,GK
+Sergio Germán Romero,S. Romero,GK
+Diego da Silva Costa,Diego Costa,ST
+Willian Borges da Silva,Willian,"RM, RW, LM"
+Stevan Jovetić,S. Jovetić,"ST, CAM"
+Sidnei Rechel da Silva Júnior,Sidnei,CB
+Diego Roberto Godín Leal,D. Godín,CB
+Max-Alain Gradel,M. Gradel,"LM, LW"
+Moussa Sissoko,M. Sissoko,"CDM, CM"
+Ömer Toprak,Ö. Toprak,CB
+Gaël Kakuta,G. Kakuta,"CAM, CM, ST"
+Aaron James Ramsey,A. Ramsey,"CM, CAM"
+Mauricio Aníbal Isla Isla,M. Isla,RB
+Ante Budimir,A. Budimir,ST
+Francesco Caputo,F. Caputo,ST
+Jonjo Shelvey,J. Shelvey,"CM, CDM"
+Aridane Hernández Umpiérrez,Aridane,CB
+Łukasz Skorupski,Ł. Skorupski,GK
+Rubén Salvador Pérez del Mármol,Rubén Pérez,"CDM, CM"
+Kevin Vogt,K. Vogt,"CB, CDM"
+Maxime Gonalons,M. Gonalons,"CDM, CM"
+Jaume Vicent Costa Jordá,Jaume Costa,"LWB, LB"
+Xherdan Shaqiri,X. Shaqiri,"CAM, RM"
+Rémy Cabella,R. Cabella,CAM
+Andros Townsend,A. Townsend,RM
+Florian Kainz,F. Kainz,"LM, RM"
+Daniel José Rodríguez Vázquez,Dani Rodríguez,"LM, CAM, RM"
+Fredrik Midtsjø,F. Midtsjø,"CM, CDM"
+Alejandro Fernández Iglesias,Álex Fernández,"CAM, CM"
+Nicolas Pallois,N. Pallois,CB
+Jordy Clasie,J. Clasie,"CDM, CM"
+Nicolas Höfler,N. Höfler,"CDM, CM"
+Magomed Ozdoev,M. Ozdoev,"CDM, CM"
+Marco Bizot,M. Bizot,GK
+Mark Uth,M. Uth,"CAM, ST"
+Juan Guilherme Nunes Jesus,Juan Jesus,CB
+Jeffrey Schlupp,J. Schlupp,"LM, CM"
+Riccardo Saponara,R. Saponara,LW
+Aïssa Mandi,A. Mandi,"CB, RB"
+Rasmus Falk Jensen,R. Falk,CM
+Anton Ciprian Tătărușanu,C. Tătărușanu,GK
+Alfred Benjamin Gomis,A. Gomis,GK
+Jasmin Kurtić,J. Kurtić,CM
+Stuart Armstrong,S. Armstrong,"RM, CM"
+Tonny Emilio Trindade de Vilhena,T. Vilhena,"LM, CM"
+Roque Mesa Quevedo,Roque Mesa,"CM, CDM"
+Hendrik Van Crombrugge,H. Van Crombrugge,GK
+Luís Carlos Novo Neto,Luís Neto,CB
+Koray Günter,K. Günter,CB
+Paulo Dino Gazzaniga,P. Gazzaniga,GK
+Milan Borjan,M. Borjan,GK
+Fernando Martínez Rubio,Fernando,GK
+Leonardo Carrilho Baptistão,Léo Baptistão,"ST, RW, RM"
+Yvon Landry Mvogo Nganoma,Y. Mvogo,GK
+Mattia De Sciglio,M. De Sciglio,"RB, LB"
+Patricio Gabarrón Gil,Patric,"CB, RB"
+Sanjin Prcić,S. Prcić,"CDM, CM"
+Miroslav Stevanović,M. Stevanović,"RW, RM, CM"
+Mitchell Weiser,M. Weiser,"RWB, RM"
+Solomon March,S. March,"RM, RWB"
+Pablo Marí Villar,Pablo Marí,CB
+Franco Damián Vázquez,F. Vázquez,"CAM, CM"
+Adam Webster,A. Webster,CB
+Roger Martí Salvador,Roger,ST
+Bertrand Isidore Traoré,B. Traoré,"RM, RW"
+Paulo Otávio Rosa da Silva,Paulo Otávio,"LB, LM"
+Lucas Torró Marset,Lucas Torró,"CDM, CM"
+Petros Mantalos,P. Mantalos,"CAM, LM, CM"
+Andreas Hugo Hoelgebaum Pereira,Andreas Pereira,"CAM, CM, RM"
+Adrien Thomasson,A. Thomasson,"CM, CAM"
+Johan Gastien,J. Gastien,CDM
+Ryan Gauld,R. Gauld,"CAM, LM, CF"
+Jonathan Castro Otto,Jonny,"RB, LWB, RWB"
+Renato Steffen,R. Steffen,"LM, RM"
+Melingo Kevin Mbabu,K. Mbabu,RB
+Christian Thers Nørgaard,C. Nørgaard,"CDM, CM"
+Casper Mørup Nielsen,C. Nielsen,"CM, CDM"
+Morgan Sanson,M. Sanson,CM
+Bamidele Alli,D. Alli,"CAM, CM"
+Rubén Peña Jiménez,Rubén Peña,"RB, RM, LB"
+Guillermo Matías Fernández,G. Fernández,"CM, CDM"
+Daniele Rugani,D. Rugani,CB
+Danilo Cataldi,D. Cataldi,CDM
+Sofiane Boufal,S. Boufal,"CF, LM, ST"
+Mohamed Naser Elsayed Elneny,M. Elneny,"CDM, CM"
+Neal Maupay,N. Maupay,ST
+Darko Lazović,D. Lazović,"LM, CF"
+Przemysław Frankowski,P. Frankowski,"LWB, RWB"
+Roberto Gagliardini,R. Gagliardini,"CDM, CM"
+Brandon Mechele,B. Mechele,CB
+Alexander Djiku,A. Djiku,CB
+Riechedly Bazoer,R. Bazoer,"CM, CDM, CB"
+Walker Dwain Zimmerman,W. Zimmerman,CB
+Sebastián Alberto Palacios,S. Palacios,"RW, LW"
+Mario René Junior Lemina,M. Lemina,"CM, CDM"
+Daniel Amartey,D. Amartey,CB
+Divock Okoth Origi,D. Origi,"ST, LW"
+Stanislav Kritsyuk,S. Kritsyuk,GK
+Adrien Tameze,A. Tameze,"CM, CDM"
+Alex Iwobi,A. Iwobi,"CAM, CM, RM"
+Abderrazak Hamdallah,A. Hamdallah,ST
+Thiago Henrique Mendes Ribeiro,Thiago Mendes,"CDM, CB"
+Helton Brant Aleixo Leite,Helton Leite,GK
+Paulo César Díaz Huincales,P. Díaz,CB
+Carlos Roberto Izquierdoz,C. Izquierdoz,CB
+Iván José Marcone,I. Marcone,"CDM, CM"
+Lucas Ezequiel Janson,L. Janson,"LW, ST"
+Lucas Nicolás Alario,L. Alario,ST
+Lorenzo Montipò,L. Montipò,GK
+Serhou Yadaly Guirassy,S. Guirassy,ST
+Bartłomiej Drągowski,B. Drągowski,GK
+Ayoze Pérez Gutiérrez,Ayoze Pérez,"RM, RW"
+Robert Kenedy Nunes do Nascimento,Kenedy,"LM, RM"
+Andrea Petagna,A. Petagna,ST
+Silvan Dominic Widmer,S. Widmer,"RWB, RB, CB"
+Ander Capa Rodríguez,Ander Capa,RB
+Alexander Sørloth,A. Sørloth,ST
+Léo Dubois,L. Dubois,RB
+Jean-David Beauguel,J. Beauguel,ST
+Alejandro Daniel Silva González,A. Silva,"RM, RW"
+Gonzalo Escalante,G. Escalante,"CDM, CM"
+Birger Solberg Meling,B. Meling,LB
+Samuel Gigot,S. Gigot,CB
+Carlos Alberto Carvalho da Silva Júnior,Carlos Júnior,"RW, ST"
+Miguel Ángel Borja Hernández,M. Borja,ST
+Óscar David Romero Villamayor,Ó. Romero,"CAM, RM, CM"
+Diego Rico Salguero,Diego Rico,LB
+Jan Kacper Bednarek,J. Bednarek,CB
+Harry Wilson,H. Wilson,"RM, RW, CAM"
+Philip Billing,P. Billing,"CM, CAM"
+Andrija Živković,A. Živković,"RW, LW"
+Érick Gabriel Gutiérrez Galaviz,É. Gutiérrez,"CM, CDM"
+Luciano Federico Acosta,L. Acosta,CAM
+이재성 李在成,Lee Jae Sung,"CM, CAM, CF"
+Lucas Ariel Boyé,L. Boyé,ST
+Oluwatosin Adarabioyo,T. Adarabioyo,CB
+Harry Winks,H. Winks,"CM, CDM"
+Timo Baumgartl,T. Baumgartl,CB
+Stefan Lainer,S. Lainer,RB
+Pedro Chirivella Burgos,Pedro Chirivella,"CDM, CM"
+Dyego Wilverson Ferreira Sousa,Dyego Sousa,ST
+Sofyan Amrabat,S. Amrabat,"CDM, CM"
+Robin Zentner,R. Zentner,GK
+Mehmet Zeki Çelik,Z. Çelik,"RWB, RM, RB"
+Ryan Kent,R. Kent,"LW, LM"
+Peter Oladeji Olayinka,P. Olayinka,"LM, RM, ST"
+Jonathan Bamba,J. Bamba,LM
+Íñigo Lekue Martínez,Lekue,"RB, LB"
+Cesar Fernando Silva dos Santos,Cesinha,"LW, ST, CAM"
+Reece Oxford,R. Oxford,"CB, CDM, RB"
+Pere Milla Peña,Pere Milla,"ST, LM, RM"
+Mahmoud Ahmed Ibrahim Hassan,Trezeguet,"LM, LW"
+Ché Adams,C. Adams,ST
+Jan Thilo Kehrer,T. Kehrer,"CB, RB"
+Alejandro Sebastián Romero Gamarra,Kaku,"CAM, LM"
+Vitor Hugo Franchescoli de Souza,Vitor Hugo,CB
+Angelo Fulgini,A. Fulgini,"CM, CAM, CF"
+Jeremiah St. Juste,J. St. Juste,"CB, RB"
+Frédéric Guilbert,F. Guilbert,"RB, RWB"
+Florian Sotoca,F. Sotoca,ST
+Brian Oliván Herrero,Brian Oliván,"LB, CB"
+Grischa Prömel,G. Prömel,"CM, CDM"
+Lucas Martínez Quarta,L. Martínez Quarta,CB
+Aleix García Serrano,Aleix García,"CM, CDM"
+Branco van den Boomen,B. van den Boomen,"CM, CDM"
+Vangelis Pavlidis,V. Pavlidis,ST
+Rafael Jiménez Jarque,Fali,"CB, CDM"
+Bryan Heynen,B. Heynen,"CM, CDM"
+Rubén Alcaraz Jiménez,Rubén Alcaraz,"CM, CDM"
+Silas Enaldo Barros de Almeida,Silas Almeim,"LB, LM"
+Lúcio Anselmo Corteijo Salazar,Lúcio Corteijo,RB
+Antonaldo David Machado Chagas,Antonaldinho,CB
+Fred Marcos Aníbal Dias,Fred Aníbão,GK
+Nelson Arturo Reis Lopes,Nelsildo Reis,GK
+Pierre Tomás Torres De Faria,Pierrino Faria,GK
+Nicolás Evandro Filheiro Stein,Nicolás Filhei,"CM, CAM"
+Rubem Thomas Esteiro Branco,Rubem Esteiro,"RM, CM"
+David Jefferson Seijalbo Vaz,David Seijalbo,CDM
+Gabriel Jairo Aníbal Rangel,Jairzinho Aníbal,"CDM, CM"
+Simão Alvin Acunha Bardini,Simão Acunha,"CAM, CF"
+Adilson Patrick Edrada Pereira,Adilson Edrada,CAM
+Trevoh Chalobah,T. Chalobah,"CB, CDM, CM"
+James Justin,J. Justin,"LB, RB"
+Yusuf Yazıcı,Y. Yazıcı,"CF, CAM, RW"
+Marko Grujić,M. Grujić,"CM, CDM"
+Fernando Matías Zampedri,F. Zampedri,ST
+中島 翔哉,S. Nakajima,"CAM, LW, RW"
+板仓 晃,K. Itakura,"CB, CDM"
+Tarik Tissoudali,T. Tissoudali,"CF, ST"
+Lincoln Henrique Oliveira dos Santos,Lincoln,"CAM, LM, CM"
+Odsonne Édouard,O. Edouard,"ST, LW"
+Akram Hassan Afif,A. Afif,"LW, CF, CAM"
+Yangel Clemente Herrera Ravelo,Y. Herrera,"CM, CDM, CAM"
+Domilson Cordeiro dos Santos,Dodô,RB
+Roland Sallai,R. Sallai,"RM, CF"
+Evander da Silva Ferreira,Evander,"CM, CAM"
+João Pedro Neves Filipe,Jota,"LW, RW"
+Timo Bernd Hübers,T. Hübers,CB
+Zack Steffen,Z. Steffen,GK
+Luan Peres Petroni,Luan Peres,"CB, LB"
+Christian Fassnacht,C. Fassnacht,"RM, LM"
+Lucas Gastón Robertone,L. Robertone,"CAM, CM, CDM"
+Pablo Paulino Rosario,P. Rosario,"CDM, CM, CB"
+Carlos Alberto Rodríguez Gómez,C. Rodríguez,"CAM, CM"
+Damián Marcelino Moreno,M. Moreno,"CAM, CM, LW"
+Kouassi Ryan Sessegnon,R. Sessegnon,"LWB, LB"
+Sebastian Szymański,S. Szymański,"CAM, LW"
+Ezequiel Omar Barco,E. Barco,"LM, ST, LW"
+Aarón Martín Caricol,Aarón,"LWB, LB"
+Jean-Philippe Mateta,J. Mateta,ST
+Robin Koch,R. Koch,"CB, CDM"
+Miguel Ângelo da Silva Rocha,Xeka,"CM, CDM"
+Óscar Melendo Jiménez,Melendo,"CAM, RM, CM"
+Facundo Axel Medina,F. Medina,CB
+Justin Kluivert,J. Kluivert,"LM, RM"
+Davidson Da Luz Pereira,Davidson,"ST, LW, LM"
+Sean Longstaff,S. Longstaff,CM
+Keidi Bare,K. Bare,"CDM, CM"
+Enis Bardhi,E. Bardhi,"LM, CM"
+Joseph Willock,J. Willock,CM
+Kiernan Dewsbury-Hall,K. Dewsbury-Hall,"CM, CDM"
+Djordje Mihailovic,D. Mihailovic,"CAM, CM, CF"
+Mohamed Mady Camara,M. Camara,"CM, CDM"
+Nedim Bajrami,N. Bajrami,"CAM, CF"
+Daniel Muñoz Mejía,D. Muñoz,"RB, CB"
+Nicolás Martín Domínguez,N. Domínguez,"CM, CDM"
+Kevin Danso,K. Danso,CB
+Dániel Gazdag,D. Gazdag,"CAM, CM"
+Dan-Axel Zagadou,D. Zagadou,CB
+Ethan Rupert Pinnock,E. Pinnock,CB
+Emmanuel Bonaventure Dennis,E. Dennis,"ST, LW, RW"
+Óscar Rodríguez Arnaiz,Óscar,"CM, RM, LM"
+Pascal Struijk,P. Struijk,"CB, CDM, LB"
+Kai Wagner,K. Wagner,"LB, LWB"
+Szymon Piotr Żurkowski,S. Żurkowski,CM
+Nicolò Casale,N. Casale,CB
+Boubakary Soumaré,B. Soumaré,"CDM, CM"
+Aaron Salem Boupendza Pozzi,A. Boupendza,"LW, ST, RW"
+Andreas Skov Olsen,A. Skov Olsen,"RM, CAM, RW"
+Omar Federico Alderete Fernández,O. Alderete,CB
+Ander Guevara Lajo,Ander Guevara,CM
+Martín Exequiel Ojeda,M. Ojeda,"RM, LM"
+Youcef Atal,Y. Atal,"RB, RM, RWB"
+Juan Miranda González,Miranda,LB
+Dejan Ljubičić,D. Ljubičić,"RM, CDM, CM"
+Tyrick Mitchell,T. Mitchell,LB
+Mohamed Youcef Belaïli,Y. Belaïli,"LM, CAM"
+Mikkel Krogh Damsgaard,M. Damsgaard,"LW, LM, CAM"
+Mauro Jaqueson Júnior Ferreira dos Santos,Mauro Júnior,"RB, LB, CAM"
+Jonas Older Wind,J. Wind,"ST, CF"
+Igor Júlio dos Santos de Paulo,Igor,CB
+Perr Schuurs,P. Schuurs,CB
+Diego Martín Rossi Marachlian,D. Rossi,"LM, RM, ST"
+Curtis Jones,C. Jones,CM
+Noah Arinzechukwu Okafor,N. Okafor,"ST, CAM, LM"
+Rayan Aït Nouri,R. Aït Nouri,"LB, LWB"
+Luis Francisco Romo Barrón,L. Romo,"CM, CDM"
+Hugo Duro Perales,Hugo Duro,"ST, LM"
+Luca Pellegrini,L. Pellegrini,LWB
+Dwight McNeil,D. McNeil,"LM, RM"
+Jorge de Frutos Sebastián,De Frutos,"RM, LM"
+이강인 Kang In Lee,Lee Kang In,"LM, ST, CAM"
+Alejandro Catena Marugán,Catena,CB
+Maxence Lacroix,M. Lacroix,CB
+Deniz Undav,D. Undav,ST
+Teddy Teuma,T. Teuma,"CM, CAM, CDM"
+Vitaliy Buyalskyi,V. Buyalskyi,"CM, CAM"
+Vitaliy Mykolenko,V. Mykolenko,"LB, LWB"
+Carlos Vinícius Alves Morais,Vinícius,ST
+Javier Puado Díaz,Puado,"RM, LM, ST"
+Francisco António Machado Mota Castro Trincão,Trincão,"RW, RM"
+Eric García Martret,Eric García,CB
+Maximilian Kilman,M. Kilman,CB
+Thiago Ezequiel Almada,T. Almada,"CAM, CM, CF"
+Vítor Tormena de Farias,Vítor Tormena,CB
+Enzo Jérémy Le Fée,E. Le Fée,"CM, CAM, RM"
+Riccardo Sottil,R. Sottil,"LW, RW"
+Adam Hložek,A. Hložek,"CAM, LM, ST"
+Bryan Gil Salvatierra,Bryan Gil,"LM, RM"
+Manor Solomon,M. Solomon,"LM, RM, CAM"
+Petr Ševčík,P. Ševčík,"CM, RM, CDM"
+Jon Moncayola Tollar,Moncayola,"CM, CDM, RM"
+Thierry Rendall Correia,Thierry Correia,"RB, RWB, RM"
+Nathan Michael Collins,N. Collins,"CB, RB"
+Iago Amaral Borduchi,Iago,"LB, LM"
+Lukáš Kalvach,L. Kalvach,"CDM, CM"
+Kodjo Fo-Doh Laba,K. Laba,ST
+Zaidu Sanusi,Z. Sanusi,LB
+Nuno Albertino Varela Tavares,Nuno Tavares,"LB, LM"
+Tommaso Pobega,T. Pobega,CM
+Ladislav Krejčí,L. Krejčí,"CDM, CB, CM"
+Wilfried Stephane Singo,W. Singo,"RWB, RM"
+Attila Árpád Szalai,A. Szalai,"CB, LB"
+Arnaud Kalimuendo-Muinga,A. Kalimuendo,ST
+Patrick Wimmer,P. Wimmer,"RM, LM"
+Nicholas Williams Arthuer,Nico Williams,"RM, LM"
+Adrien Truffert,A. Truffert,LB
+Anton Stach,A. Stach,"CM, CDM"
+Arthur Nicolas Theate,A. Theate,CB
+Hugo Ekitike,H. Ekitike,ST
+Jan Kuchta,J. Kuchta,ST
+Kristijan Jakić,K. Jakić,"CDM, CM, CB"
+Ivan Ilić,I. Ilić,"CM, CF"
+Iyenoma Destiny Udogie,D. Udogie,"LWB, LM"
+Alan Gonzalo Varela,A. Varela,"CDM, CM"
+Junior Castello Lukeba,C. Lukeba,CB
+Vanderson de Oliveira Campos,Vanderson,"RB, RM"
+Vítor Manuel Carvalho Oliveira,Vitinha,ST
+Soufiane Rahimi,S. Rahimi,"LM, ST"
+Andriy Pyatov,A. Pyatov,GK
+Mikel Vesga Arruti,Vesga,CM
+Charles Joseph John Hart,J. Hart,GK
+Jorge Molina Vidal,Jorge Molina,ST
+Bafétimbi Fredius Gomis,B. Gomis,ST
+Marcelo Grohe,Marcelo Grohe,GK
+Lorenzo De Silvestri,L. De Silvestri,"RWB, RM"
+Asmir Begović,A. Begović,GK
+Domenico Criscito,D. Criscito,"CB, LB, LM"
+Iván Marcano Sierra,Marcano,CB
+Vadis Odjidja-Ofoe,V. Odjidja-Ofoe,"CM, CAM"
+Matheus Leite Nascimento,Matheus,"RM, ST, CF"
+André Morgan Rami Ayew,A. Ayew,"ST, RW"
+Bengt Erik Marcus Berg,M. Berg,ST
+Marouane Fellaini-Bakkioui,M. Fellaini,"CM, CDM, ST"
+Miguel Luís Pinto Veloso,Miguel Veloso,CM
+Juan Manuel Mata García,Juan Mata,CAM
+Stefano Okaka Chuka,S. Okaka,ST
+Emiliano Gabriel Vecchio,E. Vecchio,"CAM, CM"
+Séamus Coleman,S. Coleman,"RB, RWB"
+Adam David Lallana,A. Lallana,"CM, CF, CDM"
+Luiz Adriano de Souza da Silva,Luiz Adriano,"ST, CF, CAM"
+Noureddine Amrabat,N. Amrabat,"RM, RW, LM"
+Marc Albrighton,M. Albrighton,"RM, RWB, RW"
+Mamadou Sakho,M. Sakho,CB
+Simon Terodde,S. Terodde,ST
+José María Callejón Bueno,José Callejón,"RM, ST, LM"
+Johnny Russell,J. Russell,"RW, RM"
+Luiz Gustavo Dias,Luiz Gustavo,"CDM, CM"
+Joshua Christian Kojo King,J. King,"ST, CF, LW"
+Rodolfo Cota Robles,R. Cota,GK
+Daniel Nii Tackie Mensah Welbeck,D. Welbeck,ST
+Luke Ayling,L. Ayling,"RB, CB"
+Fabio Borini,F. Borini,"LW, ST, RW"
+Sven Ulreich,S. Ulreich,GK
+Ángel Montoro Sánchez,Montoro,"CM, CDM, CAM"
+Clément Grenier,C. Grenier,"CM, CAM, CDM"
+Rubén Rochina Naixes,Rochina,"RM, CM, LM"
+Bas Leon Dost,B. Dost,ST
+Gleidionor Figueiredo Pinto Júnior,Júnior Negão,ST
+Ashley Westwood,A. Westwood,"CDM, CM"
+Damián Rodrigo Díaz,D. Díaz,CAM
+Liam Cooper,L. Cooper,CB
+Vicente Iborra de la Fuente,Iborra,"CDM, CM, CAM"
+José Ángel Valdés Díaz,Cote,LB
+Mikel Balenziaga Oruesagasti,Balenziaga,"LB, CB"
+Teemu Eino Antero Pukki,T. Pukki,ST
+Sebastián Marcelo Blanco,S. Blanco,"CAM, LM"
+Tolgay Ali Arslan,T. Arslan,"CDM, CM"
+Néstor Alejandro Araujo Razo,N. Araújo,CB
+Christopher Grant Wood,C. Wood,ST
+Enrique García Martínez,Kike García,ST
+Sergio Escudero Palomo,Escudero,"LB, LM"
+Leandro Daniel Cabrera Sasía,L. Cabrera,"CB, LB"
+Bram Nuytinck,B. Nuytinck,CB
+Jens Stryger Larsen,J. Larsen,"RB, LB"
+Heinz Lindner,H. Lindner,GK
+Haris Seferović,H. Seferović,ST
+Filip Đuričić,F. Đuričić,"CAM, LM"
+Víctor Laguardia Cisneros,Laguardia,CB
+Andriy Yarmolenko,A. Yarmolenko,"RM, ST"
+Wahbi Khazri,W. Khazri,"CF, ST"
+Aaron Frank Mooy,A. Mooy,"CM, CDM"
+Joel Robles Blázquez,Joel Robles,GK
+Dorlan Mauricio Pabón Ríos,D. Pabón,"RM, RW"
+Simone Verdi,S. Verdi,"CF, CAM"
+Marvin Ducksch,M. Ducksch,ST
+Jordan Pierre Ayew,J. Ayew,"RW, RM, ST"
+Jonas Martin,J. Martin,"CM, CDM"
+Josuha Guilavogui,J. Guilavogui,"CDM, CB"
+Rogelio Gabriel Funes Mori,R. Funes Mori,ST
+Stefan Bell,S. Bell,CB
+Manolo Gabbiadini,M. Gabbiadini,ST
+Nathan Redmond,N. Redmond,"LM, ST, RM"
+Vincent Paté Aboubakar,V. Aboubakar,ST
+Domagoj Vida,D. Vida,CB
+Bruno Maximiliano Martins Indi,B. Martins Indi,CB
+Jordi Masip López,Jordi Masip,GK
+Connor Lambert Goldson,C. Goldson,CB
+Víctor Machín Pérez,Vitolo,"LM, ST"
+Erik Sviatchenko,E. Sviatchenko,CB
+Timo Horn,T. Horn,GK
+Nacer Chadli,N. Chadli,"LM, LW"
+Benjamin Lecomte,B. Lecomte,GK
+Djibril Sidibé,D. Sidibé,"RB, LB, CB"
+Cédric Ricardo Alves Soares,Cédric,RB
+Nicola Domenico Sansone,N. Sansone,"CAM, LW"
+Andreas Evald Cornelius,A. Cornelius,ST
+Darlington Joephillip Nagbe,D. Nagbe,"CM, CDM"
+Jeffrey Gouweleeuw,J. Gouweleeuw,CB
+Rodrigo Ely,Rodrigo Ely,CB
+Jérôme Roussillon,J. Roussillon,"LB, LM"
+Jannik Vestergaard,J. Vestergaard,CB
+Grégoire Defrel,G. Defrel,"CF, ST"
+Álvaro González Soberón,Álvaro,CB
+Diego Ferney Chara Zamora,D. Chará,"CDM, CM"
+Leonardo Jesus Loureiro Bittencourt,L. Bittencourt,CAM
+Dimitri Foulquier,D. Foulquier,"RB, CB, RWB"
+Mohamed Amine Elyounoussi,M. Elyounoussi,"LM, RM"
+Jamaal Lascelles,J. Lascelles,CB
+Stuart Dallas,S. Dallas,"CM, LB, CDM"
+Iván Balliu Campeny,I. Balliu,RB
+José Luís Mendes Andrade,Zé Luís,ST
+Xavier Mercier,X. Mercier,"CAM, CF"
+Maxime Dupé,M. Dupé,GK
+Luis Jan Piers Advíncula Castrillón,L. Advíncula,RB
+Ole Kristian Selnæs,O. Selnæs,"CM, CDM"
+Brice Samba,B. Samba,GK
+Fayçal Fajr,F. Fajr,"CM, CDM, CAM"
+Jean-Daniel Dave Lewis Akpa Akpro,J. Akpa Akpro,CM
+Soualiho Meïté,S. Meïté,"CM, CDM"
+Jean-Paul Boëtius,J. Boëtius,"CAM, CM"
+Bernard Anício Caldeira Duarte,Bernard,"LW, RW"
+Zouhair Feddal Agharbi,Z. Feddal,CB
+João Paulo Mior,João Paulo,"CM, CDM"
+Amin Younes,A. Younes,"LM, CAM"
+Jed Wallace,J. Wallace,"RW, RM"
+Calum Chambers,C. Chambers,"CB, RB, CDM"
+Harrison Reed,H. Reed,"CDM, CM"
+Sam Johnstone,S. Johnstone,GK
+Isaac Hayden,I. Hayden,"CDM, CM"
+Denis Cheryshev,D. Cheryshev,"LM, LW"
+Taxiarchis Fountas,T. Fountas,"CF, ST, CAM"
+Yunis Abdelhamid,Y. Abdelhamid,CB
+Sergio Rico González,Sergio Rico,GK
+Viktor Johan Anton Claesson,V. Claesson,"CAM, CM, LW"
+Robin Patrick Olsen,R. Olsen,GK
+Ryan Fraser,R. Fraser,"RM, LM"
+Tomas Petar Rogić,T. Rogić,"CM, CAM"
+Sead Kolašinac,S. Kolašinac,"LB, CB"
+Danny Ward,D. Ward,GK
+Lukas Kübler,L. Kübler,"RB, RWB, RM"
+Moanes Dabbur,M. Dabbur,ST
+Joseph Alfred Duncan,A. Duncan,CM
+Omar Mascarell González,Omar Mascarell,"CM, CDM"
+Florent Mollet,F. Mollet,"RM, CAM"
+Kévin Manuel Rodrigues,Kévin Rodrigues,"LB, LM"
+Derlis Alberto González Galeano,D. González,"ST, LM, RM"
+Sam Larsson,S. Larsson,"LM, ST"
+Craig Alexander Goodwin,C. Goodwin,"LM, RM"
+Jean-Pierre Nsame,J. Nsame,ST
+André Ramalho Silva,André Ramalho,CB
+Romell Samir Quioto Robinson,R. Quioto,ST
+Alberto Brignoli,A. Brignoli,GK
+Samuel Castillejo Azuaga,Samu Castillejo,"RM, LM"
+Paulo André Rodrigues de Oliveira,Paulo Oliveira,CB
+Marc-Oliver Kempf,M. Kempf,CB
+Alexandru Iulian Maxim,A. Maxim,"CAM, CM, LM"
+Armindo Tué Na Bangna,Bruma,"LW, RW"
+André Filipe Tavares Gomes,André Gomes,"CM, CDM"
+Kevin John Ufuoma Akpoguma,K. Akpoguma,"CB, RWB"
+Rani Khedira,R. Khedira,"CDM, CB"
+Daniel Heuer Fernandes,D. Heuer Fernandes,GK
+Jamie Maclaren,J. Maclaren,ST
+Arthur Masuaku,A. Masuaku,"LB, LWB"
+Leander Dendoncker,L. Dendoncker,CM
+Diego Javier Llorente Ríos,Diego Llorente,CB
+Marcos Paulo Mesquita Lopes,Rony Lopes,"RW, LW, RM"
+Óscar Esau Duarte Gaitán,Ó. Duarte,CB
+Jimmy Cabot,J. Cabot,"RM, RWB"
+Niklas Stark,N. Stark,"CB, CDM"
+Frank Opoku Acheampong,F. Acheampong,"ST, LW, LM"
+Laurent Abergel,L. Abergel,"CDM, CM"
+Federico Di Francesco,F. Di Francesco,"LW, RW"
+Jefferson Andrés Lerma Solís,J. Lerma,"CDM, CM"
+Christian Alberto Cueva Bravo,C. Cueva,"LW, CAM, CM"
+Jean-Philippe Gbamin,J. Gbamin,"CDM, CM"
+Francisco Andrés Pizzini,F. Pizzini,"RM, LM"
+Brahian Milton Alemán Athaydes,B. Alemán,"CM, CAM, RM"
+Javier Nicolás Burrai,J. Burrai,GK
+Rodrigo Francisco Jesús Rey,R. Rey,GK
+Lorenzo Abel Faravelli,L. Faravelli,"CDM, CM, CF"
+Lautaro Daniel Gianetti,L. Giannetti,CB
+Cristian Franco Lema,C. Lema,CB
+Robert Skov,R. Skov,"RWB, LWB, RM"
+Bruno Petković,B. Petković,"ST, CAM"
+Unai García Lugea,Unai García,CB
+Marlon Santos da Silva Barbosa,Marlon,CB
+Leonardo Roque Gil,L. Gil,"CM, CDM"
+Marco Sportiello,M. Sportiello,GK
+Daniel García Carrillo,Dani García,CM
+Kenny Joelle Tete,K. Tete,RB
+Anwar El Ghazi,A. El Ghazi,"LW, RW"
+Wendell Nascimento Borges,Wendell,LB
+Carlos Akapo Martínez,Akapo,"RB, LB"
+Wesley Theodorus Hoedt,W. Hoedt,CB
+Islam Slimani,I. Slimani,ST
+Cristian Daniel Arango Duque,C. Arango,"ST, CAM"
+Andries Noppert,A. Noppert,GK
+Martin Valjent,M. Valjent,CB
+Georges-Kévin Nkoudou Mbida,G. Nkoudou,"LM, LW"
+Baptiste Santamaría,B. Santamaria,"CM, CDM"
+Tiemoué Bakayoko,T. Bakayoko,"CDM, CM"
+Adrián Embarba Blázquez,Embarba,"RM, LM, ST"
+Joseba Zaldúa Bengoetxea,Zaldúa,RB
+David Robert Brooks,D. Brooks,"RW, RM"
+Hassane Kamara,H. Kamara,"LB, LM"
+Josh Brownhill,J. Brownhill,"CM, CAM, RM"
+Júnior Nazareno Sornoza Moreira,J. Sornoza,"CAM, CF"
+Serhiy Sydorchuk,S. Sydorchuk,CDM
+Ulrik Saltnes,U. Saltnes,CM
+Jonathan Gradit,J. Gradit,CB
+Sverrir Ingi Ingason,S. Ingason,CB
+Emanuel Mammana,E. Mammana,"CB, RB"
+Alfredo José Morelos Aviléz,A. Morelos,ST
+Lucas René Olaza Catrofe,L. Olaza,"LB, LWB, CB"
+Lewis Morgan,L. Morgan,"LW, CF, RW"
+Tarek Hamed,T. Hamed,"CDM, CM"
+Cyriel Dessers,C. Dessers,ST
+Unai López Cabrera,Unai López,"CM, CDM, CAM"
+Diogo Filipe Rocha Costa,Rochinha,LW
+Iván López Álvarez,Ivi López,"CF, CAM"
+Luis Ezequiel Unsain,E. Unsain,GK
+Freddie Woodman,F. Woodman,GK
+Themba Zwane,T. Zwane,"CAM, LW, RW"
+Marek Rodák,M. Rodák,GK
+Marvelous Nakamba,M. Nakamba,"CDM, CM"
+Krzysztof Piątek,K. Piątek,ST
+Juan Martín Lucero,J. Lucero,ST
+Jaime Mata Arnaiz,Mata,ST
+Stefan Posch,S. Posch,"CB, RB"
+Dorukhan Toköz,D. Toköz,"CM, CDM, RB"
+Íñigo Eguaras Álvarez,Eguaras,"CDM, CM"
+Paul Jean François Bernardoni,P. Bernardoni,GK
+Kristoffer Vassbakk Ajer,K. Ajer,"CB, RB"
+Fábio Santos Martins,Fábio Martins,"LM, CF, RM"
+Yeimar Pastor Gómez Andrade,Y. Gómez Andrade,CB
+Rico Henry,R. Henry,"LB, LWB"
+Orbelín Pineda Alvarado,O. Pineda,"CAM, CM"
+Jorge Agustín Rodríguez,J. Rodríguez,"CDM, CM"
+Mason Holgate,M. Holgate,"CB, RB"
+Jesús Vallejo Lázaro,Vallejo,CB
+Rolando Mandragora,R. Mandragora,"CM, CDM"
+Dominic Solanke,D. Solanke,ST
+Daniele Verde,D. Verde,"RW, RM, CAM"
+Denis Athanase Bouanga,D. Bouanga,"LM, ST, RM"
+Jesús Daniel Gallardo Vasconcelos,J. Gallardo,"LB, LM, LW"
+Maximilian Eggestein,M. Eggestein,"CDM, CM"
+André Filipe Luz Horta,André Horta,"CM, CDM"
+Gonzalo Nicolás Martínez,G. Martínez,"RM, CAM, LM"
+Vincent Janssen,V. Janssen,ST
+南野 拓実,T. Minamino,"RM, LM, CF"
+Rubén Duarte Sánchez,Rubén Duarte,LB
+Cristian Roldán León,C. Roldan,"RM, CM, CAM"
+Moussa Marega,M. Marega,"RW, ST"
+Theoson-Jordan Siebatcheu Pefok,J. Siebatcheu,ST
+Cristian David Guanca,C. Guanca,"CAM, RW, ST"
+Sander Gard Bolin Berge,S. Berge,"CDM, CM"
+Joshua Jon Cullen,J. Cullen,"CDM, CM"
+Cameron Carter-Vickers,C. Carter-Vickers,CB
+Leonardo Ezequiel Godoy,L. Godoy,"RB, RWB"
+Jeff Reine-Adélaïde,J. Reine-Adélaïde,CM
+Kevin Vázquez Comesaña,Kevin,"RB, RWB"
+Oussama Idrissi,O. Idrissi,LW
+Mattias Olof Svanberg,M. Svanberg,"CM, CDM"
+Karim Onisiwo,K. Onisiwo,ST
+Milot Rashica,M. Rashica,"LM, RM, CF"
+Antonee Robinson,A. Robinson,"LB, LWB"
+Waldemar Anton,W. Anton,"CB, CDM"
+Mathias Jensen,M. Jensen,"CM, CDM"
+Alexander Nahuel Barboza Ullúa,A. Barboza,CB
+Abdülkerim Bardakcı,A. Bardakcı,CB
+Andrey Lunev,A. Lunev,GK
+Tom Davies,T. Davies,"CM, CDM"
+Pierre Lees-Melou,P. Lees-Melou,"CM, CAM, CDM"
+Falaye Sacko,F. Sacko,"RB, CB"
+Simão Alvin Donatinho Garcia,Simão Donatinho,GK
+Enaldo Diogo Barbosa Prazeres,Enaldo Praz,"LB, LWB"
+Alexandre Jonas Santos Fernandes,Walexinton,GK
+Jailson Michel Caeiro Meireles,Jailson Caeiro,"RB, RM"
+Kaíqundo Calado Dimas,Kaíqundo Calado,"RB, CDM"
+Estevão Danilo Candeira Inácio,Estevão Candeira,"RB, LB"
+Leôncio Roger Vimieiro Madeira,Leo Vimieiro,LB
+Jorgino Silas Ruiz Prestes,Jorginhson,"CDM, CM, CAM"
+Cristian Also Laranjeiro Sá,Cris Laranjeiros,CB
+Kaíque Osvaldo Castro Rodrigues,Kaíquão Castro,GK
+Daniel Clayton Fachini Lobato,Danisco Fachini,CDM
+Joshua Eduardo Sá Madeira,Joshuando Sá,"LB, LWB"
+Jesus Fabrício Andrade Simões,Jesus Andradaldo,RB
+Rubens Jairo Freitosa Costa,Rubens Freitosa,CM
+Davi Alexandre Parrela Ferreira,Davi Parrela,"CB, CDM"
+Duirval Hélton Diniz Cabral,Duirval Diniz,"CB, RB"
+Pascoal Simão Muscato Vieira,Pascoal Muscato,"CDM, CM"
+Elias Thiago Petri Taffarel,Elildo Petri,"RM, CAM"
+Dênis Rubens Stein Rebelo,Dênildo Stein,"ST, CF"
+Estevão Daniel Formoso Serpa,Formosandrinho,"ST, CF"
+Rafael Jorgino Cachoira Rebelo,Rafael Cachoira,"CB, CDM"
+Mijat Gaćinović,M. Gaćinović,"LM, RM"
+Mouctar Diakhaby,M. Diakhaby,CB
+Giuseppe Pezzella,G. Pezzella,"LB, LM, LWB"
+Jose Luís García Vayá,Pepelu,"CM, CDM"
+Joseph Oluwaseyi Temitope Ayodele-Aribo,J. Aribo,"CM, CAM"
+Romain Perraud,R. Perraud,LB
+Aitor Cantalapiedra Fernández,Aitor,"LW, RW"
+Abdülkadir Ömür,A. Ömür,"CAM, RW, CM"
+Thomas Henry,T. Henry,ST
+Maximilian Wöber,M. Wöber,"CB, LB"
+Daniel James,D. James,"RM, ST, LM"
+Joaquín Fernández Moreno,Joaquín,"CB, CDM"
+Ohis Felix Uduokhai,F. Uduokhai,CB
+Danilho Raimundo Doekhi,D. Doekhi,CB
+Rodrigo Germán Aliendro,R. Aliendro,"CM, CDM"
+Miha Zajc,M. Zajc,"CM, CAM"
+Jorge Eduardo Sánchez Ramos,J. Sánchez,RB
+Riccardo Orsolini,R. Orsolini,"CF, RW"
+Benjamin Anthony Brereton Díaz,B. Brereton Díaz,"ST, LW"
+Carlos Alberto Cáceda Oyaguez,C. Cáceda,GK
+Orel Mangala,O. Mangala,"CM, CDM"
+Diogo Filipe Monteiro Pinto Leite,Diogo Leite,CB
+Joakim Mæhle Pedersen,J. Mæhle,"LM, RWB, RM"
+Yoane Wissa,Y. Wissa,"LW, ST"
+Antonio Martínez López,Toni Martínez,ST
+Florian Müller,F. Müller,GK
+Jean Paulo Fernandes Filho,Jean,GK
+Jerdy Schouten,J. Schouten,"CDM, CM"
+Jhon Édison Mosquera Rebolledo,J. Mosquera,LM
+Malang Sarr,M. Sarr,"CB, LB"
+Jean-Ricner Bellegarde,J. Bellegarde,"CM, CDM"
+Dennis Geiger,D. Geiger,"CM, CDM"
+Srđan Babić,S. Babić,CB
+Victor Enok Nelsson,V. Nelsson,CB
+Guus Berend Til,G. Til,"CAM, CM"
+Santiago Comesaña Veiga,Santi Comesaña,"CDM, CM, CAM"
+Răzvan Gabriel Marin,R. Marin,CM
+Michele Di Gregorio,M. Di Gregorio,GK
+Andrea Pinamonti,A. Pinamonti,ST
+Christian Michael Kouamé Kouakou,C. Kouamé,"ST, RW"
+Gabriel Tadeu Strefezza Rebelato,Gabriel Strefezza,RW
+Morgan Anthony Gibbs-White,M. Gibbs-White,"CAM, ST, RM"
+Alam Cristian Lindeiro Couto,Alam Lindeiro,LB
+Anthony Caci,A. Caci,"LWB, LB, CB"
+Michael Ngadeu-Ngadjui,M. Ngadeu,CB
+Michel Aebischer,M. Aebischer,CM
+Bernardo Nicolás Cuesta,B. Cuesta,ST
+Juan Camilo Hernández Suárez,Cucho Hernández,"ST, RM, LM"
+Mërgim Berisha,M. Berisha,"ST, CF"
+Eric Curbelo de la Fe,Eric Curbelo,"CB, RB"
+Marco Friedl,M. Friedl,CB
+Arne Maier,A. Maier,"CM, CDM"
+Mama Samba Baldé,Mama Baldé,"ST, RM, LM"
+Carlos Uriel Antuna Romero,U. Antuna,"RM, LM, RW"
+Florin Constantin Niţă,F. Niță,GK
+Chidera Ejuke,C. Ejuke,LM
+Marco Richter,M. Richter,"RM, CAM, LM"
+Krépin Diatta,K. Diatta,"RM, RW"
+Ignacio Vidal Miralles,Nacho Vidal,"RB, RWB"
+Michael Richard Delgado de Oliveira,Michael,"LW, RW"
+Rubén Estephan Vargas Martínez,R. Vargas,"LM, RM"
+Rodrigo Nascimento França,Rodrigo Becão,CB
+Gerzino Nyamsi,G. Nyamsi,CB
+Ozan Muhammed Kabak,O. Kabak,CB
+Myron Boadu,M. Boadu,ST
+Eldor Shomurodov,E. Shomurodov,"ST, CF"
+Fernando Calero Villa,Calero,"CB, CDM, RB"
+Carles Pérez Sayol,Carles Pérez,"ST, CF, RM"
+Roman Yaremchuk,R. Yaremchuk,ST
+Youssoufa Moukoko,Y. Moukoko,ST
+Facundo Nahuel Tenaglia,N. Tenaglia,"RB, CB"
+Armando Obispo,A. Obispo,CB
+Héctor Junior Firpo Adamés,Junior Firpo,"LB, LWB"
+Calvin Bassey Ughelumba,C. Bassey,"CB, LB"
+Jesús David Ferreira Castro,J. Ferreira,"ST, CAM"
+Pape Alassane Gueye,P. Gueye,"CDM, CM"
+Jawad El Yamiq,J. El Yamiq,CB
+Mohamed Lamine Bayo,M. Bayo,ST
+Mateo Retegui,M. Retegui,ST
+Aitor Ruibal García,Aitor Ruibal,"RM, LM, RB"
+Albert-Mboyo Sambi Lokonga,A. Sambi Lokonga,"CDM, CM"
+Oumar Mickael Solet Bomawoko,O. Solet,CB
+Álvaro Aguado Méndez,Aguado,"CM, CAM, CDM"
+Tariq Lamptey,T. Lamptey,"RWB, RB"
+Sebastiaan Bornauw,S. Bornauw,CB
+Ricard Puig Martí,Riqui Puig,CM
+Leonardo Julián Balerdi Rossa,L. Balerdi,CB
+Anthony Gordon,A. Gordon,"LM, RM"
+Bryan Mbeumo,B. Mbeumo,"RW, ST, LW"
+Ikoma Loïs Openda,L. Openda,ST
+Armand Laurienté,A. Laurienté,"RM, RW, ST"
+Yacine Adli,Y. Adli,"CM, CAM"
+Djed Spence,D. Spence,"RWB, RB"
+Andriy Lunin,A. Lunin,GK
+Daniel-Kofi Kyereh,D. Kyereh,"CAM, ST"
+Jovane Eduardo Borges Cabral,Jovane Cabral,"LW, RW"
+Patricio Nehuen Pérez,N. Pérez,CB
+Uroš Račić,U. Račić,"CM, CDM"
+Jonathan Michael Burkardt,J. Burkardt,"ST, CF, RW"
+Georgiy Bushchan,G. Bushchan,GK
+Ondřej Kolář,O. Kolář,GK
+Morten Due Hjulmand,M. Hjulmand,"CDM, CM"
+Kevin Andrés Velasco Bonilla,K. Velasco,LM
+Pavel Bucha,P. Bucha,"CM, CAM, CDM"
+Aníbal Ismael Moreno,A. Moreno,"CDM, CM"
+Santiago Tomás Giménez,S. Giménez,ST
+Luis Javier Suárez Charris,L. Suárez,ST
+Michal Sadílek,M. Sadílek,"CDM, CM, LB"
+Toma Bašić,T. Bašić,"CM, CDM"
+Xavi Quentin Shay Simons,X. Simons,"CAM, ST, RW"
+Ersin Destanoğlu,E. Destanoğlu,GK
+Marash Kumbulla,M. Kumbulla,CB
+Pietro Beruatto,P. Beruatto,LB
+古橋 亨梧,K. Furuhashi,ST
+Iddrisu Baba Mohammed,I. Baba,"CDM, CM, CB"
+Georginio Rutter,G. Rutter,ST
+Silas Katompa Mvumpa,Silas,"RM, LM, RW"
+Harvey Elliott,H. Elliott,"CAM, CM, RW"
+Óscar Gil Regaño,Óscar Gil,RB
+Mykhailo Mudryk,M. Mudryk,"LM, CAM"
+Hugo Guillamón Sammartín,Hugo Guillamón,"CDM, CB, CM"
+Jérémy Doku,J. Doku,"RW, RM"
+Francisco José García Torres,Fran García,"LB, LM"
+Amos Pieper,A. Pieper,CB
+Odilon Kossounou,O. Kossounou,"CB, RB"
+Robert Samuel Rojas Chávez,R. Rojas,"RB, CB"
+Jacob Ramsey,J. Ramsey,"CM, CAM, RW"
+Alex Král,A. Král,"CDM, CM"
+Francisco José Navarro Aliaga,Fran Navarro,ST
+Unai Vencedor París,Unai Vencedor,"CM, CDM"
+Brenden Russell Aaronson,B. Aaronson,"CAM, RM, CM"
+Agustín Palavecino Lamela,A. Palavecino,"CM, CAM"
+Aaron Buchanan Hickey,A. Hickey,"RB, LB, RWB"
+Shon Zalman Weissman,S. Weissman,ST
+Brennan Price Johnson,B. Johnson,"RW, ST"
+Samuel Dias Lino,Samuel Lino,"LM, LW"
+Alexander Aguilmera,A. Aguilmera,CB
+Karim-David Adeyemi,K. Adeyemi,"ST, RM"
+Daniel Santos Bragança,Daniel Bragança,CM
+Marco Carnesecchi,M. Carnesecchi,GK
+Alan Agustín Velasco,A. Velasco,"LM, LW, CAM"
+Tiago Emanuel Embaló Djaló,Tiago Djaló,"CB, LB, RB"
+Mike Trésor Ndayishimiye,M. Trésor,"LM, CAM"
+Hicham Boudaoui,H. Boudaoui,"RM, CM"
+Matías Viña,M. Viña,"LWB, LM, CB"
+Lukáš Provod,L. Provod,"CM, LM"
+Murphy Oscar Dorley,O. Dorley,"LB, LM, CM"
+Kenneth Ina Dorothea Taylor,K. Taylor,"CM, CDM"
+Nicolás González Iglesias,Nico González,"CM, CDM"
+三笘 薫,K. Mitoma,"LM, LW, LWB"
+Armando Broja,A. Broja,ST
+Facundo Hernán Farías,F. Farías,"ST, CF, LM"
+Warmed Omari,W. Omari,CB
+Amadou Zeund Georges Ba Mvom Onana,A. Onana,"CDM, CM"
+Alejandro Baena Rodríguez,Álex Baena,"RM, ST, CM"
+João Mário Neto Lopes,João Mário,RB
+Ansgar Knauff,A. Knauff,"RM, LM"
+Josip Juranović,J. Juranović,"RB, LB"
+Nicolas Seiwald,N. Seiwald,"CM, CDM"
+João Victor da Silva Marcelino,João Victor,CB
+Víctor Chust García,Víctor Chust,CB
+Malo Gusto,M. Gusto,RB
+Rodrigo Sánchez Rodríguez,Rodri,"RM, LM, CM"
+Gabriel Veron Fonseca de Souza,Gabriel Veron,"RM, LM"
+Sepe Elye Wahi,E. Wahi,"ST, LM"
+Myrto Uzuni,M. Uzuni,"LM, ST, RM"
+Nicola Zalewski,N. Zalewski,LM
+Valentino Livramento,T. Livramento,RB
+Miguel Crespo da Silva,Miguel Crespo,"CM, CDM"
+Aleš Mandous,A. Mandous,GK
+Ivan Schranz,I. Schranz,"RM, RB, ST"
+Micky van de Ven,M. van de Ven,"CB, LB"
+Ferran Jutglà Blanch,Jutglà,"ST, LW"
+Federico Gatti,F. Gatti,CB
+António João Tavares Silva,António Silva,CB
+Allan James McGregor,A. McGregor,GK
+Craig Sinclair Gordon,C. Gordon,GK
+Antonio Mirante,A. Mirante,GK
+Andrés Eduardo Fernández Moreno,Andrés Fernández,GK
+Gaël Dimitri Clichy,G. Clichy,LB
+Jean-Louis Leca,J. Leca,GK
+Benoît Costil,B. Costil,GK
+Salvador Sevilla López,Salva Sevilla,"CDM, CM"
+Cesar Despredal,C. Despredal,"RM, LM"
+Mario Sebastián Viera Galain,S. Viera,GK
+Adrian Mierzejewski,A. Mierzejewski,"CM, CAM, ST"
+Lior Refaelov,L. Refaelov,"LM, CAM, CF"
+Ştefan Daniel Radu,Ș. Radu,CB
+Tiago Manuel Dias Correia,Bebé,"RM, LM"
+Vladimir Stojković,V. Stojković,GK
+José Carlos Gonçalves Rodrigues,Zeca,"CDM, CM"
+Jack Cork,J. Cork,"CDM, CM"
+Jay Rodriguez,J. Rodriguez,"ST, LM"
+Wayne Robert Hennessey,W. Hennessey,GK
+Tim Krul,T. Krul,GK
+James McArthur,J. McArthur,"CDM, CM"
+Lasse Schøne,L. Schøne,"CM, CDM"
+Mariano Gonzalo Andújar,M. Andújar,GK
+Kevin-Prince Boateng,K. Boateng,"CAM, CM, CDM"
+Marco André Rocha Pereira,Marco Pereira,GK
+Ángel Luís Rodríguez Díaz,Ángel,"ST, CAM"
+Francisco Casilla Cortés,Kiko Casilla,GK
+Ruud Willem Vormer,R. Vormer,CM
+Radja Nainggolan,R. Nainggolan,"CM, CAM, CDM"
+Federico Julián Fazio,F. Fazio,CB
+長谷 部誠,M. Hasebe,"CB, CDM"
+Albin Ekdal,A. Ekdal,"CM, CDM"
+Víctor David Díaz Miguel,Víctor Díaz,"CB, RB"
+Nils Petersen,N. Petersen,ST
+Christian Benteke Liolo,C. Benteke,ST
+Anthony Christian Moris,A. Moris,GK
+Romain Thomas,R. Thomas,CB
+Romain Alessandrini,R. Alessandrini,"ST, RM, LM"
+Massimo Coda,M. Coda,ST
+Nikola Kalinić,N. Kalinić,ST
+Ron-Robert Zieler,R. Zieler,GK
+Patrick John Miguel van Aanholt,P. van Aanholt,LB
+Leroy Johan Fer,L. Fer,"CDM, CM"
+Joel Ward,J. Ward,RB
+Leon Aderemi Balogun,L. Balogun,CB
+Lautaro Germán Acosta,L. Acosta,"LM, RM, ST"
+Serdar Aziz,S. Aziz,CB
+Sebastian Rudy,S. Rudy,"CM, CDM"
+Alex McCarthy,A. McCarthy,GK
+Julian Baumgartlinger,J. Baumgartlinger,"CDM, CM"
+Francisco Femenía Far,Kiko Femenía,"RB, RWB"
+Steven Zuber,S. Zuber,LM
+Christian Kabasele,C. Kabasele,CB
+Nathaniel Edwin Clyne,N. Clyne,RB
+Manuel Gulde,M. Gulde,CB
+Omar Elabdellaoui,O. Elabdellaoui,RB
+Adam Smith,A. Smith,"RB, RWB, LB"
+Uílson de Souza Paula Júnior,Júnior Caiçara,RB
+Marvin Plattenhardt,M. Plattenhardt,LB
+Shane Patrick Michael Duffy,S. Duffy,CB
+Andreas Luthe,A. Luthe,GK
+Mateusz Andrzej Klich,M. Klich,"CM, CDM"
+Paulo Victor de Mileo Vidotti,Paulo Victor,GK
+Wesley Foderingham,W. Foderingham,GK
+Karl Darlow,K. Darlow,GK
+Mattia Destro,M. Destro,ST
+Ricardo Iván Rodríguez Araya,R. Rodríguez,CB
+Xavier Chavalerin,X. Chavalerin,"CM, LM, CDM"
+Younès Belhanda,Y. Belhanda,"CAM, ST, CM"
+Pontus Jansson,P. Jansson,CB
+Borja García Freire,Borja García,"CM, LM"
+Tom Cairney,T. Cairney,"CM, CAM"
+Moisés Lima Magalhães,Moisés,"CDM, CM, ST"
+Daniel Caligiuri,D. Caligiuri,"RM, RB, CM"
+Anga Dedryck Boyata,D. Boyata,CB
+Jens Toornstra,J. Toornstra,"CM, CAM"
+Samuel Sáiz Alonso,Samu Sáiz,"ST, LM"
+Sergio Ezequiel Araújo,S. Araujo,"ST, CAM"
+Bart Schenkeveld,B. Schenkeveld,CB
+Germán Sánchez Barahona,Germán,CB
+Lee Nicholls,L. Nicholls,GK
+Cláudio Pires de Morais Ramos,Cláudio Ramos,GK
+Sergio León Limones,Sergio León,ST
+Nampalys Mendy,N. Mendy,"CDM, CM"
+Grant Hanley,G. Hanley,CB
+Kévin Malcuit,K. Malcuit,RB
+Sergio Álvarez Díaz,Sergio Álvarez,"CDM, CB"
+Ross Barkley,R. Barkley,"CAM, CM"
+Lukáš Hejda,L. Hejda,CB
+Anthony Losilla,A. Losilla,"CDM, CM, CB"
+Ilie Sánchez Farrés,Ilie Sánchez,"CDM, CB, CM"
+Sergi Gómez Solà,Sergi Gómez,CB
+André Filipe Brás André,André André,"CM, CDM"
+Marco van Ginkel,M. van Ginkel,"CM, CDM"
+Anders Christiansen,A. Christiansen,"CM, CAM"
+Anaitz Arbilla Zabala,Arbilla,CB
+Adam Maher,A. Maher,"CDM, CM"
+Guilherme Costa Marques,Guilherme,"RM, CAM"
+Pedro Filipe Teodósio Mendes,Pedro Mendes,CB
+John David Lundstram,J. Lundstram,"CM, CDM"
+Robert Žulj,R. Žulj,CAM
+Layvin Kurzawa,L. Kurzawa,LB
+Ermin Bičakčić,E. Bičakčić,CB
+Massadio Haïdara,M. Haïdara,"LWB, CB"
+Danny Vieira da Costa,D. da Costa,RWB
+Aleix Vidal Parreu,Aleix Vidal,"RM, RB"
+Jack Stephens,J. Stephens,CB
+Alexander Schwolow,A. Schwolow,GK
+Bobby De Cordova-Reid,B. Decordova-Reid,"RM, LM, RB"
+Bruno Zuculini,B. Zuculini,"CDM, CM"
+Gabriel Agustín Hauche,G. Hauche,"RW, LW"
+Janis Jonathan Blaswich,J. Blaswich,GK
+Jakub Brabec,J. Brabec,CB
+Jens Jønsson,J. Jønsson,"CDM, CM"
+Kevin Stöger,K. Stöger,"CM, CAM, CDM"
+Stefan Schwab,S. Schwab,"CM, CDM"
+Charlie Taylor,C. Taylor,"LB, CB"
+John Egan,J. Egan,CB
+Iván Rodrigo Piris Leguizamón,I. Piris,"RB, LB"
+Iñigo Ruiz de Galarreta Etxeberria,Ruiz de Galarreta,"CDM, CM"
+Okay Yokuşlu,O. Yokuşlu,"CDM, CM, CB"
+Ryan Fredericks,R. Fredericks,"RB, RWB"
+Matija Nastasić,M. Nastasić,CB
+Jan Kopic,J. Kopic,"RM, LM"
+Anthony Rubén Lozano Colón,A. Lozano,"ST, LM"
+Dave Bulthuis,D. Bulthuis,CB
+Luís Hernández Rodríguez,Luís Hernández,CB
+Alexander Ring,A. Ring,"CDM, CM"
+Stefan Ristovski,S. Ristovski,"RB, RWB, CB"
+Ezgjan Alioski,E. Alioski,"LB, LM"
+Jacob Murphy,J. Murphy,"RM, LW"
+Serdar Dursun,S. Dursun,ST
+Mats Kristoffer Olsson,K. Olsson,"CM, CDM"
+Juan Cruz Álvaro Armada,Juan Cruz,"LB, CB"
+Pedro Bigas Rigo,Bigas,CB
+Luka Milivojević,L. Milivojević,"CDM, CM"
+Sergiy Kryvtsov,S. Kryvtsov,CB
+Will Hughes,W. Hughes,"CM, CDM"
+Stef Peeters,S. Peeters,"CM, CAM, CDM"
+Philipp Hofmann,P. Hofmann,ST
+Luciano Darío Vietto,L. Vietto,"CAM, LW, ST"
+Emil Henry Kristoffer Krafth,E. Krafth,"RB, CB"
+Sokratis Dioudis,S. Dioudis,GK
+Victor Vinícius Coelho dos Santos,Vitinho,"LM, ST"
+Oussama Tannane,O. Tannane,"CAM, RW"
+Dimitrios Pelkas,D. Pelkas,"CAM, LW"
+Michael Frey,M. Frey,ST
+Hörður Björgvin Magnússon,H. Magnússon,"CB, LB"
+Christopher Jullien,C. Jullien,CB
+Óscar Plano Pedreño,Óscar Plano,"RM, LM, CF"
+Stefan Mitrović,S. Mitrović,CB
+Christian Albert Elliot Burgess,C. Burgess,CB
+Tomasz Karol Kędziora,T. Kędziora,"RB, CB"
+Bruno da Silva Peres,Bruno Peres,"RB, LB"
+Albert Rusnák,A. Rusnák,"CAM, CDM, CM"
+Kortney Hause,K. Hause,CB
+Jörgen Joakim Nilsson,J. Nilsson,CB
+Björn Engels,B. Engels,CB
+Elseid Hysaj,E. Hysaj,"LB, RB"
+Pablo Ezequiel De Blasis,P. De Blasis,"CAM, CM"
+Federico Ceccherini,F. Ceccherini,CB
+장현수 张贤秀,Jang Hyeon Soo,CB
+Rubén Blanco Veiga,Rubén Blanco,GK
+Valentino Lazaro,V. Lazaro,"RWB, RM, LM"
+Karol Linetty,K. Linetty,"CM, CF"
+John Swift,J. Swift,"CAM, CM"
+Rafael Czichos,R. Czichos,"CB, LB"
+André Hahn,A. Hahn,"ST, RM"
+Janik Haberer,J. Haberer,"CM, CDM, RM"
+Florian Niederlechner,F. Niederlechner,ST
+Nikola Storm,N. Storm,"LM, LW"
+Ricardo Sousa Esgaio,Ricardo Esgaio,"RWB, RB, CB"
+Augusto Jorge Mateo Solari,A. Solari,"RM, LM"
+Christopher Lenz,C. Lenz,"LWB, LM"
+Álvaro Medrán Just,Medrán,"CM, CDM"
+Leonel Jesús Vangioni,L. Vangioni,"LB, LWB"
+Jonathan Osorio,J. Osorio,"CM, CDM, LM"
+Maxime Crépeau,M. Crépeau,GK
+Antonio José Rodríguez Díaz,Puertas,"RM, LM"
+Glen Adjei Kamara,G. Kamara,"CM, CDM"
+Mikael Uhre,M. Uhre,ST
+Jean-Charles Castelletto,J. Castelletto,CB
+Ryan Christie,R. Christie,"RW, RM"
+Yimmi Javier Chara Zamora,Y. Chará,"CAM, LM, RM"
+Juan Edgardo Ramírez,J. Ramírez,"CM, LM"
+Gauthier Gallon,G. Gallon,GK
+Lorenzo Enrique Reyes Vicencio,L. Reyes,"CDM, CM"
+Leonel Ariel Miranda,L. Miranda,"CM, CDM"
+Fernando Zuqui,F. Zuqui,"CM, CAM, CDM"
+Fabrizio Germán Angileri,F. Angileri,"LB, LWB"
+Marcus Ingvartsen,M. Ingvartsen,"ST, CF, CAM"
+Guido Gabriel Herrera,G. Herrera,GK
+Brendan Chardonnet,B. Chardonnet,CB
+Philip Aksel Frigast Zinckernagel,P. Zinckernagel,"CAM, LW, CF"
+Cédric Brunner,C. Brunner,"RB, CB"
+Armando Izzo,A. Izzo,CB
+Cican Stanković,C. Stanković,GK
+Phillipp Mwene,P. Mwene,"RB, LB"
+Yury Lodygin,Y. Lodygin,GK
+Richard Ortiz Busto,R. Ortiz,"CDM, CM"
+Jean Michaël Seri,J. Seri,"CM, CDM"
+Gonçalo Mendes Paciência,Gonçalo Paciência,ST
+Anderson Daniel Plata Guillén,A. Plata,"RM, RW, ST"
+Maximilian Philipp,M. Philipp,"CF, CAM"
+Zainadine Abdula Chavango Júnior,Zainadine,CB
+Julien Ariel De Sart,J. De Sart,"CM, CDM"
+原口 元気,G. Haraguchi,"CAM, CM"
+Sandro Ramírez Castillo,Sandro,ST
+Théo Bongonda Mbul'Ofeko Batombo,T. Bongonda,"LM, LW"
+David von Ballmoos,D. von Ballmoos,GK
+Rodrigo Andrés Battaglia,R. Battaglia,"CM, CDM"
+Gonzalo Rubén Piovi,G. Piovi,"LB, CB, LWB"
+Jordan Kévin Amavi,J. Amavi,LB
+Bruno Miguel Semedo Varela,Bruno Varela,GK
+Patrick Ciurria,P. Ciurria,"RM, CM, CF"
+Arnaldo Antonio Sanabria Ayala,A. Sanabria,ST
+Mattia Aramu,M. Aramu,"CAM, RW"
+Gian-Luca Waldschmidt,L. Waldschmidt,"CF, ST"
+Mbaye Diagne,M. Diagne,ST
+Mattia Caldara,M. Caldara,CB
+Rafael Rogério da Silva,Rafael Ratão,"LW, ST, RW"
+Jaume Doménech Sánchez,Jaume,GK
+Ezequiel Ponce Martínez,E. Ponce,ST
+Antonio-Mirko Čolak,A. Čolak,ST
+Lovre Kalinić,L. Kalinić,GK
+Carlos Fernández Luna,Carlos Fernández,"ST, CAM"
+Andrés Felipe Mosquera Marmolejo,A. Mosquera,GK
+Jaïro Riedewald,J. Riedewald,"CDM, CM, LB"
+Andrés Felipe Roa Estrada,A. Roa,"CAM, RM, LM"
+Miloš Veljković,M. Veljković,CB
+Rodrigo Eduardo Echeverría Sáez,R. Echeverría,"CB, CDM, CM"
+Jacob Rinne,J. Rinne,GK
+Dénes Dibusz,D. Dibusz,GK
+Mariano Díaz Mejía,Mariano,ST
+Hélder Wander Sousa Azevedo Costa,Hélder Costa,"RM, LM, CF"
+Morten Thorsby,M. Thorsby,"CM, LM"
+Isaac Ajayi Success,I. Success,ST
+Benno Schmitz,B. Schmitz,RB
+Petros Matheus dos Santos Araújo,Petros,"CM, CDM"
+Benson Manuel Hedilazio,B. Manuel,"RM, RW, LW"
+Walace Souza Silva,Walace,"CDM, CM"
+Akim Zedadka,A. Zedadka,RB
+Robert Dickie,R. Dickie,CB
+Zsolt Kalmár,Z. Kalmár,"CAM, LM"
+Damian Dawid Szymański,D. Szymański,"CDM, CM"
+Jonjoe Kenny,J. Kenny,"RB, LB"
+Lewis Cook,L. Cook,"CM, CDM"
+Karol Świderski,K. Świderski,"ST, CAM"
+Carl Henrik Jordan Larsson,J. Larsson,"RM, ST, LM"
+Luis Jesús Rioja González,Luis Rioja,LM
+Maximilian Wittek,M. Wittek,"LB, LM"
+Adam Buksa,A. Buksa,ST
+Haris Belkebla,H. Belkebla,"CDM, CM"
+Walter Ariel Bou,W. Bou,"ST, CAM, CF"
+Emmanuel Okyere Boateng,E. Boateng,"ST, LM"
+Temitayo Olufisayo Olaoluwa Aina,O. Aina,"LWB, LM, RM"
+Gian Marco Ferrari,G. Ferrari,CB
+Ivan Ordets,I. Ordets,CB
+Vanja Milinković-Savić,V. Milinković-Savić,GK
+Guilherme Haubert Sityá,Guilherme Sityá,"LB, LM, LWB"
+Connor Roberts,C. Roberts,"RB, RWB"
+Enrique Barja Afonso,Kike Barja,"RM, LM"
+Khaled Narey,K. Narey,"RW, RB"
+Adam Masina,A. Masina,"LWB, LM, LB"
+Martín Merquelanz Castellanos,Merquelanz,"LW, RW, CAM"
+Pedro David Gallese Quiróz,P. Gallese,GK
+Chris Anthony Willock,C. Willock,"LW, ST, CAM"
+Petar Stojanović,P. Stojanović,RB
+Gabriel Ávalos Stumpfs,G. Ávalos,ST
+Omar Colley,O. Colley,CB
+Diego Luis Valoyes Ruíz,D. Valoyes,"RM, LM, ST"
+David Matías Barbona,D. Barbona,"RM, LM"
+Gonzalo Julián Melero Manzanares,Melero,"CM, CDM"
+Lukáš Haraslín,L. Haraslín,"LM, RM"
+Bart Ramselaar,B. Ramselaar,"CAM, LM"
+Almamy Touré,A. Touré,"CB, RWB"
+Bright Osayi-Samuel,B. Osayi-Samuel,"RB, RM, RW"
+Alexis Castro,A. Castro,"LM, CAM, CM"
+Julien Laporte,J. Laporte,CB
+Kamil Mieczysław Grabara,K. Grabara,GK
+Matheus Fellipe Costa Pereira,Matheus Pereira,"CAM, CM, RW"
+Dimitry Bertaud,D. Bertaud,GK
+Borja Mayoral Moya,Borja Mayoral,ST
+Harold Moukoudi,H. Moukoudi,CB
+Jason Berthomier,J. Berthomier,CAM
+Thomas Ouwejan,T. Ouwejan,LB
+Joe Rodon,J. Rodon,CB
+Laureano Antonio Villa Suárez,Toni Villa,"LM, RM"
+Mykola Matvienko,M. Matvienko,"CB, LB"
+Marko Pjaca,M. Pjaca,"CF, ST, CAM"
+Alexandru Ionuț Mitriță,A. Mitriță,"LW, LM, CM"
+Julian Ryerson,J. Ryerson,"RWB, LWB"
+Fabien Centonze,F. Centonze,"RWB, RB"
+Lassana Coulibaly,L. Coulibaly,"CDM, CM"
+Nilson Leôncio Alfaro Soares,Nilson Alfarinho,GK
+Enzo Wellington Marteiro Santoso,Enzo Marteiro,GK
+Vinicius Lúcio Cardenha Caeiro,Vinicius Cardenha,"RB, CB"
+Maurício Wilson Borghes Caeiro,Mauri Borgho,"RB, CDM"
+Caio Rodrigo Nunes Anjos,Caio Nunson,"CB, LB"
+Otávio Alberto Cairinho Monteiro,Otávio Cairinho,"CB, RB"
+Eltildo Lucas Correia Pitta,Eltildo Correia,"CB, RB, LB"
+Robson Tony Denho Serra,Robson Denho,"CDM, CM"
+Douglas Arthur Carvalheira Peixoto,Douglas Carvalheira,LB
+Edvaldo Flávio Rebelo de Freit,Edval Anton,"CDM, CM, CAM"
+Danilo Manuel Aldair Rochela,Dani Rochelinhas,"CAM, CM"
+Fernando Elton Meireles Petri,Meirelinson,CB
+Lino Francisco Essier Simão,Lino Essier,CB
+Gérson Adriano Damesio Figueiras,Gérson Damesio,CB
+Oswaldo Germano Cuba Correia,Germano Cuba,"LB, CAM, LM"
+Mauro Pierre Cildinho Conradi,Mauro Cildinho,RB
+Michael Renan Dimeira Couto,Michael Dimeira,"CAM, RM"
+Kauê Enaldo Lima Rodrigues,Kaimo Lima,"CB, CDM, LB"
+Ailton Diogo Coelho Barbosa,Ailtio Coelho,LM
+Murilo Kaíque Sanches Cardoso,Murilo Sancha,"RM, CM"
+Elias Thiago Fontoira Marques,Elias Fontoira,CDM
+Diego Hugo Ramos Calado,Diegildo Ramos,"ST, RM"
+Allan Norberto Bardini Paneira,Allan Bardinho,"CAM, CM"
+Erick Ronaldo Gameira Carvalho,Roni Gameira,"ST, CF"
+Nicholas Júlio Aldair Leal,Nicholas Aldair,ST
+Benjamin Chris Meseira Zonta,Benjamin Meseira,RB
+Joe Worrall,J. Worrall,CB
+Pedro Miguel Almeida Lopes Pereira,Pedro Pereira,"RWB, RM"
+Nahitan Michel Nández Acosta,N. Nández,"CM, RM"
+Faïz Selemani,F. Selemani,"LM, CAM"
+Ibrahima Sissoko,I. Sissoko,"CM, CDM, CB"
+Silvan Hefti,S. Hefti,RB
+Alexander Hack,A. Hack,CB
+Christian Mougang Bassogog,C. Bassogog,"ST, RM, RW"
+Jamiro Gregory Monteiro Alvarenga,Jamiro Monteiro,"CM, CAM, LM"
+Adam Mohamed Ounas,A. Ounas,"RW, ST, RM"
+Iván Alejo Peralta,Iván Alejo,"RM, LM"
+João Aniceto Grandela Nunes,João Nunes,"CB, RB"
+Santiago Lionel Ascacíbar,S. Ascacíbar,"CDM, CM"
+Kevin Mac Allister,K. Mac Allister,"CB, RB"
+Bautista Merlini,B. Merlini,"LM, LW, RM"
+Aïssa Bilal Laïdouni,A. Laïdouni,"CDM, CM"
+Carlos Eccehomo Cuesta Figueroa,C. Cuesta,CB
+Eray Ervin Cömert,E. Cömert,CB
+Leonardo Duarte da Silva,Léo Duarte,CB
+Alessio Castro-Montes,A. Castro-Montes,"LM, RM"
+David Turnbull,D. Turnbull,CM
+Dany Mota Carvalho,Dany Mota,ST
+Jordan Lotomba,J. Lotomba,"RB, LB"
+Gustavo Hamer,G. Hamer,"CM, CDM"
+Salvador Sánchez Ponce,Salvi Sánchez,"RM, LM"
+Yan Brice Eteki,Y. Eteki,"CDM, CM"
+Jacob Vandsø Rasmussen,J. Rasmussen,CB
+Maxim Leitsch,M. Leitsch,CB
+Efecan Karaca,E. Karaca,"RM, CAM, RW"
+Dante Vanzeir,D. Vanzeir,ST
+Maxime Vincent D'Arpino,M. D'Arpino,"CDM, CM"
+Dimitri Liénard,D. Liénard,"LWB, CM"
+Luis Jesús Pérez Maqueda,Luis Pérez,"RB, RWB"
+Ferdi Erenay Kadıoğlu,F. Kadioglu,"LB, RB, LM"
+Vitaly Janelt,V. Janelt,"CM, CDM"
+Pedro Filipe Barbosa Moreira,Pedrinho,"CM, CAM"
+Marshall Nyasha Munetsi,M. Munetsi,"CDM, CM, CB"
+Pol Mikel Lirola Kosok,Pol Lirola,"RB, RM, RWB"
+Daniel Cárdenas Líndez,Dani Cárdenas,GK
+Elieser Danilo Baldeiro Lopes,Elieser Baldeiro,CB
+Douglas Arthur Armeira Bahia,Douglas Armeira,RB
+Darko Brašanac,D. Brašanac,"CM, CDM, CAM"
+Japhet Tanganga,J. Tanganga,"RWB, CB"
+Filip Ugrinic,F. Ugrinic,"CM, CDM, CAM"
+Oliver Christensen,O. Christensen,GK
+Gabriel Gudmundsson,G. Gudmundsson,"LB, LM"
+Youssef Maleh,Y. Maleh,CM
+Anders Laustrup Dreyer,A. Dreyer,"RW, ST"
+Samuele Birindelli,S. Birindelli,"RWB, RM, RB"
+Moussa Djenepo,M. Djenepo,LM
+Kristoffer Zachariassen,K. Zachariassen,"CAM, CDM"
+久保 建英,T. Kubo,"RM, ST, CAM"
+Diego Lainez Leyva,D. Lainez,"RM, CM, CAM"
+Amaral Alves Marcos Vinicius,Marcão,ST
+Enzo Nahuel Copetti,E. Copetti,"ST, RW"
+Marin Pongračić,M. Pongračić,CB
+Wilson Miguéis Manafá Jancó,Wilson Manafá,"RB, LB"
+Jadson Cristiano Silva de Morais,Jadson,CB
+Ermedin Demirović,E. Demirović,"ST, LM"
+Umut Dilan Bozok,U. Bozok,ST
+Nicolas Louis Marcel Cozza,N. Cozza,"CB, LB"
+Abel Ruiz Ortega,Abel Ruiz,ST
+Azor Matusiwa,A. Matusiwa,"CDM, CM"
+Dani de Wit,D. de Wit,"CAM, CM"
+Mitchel Bakker,M. Bakker,LB
+Andreaw Gravillon,A. Gravillon,"CB, RB"
+奥川 雅也,M. Okugawa,"CAM, LM"
+Edon Zhegrova,E. Zhegrova,RM
+Jakub Piotr Moder,J. Moder,"CM, CDM, LM"
+Maximillian James Aarons,M. Aarons,RB
+Mihailo Ristić,M. Ristić,"LB, LWB"
+M'Bala Nzola,M. Nzola,ST
+Sikou Niakaté,S. Niakaté,"CB, LB"
+Adilson Angel Abreu de Almeida Gomes,A. Gomes,"CM, CF, CDM"
+Tijjani Reijnders,T. Reijnders,CM
+Juan Manuel García,J. García,ST
+Timothy Tarpeh Weah,T. Weah,"RM, LM, ST"
+Colin Dagba,C. Dagba,RB
+Héctor David Martínez,D. Martínez,"CB, LB"
+Sergio Gómez Martín,Sergio Gómez,LB
+Benjamin Johnson,B. Johnson,"RB, LB, CB"
+Sergio Damián Barreto,S. Barreto,CB
+Chris Führich,C. Führich,"CAM, RM, ST"
+Francisco Gabriel Ortega,F. Ortega,LB
+Sebastián Gómez Londoño,S. Gómez,"CDM, CM"
+Louis Jordan Beyer,J. Beyer,"CB, RB"
+Imrân Louza,I. Louza,"CM, CDM"
+菅原 由勢,Y. Sugawara,"RB, RW"
+Paul Jaeckel,P. Jaeckel,"CB, CDM"
+Lukáš Masopust,L. Masopust,"RM, RB"
+Lucas Perrin,L. Perrin,CB
+Óscar Valentín Martín Luengo,Óscar Valentín,CDM
+Nemanja Radonjić,N. Radonjić,"LW, RW, CF"
+Lucas Lima Linhares,Luquinhas,"RW, CAM, LW"
+Nikola Moro,N. Moro,"CDM, CM"
+Martin Erlić,M. Erlić,CB
+Léandre Gaël Tawamba Kana,L. Tawamba,ST
+Milan Havel,M. Havel,"LB, RB"
+Patrik Hrošovský,P. Hrošovský,"CM, CDM"
+Petar Musa,P. Musa,ST
+Bruno Xavier Almeida Costa,Bruno Costa,CM
+Javier Sánchez de Felipe,Javi Sánchez,CB
+Adama Malouda Traoré,A. Traoré,"RW, CAM"
+Ibrahim Benjanim Traoré,I. Traoré,"CDM, CAM, CM"
+Ander Barrenetxea Muguruza,Barrenetxea,LW
+Lassina Chamste Soudine Franck Traoré,L. Traoré,ST
+Aihen Muñoz Capellán,Aihen Muñoz,LB
+Carlos Neva Tey,Carlos Neva,"LB, LM"
+Enzo Hernán Díaz,E. Díaz,"LB, CB"
+Raoul Bellanova,R. Bellanova,"RWB, RM"
+Dia Saba,D. Saba,"CAM, ST"
+Armel Bella Kotchap,A. Bella Kotchap,CB
+Domingos André Ribeiro Almeida,André Almeida,CM
+Sacha Boey,S. Boey,RB
+Eric Junior Dina Ebimbe,J. Dina Ebimbe,"RM, CM, RWB"
+Luca Jannis Kilian,L. Kilian,CB
+Christopher Jeffrey Richards,C. Richards,CB
+Jean Lucas de Souza Oliveira,Jean Lucas,"CM, CDM, CAM"
+Nuno Miguel Valente Santos,Nuno Santos,CM
+Quinten Ryan Crispito Timber,Q. Timber,"CM, CDM, CAM"
+Flavius David Daniliuc,F. Daniliuc,"CB, RB"
+Giorgos Athanasiadis,G. Athanasiadis,GK
+Rodrigo Riquelme Reche,Riquelme,"CAM, LM"
+Manuel Sánchez de la Peña,Manu Sánchez,"LB, LWB, LM"
+Ramiz Larbi Zerrouki,R. Zerrouki,"CM, CDM"
+Jakub Kamiński,J. Kamiński,"LM, LW"
+Joris Chotard,J. Chotard,"CDM, CM"
+Luka Ivanušec,L. Ivanušec,"CAM, CM, RM"
+Yunus Dimoara Musah,Y. Musah,"RM, CM, CDM"
+Samuele Ricci,S. Ricci,"CDM, CM"
+Mostafa Mohamed Ahmed Abdallah,M. Mohamed,ST
+Luke Thomas,L. Thomas,"LB, LWB"
+Matheus Henrique de Souza,Matheus Henrique,"CM, CDM"
+Melvin Michel Maxence Bard,M. Bard,LB
+Amine Adli,A. Adli,"ST, LM"
+David Zima,D. Zima,CB
+旗手 怜央,R. Hatate,CM
+Felipe Rodrigues da Silva,Morato,CB
+Kamaldeen Sulemana,K. Sulemana,"LM, ST, LW"
+Santiago Simón,S. Simón,"RM, CM"
+Pablo Solari,P. Solari,"RM, ST, RW"
+Omar Khaled Mohamed Marmoush,O. Marmoush,"ST, RM, LM"
+Fábio Leandro Carvalho,Fábio Carvalho,"CAM, CM, LM"
+Tiago Barreiros de Melo Tomás,Tiago Tomás,"ST, RW"
+Sinaly Diomandé,S. Diomande,CB
+Michel Ange Balikwisha,M. Balikwisha,"LM, ST"
+本 寛也,K. Fujimoto,"CM, RW, CAM"
+Ondřej Lingr,O. Lingr,"CAM, LM, RM"
+Ivo Grbić,I. Grbić,GK
+Muhammed Kerem Aktürkoğlu,K. Aktürkoğlu,"LM, LW"
+Luka Sučić,L. Sučić,"CAM, CM"
+Devyne Fabian Jairo Rensch,D. Rensch,"RB, LB"
+Fabiano Parisi,F. Parisi,LB
+Arnau Martínez López,Arnau Martínez,"RWB, RB, CB"
+Cheikh Ahmadou Bamba Mbacke Dieng,B. Dieng,ST
+Jakub Pešek,J. Pešek,"RM, LM"
+Liel Abada,L. Abada,RW
+Alejandro Balde Martínez,Balde,"LB, LM, RB"
+Alberto Moleiro González,Moleiro,"LM, CM, CAM"
+Éderson José dos Santos,Éderson,CM
+Ewerton Paixão da Silva,Ewerton,"LM, RM"
+Peter Shalulile,P. Shalulile,ST
+Adam Vlkanova,A. Vlkanova,"CAM, LM, RM"
+Lázaro Vinicius Marques,Lázaro,"LM, ST"
+Maarten Stekelenburg,M. Stekelenburg,GK
+Jesper Hansen,J. Hansen,GK
+José Gustavo Sand,J. Sand,ST
+Magnus Wolff Eikrem,M. Eikrem,"CF, CAM"
+이청용 李青龙,Lee Chung Yong,"RM, LM, CAM"
+Robert Snodgrass,R. Snodgrass,"CM, RM"
+Ricardo José Cecília Batista,Ricardo Batista,GK
+Valber Albarado,V. Albarado,"CAM, LM, CM"
+Lorenzo Cinterio,L. Cinterio,"RW, ST"
+Mauro Boselli,M. Boselli,ST
+Francesc Fàbregas i Soler,Cesc Fàbregas,"CM, CAM, CDM"
+Alessandro Diamanti,A. Diamanti,CAM
+Andreas Ulmer,A. Ulmer,LB
+Ryan Bertrand,R. Bertrand,LB
+Cristian Daniel Ansaldi,C. Ansaldi,"LWB, LB, LM"
+Felipe Salvador Caicedo Corozo,F. Caicedo,ST
+Denis Onyango,D. Onyango,GK
+Sven Kums,S. Kums,"CM, CDM"
+Leonardo Fabián Burián Castro,L. Burián,GK
+Miguel Ángel Torrén,M. Torrén,CB
+Kamil Grosicki,K. Grosicki,LM
+Diego Marvin Biseswar,D. Biseswar,"LW, CAM"
+Papa Kouly Diop,P. Diop,"CDM, CM"
+Vitorino Gabriel Pacheco Antunes,Antunes,LB
+Javier Hernán García,J. García,GK
+Mario Gavranović,M. Gavranović,ST
+Emiliano Adrián Insúa Zapata,E. Insua,"CB, LWB"
+Joaquín Oscar Larrivey,J. Larrivey,ST
+Damien Da Silva,D. Da Silva,CB
+기성용 寄诚庸,Ki Sung Yueng,"CDM, CM"
+José Martín Cáceres Silva,M. Cáceres,"CB, RB, RM"
+Barry Ryan Bannan,B. Bannan,"CM, CAM"
+Pablo Daniel Piatti,P. Piatti,"RM, LM"
+Facundo Sebastián Roncaglia,F. Roncaglia,"RB, CB"
+André de Castro Pereira,Castro,"CM, CDM"
+Lucas David Pratto,L. Pratto,ST
+Chris Basham,C. Basham,CB
+Yoel Rodríguez Oterino,Yoel,GK
+Denis Odoi,D. Odoi,"RB, CDM, CB"
+Oliver Norwood,O. Norwood,"CDM, CM"
+Bernardo José Espinosa Zúñiga,B. Espinosa,CB
+Ivan Radovanović,I. Radovanović,"CB, CDM"
+Mame Biram Diouf,M. Diouf,ST
+Thomas Kaminski,T. Kaminski,GK
+Mirco Antenucci,M. Antenucci,ST
+Cristian Darío Álvarez,C. Álvarez,GK
+Eloy Victor Room,E. Room,GK
+John Fleck,J. Fleck,"CM, CDM"
+Ryan Jack,R. Jack,"CM, CDM"
+José Salomón Rondón Giménez,S. Rondón,ST
+Carlo Pinsoglio,C. Pinsoglio,GK
+Kevin Strootman,K. Strootman,"CM, CDM"
+Vincent Manceau,V. Manceau,"CB, RB, RWB"
+Stoppila Sunzu,S. Sunzu,CB
+Stefan Frei,S. Frei,GK
+Ulises Alejandro Dávila Plascencia,U. Dávila,"CAM, RM, ST"
+Danijel Aleksić,D. Aleksić,"CAM, CM, LM"
+Sean Everet Johnson,S. Johnson,GK
+Luigi Sepe,L. Sepe,GK
+Salman Mohammed Al-Faraj,S. Al Faraj,"CM, CDM, CAM"
+Hernán Barcos,H. Barcos,ST
+Shkodran Mustafi,S. Mustafi,CB
+Edwin Andrés Cardona Bedoya,E. Cardona,"CAM, LM, LW"
+Gaëtan Charbonnier,G. Charbonnier,ST
+Allan-Roméo Nyom,A. Nyom,"RB, RM, CB"
+Cenk Tosun,C. Tosun,ST
+Vincent Le Goff,V. Le Goff,"LB, LWB"
+Nick Viergever,N. Viergever,CB
+Steven Caulker,S. Caulker,CB
+Gary Alexis Medel Soto,G. Medel,"CB, CDM"
+Francesco Bardi,F. Bardi,GK
+Francisco Portillo Soler,Portillo,"RM, LM, CM"
+Osmar Ibáñez Barba,Osmar,"CB, CDM, CM"
+Adam Forshaw,A. Forshaw,"CDM, CM"
+Andreas Weimann,A. Weimann,"ST, CAM, CM"
+André Gomes Magalhães de Almeida,André Almeida,RB
+Martín Montoya Torralbo,Montoya,RB
+Juan Carlos Martín Corral,Juan Carlos,GK
+Borja González Tomás,Borja Bastón,ST
+Serdar Gürler,S. Gürler,"RM, LM"
+Benjamin Leroy,B. Leroy,GK
+Benjamin Stambouli,B. Stambouli,"CDM, CB"
+Matěj Vydra,M. Vydra,"CF, ST"
+Mathias Autret,M. Autret,"LM, CM, CAM"
+Daniel Bentley,D. Bentley,GK
+Johan Erik Larsson,J. Larsson,RB
+Simone Romagnoli,S. Romagnoli,CB
+Dennis Appiah,D. Appiah,"RB, CB, LB"
+Jaroslav Zelený,J. Zelený,"LB, CB, LWB"
+Václav Pilař,V. Pilař,"LM, RM"
+Tobias Kempe,T. Kempe,"CM, CAM"
+Matthew Lowton,M. Lowton,RB
+Leandro Martín González Pírez,L. González Pirez,CB
+Francisco Manuel Vélez Jiménez,Fran Vélez,CB
+Bartosz Bereszyński,B. Bereszyński,RB
+Luca Caldirola,L. Caldirola,CB
+Pavao Pervan,P. Pervan,GK
+Sonny Kittel,S. Kittel,"CAM, LW, CM"
+Juan Ezequiel Cuevas,J. Cuevas,"RW, LW"
+Bakary Adama Soumaoro,A. Soumaoro,CB
+Jorge Pulido Mayoral,Pulido,CB
+Nico Schulz,N. Schulz,"LB, LM"
+홍정호 洪正好,Hong Jeong Ho,CB
+James Forrest,J. Forrest,RW
+Tolga Ciğerci,T. Ciğerci,"CDM, CM"
+Milan Badelj,M. Badelj,"CDM, CM"
+Toni Šunjić,T. Šunjić,CB
+Jeison Fabián Murillo Cerón,J. Murillo,CB
+Juan Carlos Pérez López,Juankar,"LB, LWB"
+Valentin Eysseric,V. Eysseric,"CM, LW, CAM"
+Veton Berisha,V. Berisha,ST
+Jonathan Schmid,J. Schmid,"RM, RB, RWB"
+Luděk Pernica,L. Pernica,CB
+Neeskens Kebano,N. Kebano,"LM, LW"
+Valère Germain,V. Germain,ST
+Joe Bryan,J. Bryan,"LB, LWB"
+Stéphane Bahoken,S. Bahoken,ST
+Thomas Delaine,T. Delaine,"RWB, LWB"
+Eric Fernando Botteghin,Eric Botteghin,CB
+M'Baye Babacar Niang,M. Niang,"ST, LM"
+Ibrahim Šehić,I. Šehić,GK
+Paul Dummett,P. Dummett,"CB, LB"
+Bouna Sarr,B. Sarr,"RB, RM"
+Lorenzo António Melgarejo Sanabria,L. Melgarejo,"ST, LM"
+Yanick Brecher,Y. Brecher,GK
+Tokmac Chol Nguen,T. Nguen,"CAM, LM"
+Iván Sánchez Aguayo,Iván Sánchez,"RM, CM, CAM"
+Carlos Clerc Martínez,Clerc,"LB, LWB"
+Naïm Sliti,N. Sliti,LM
+Hillel El Arbi Soudani,H. Soudani,"RW, LW, ST"
+Kemar Roofe,K. Roofe,"ST, CF"
+Rob Schoofs,R. Schoofs,"CM, CDM, CAM"
+Valeri Qazaishvili,Vako,"LM, CAM, LW"
+Jorge Djaniny Tavares Semedo,Djaniny,"ST, LW, RW"
+Valerio Verre,V. Verre,"CAM, LM"
+Nathaniel Chalobah,N. Chalobah,"CDM, CM"
+Silviu Lung,S. Lung,GK
+Paul Nardi,P. Nardi,GK
+Denys Garmash,D. Garmash,"CAM, ST"
+Franco Rodrigo Fragapane,F. Fragapane,"LM, CAM"
+Rafael da Silva,Rafael Silva,"ST, LW, RW"
+Mike van der Hoorn,M. van der Hoorn,CB
+Tobias Strobl,T. Strobl,"CDM, CB"
+Anthony Jung,A. Jung,"LWB, CB"
+Marius Müller,M. Müller,GK
+Marcus Andreas Danielsson,M. Danielson,CB
+Christophe Hérelle,C. Hérelle,CB
+Fabian Holland,F. Holland,"LB, LWB"
+Juan Ramón Cazares Sevillano,J. Cazares,CAM
+Thomas Foket,T. Foket,"RB, RWB"
+Rubén Sobrino Pozuelo,Rubén Sobrino,"ST, RM, LM"
+Renaud Ripart,R. Ripart,"RM, LM, ST"
+Gustavo Henrique Vernes,Gustavo Henrique,CB
+Barrie McKay,B. McKay,"LW, RW"
+Pierrick Capelle,P. Capelle,"RM, CM, LM"
+Marcel Schuhen,M. Schuhen,GK
+Ahmed Hassan Mahgoub,A. Hassan,ST
+Cristian Alberto Pellerano,C. Pellerano,"CDM, CM"
+Charalampos Lykogiannis,C. Lykogiannis,"LWB, LM, LB"
+Ridgeciano Delano Haps,R. Haps,"LB, LM"
+Júlio Carolino Tavares,Júlio Tavares,ST
+Niko Gießelmann,N. Gießelmann,"LWB, LB"
+Birger Danny Verstraete,B. Verstraete,"CDM, CM"
+Javier Manquillo Gaitán,Manquillo,"RB, RWB"
+Darragh Lenihan,D. Lenihan,CB
+Frederico André Ferrão Venâncio,Frederico Venâncio,CB
+Gianluca Lapadula Vargas,G. Lapadula,ST
+Tom Lawrence,T. Lawrence,"LW, ST, CAM"
+Günay Güvenç,G. Güvenç,GK
+Casper Højer Nielsen,C. Højer,LB
+Matt Grimes,M. Grimes,"CM, CDM"
+Lazar Marković,L. Marković,"RM, RW"
+Enzo Pablo Roco Roco,E. Roco,CB
+조현우 崔永宇,Jo Hyeon Woo,GK
+Luca Garritano,L. Garritano,"CAM, CM, LW"
+Tiago Rafael Maia da Silva,Tiago Silva,"CM, CAM"
+Wesley Saïd,W. Saïd,"ST, LW, LM"
+Sven Michel,S. Michel,"ST, LW"
+Rhys James Evitt-Healey,R. Healey,ST
+Ben Davies,B. Davies,CB
+Lucas Vieira de Souza,Lucas Souza,"CDM, CM"
+주민규 朱文奎,Joo Min Kyu,ST
+Nabil Bentaleb,N. Bentaleb,"CDM, CM"
+Aderllan Leandro de Jesus Santos,Aderllan Santos,CB
+Paweł Marek Dawidowicz,P. Dawidowicz,CB
+Ronwen Hayden Williams,R. Williams,GK
+Ben Pearson,B. Pearson,CDM
+Patrick James Coleman McNair,P. McNair,"CB, CDM, CM"
+Éder Fabián Álvarez Balanta,É. Balanta,"CDM, CM"
+Eduard Sobol,E. Sobol,"LB, LM"
+Yerson Candelo Miranda,Y. Candelo,"RM, RB"
+Raúl Alberto Loaiza Morelos,R. Loaiza,"CDM, CM"
+Esteban Andres Pavez Suazo,E. Pavez,"CDM, CM"
+Jeremy Toljan,J. Toljan,RB
+Leandro Nicolás Díaz,L. Díaz,ST
+Lucas Hernán Villalba,L. Villalba,"CB, LB, LWB"
+Gerard Gumbau Garriga,Gumbau,"CM, CDM"
+Bruno Félix Bianchi Massey,B. Bianchi,CB
+Lucas Ariel Menossi,L. Menossi,CM
+Deniz Türüç,D. Türüç,"RM, LM"
+Edimilson Fernandes Ribeiro,E. Fernandes,"CB, CM, RWB"
+Damir Kreilach,D. Kreilach,"ST, CAM, CDM"
+Tin Jedvaj,T. Jedvaj,"CB, RB"
+Rafael Marcelo Delgado,R. Delgado,"LB, CB"
+Gaetano Letizia,G. Letizia,"RB, LB"
+Marcel Tisserand,M. Tisserand,"CB, RB"
+Angus Gunn,A. Gunn,GK
+Arijan Ademi,A. Ademi,"CM, CDM"
+Daley Sinkgraven,D. Sinkgraven,"LB, CM"
+Erik Nascimento de Lima,Erik,"LM, LW, ST"
+Jake Cooper,J. Cooper,CB
+Kieffer Roberto Francisco Moore,K. Moore,ST
+Deon Hotto Kavendji,D. Hotto,"LW, LM, LWB"
+Bruno Henrique Corsini,Bruno Henrique,"CDM, CM"
+Salih Uçan,S. Uçan,"CM, CDM, CAM"
+Jubal Rocha Mendes Júnior,Jubal,CB
+Paul Joseph Arriola Hendricks,P. Arriola,"RM, RW"
+Henrique Silva Milagres,Henrique,LB
+José Ángel Pozo la Rosa,José Pozo,CAM
+Helibelton Palacios Zapata,H. Palacios,"RB, RWB, CB"
+Ignacio Pussetto,I. Pussetto,ST
+Andrea Barberis,A. Barberis,"CDM, CM"
+Ander Cantero Armendáriz,Cantero,GK
+Cédric Hountondji,C. Hountondji,CB
+Jorge Nicolás Figal,N. Figal,"CB, RB"
+Mohammed Ibrahim Kanoo,M. Kanno,"CDM, CM"
+Joel Julius Ilmari Pohjanpalo,J. Pohjanpalo,ST
+Emanuel Quartsin Gyasi,E. Gyasi,"RM, LM, ST"
+Sebastiano Luperto,S. Luperto,CB
+Marco Ilaimaharitra,M. Ilaimaharitra,"CDM, CM"
+Carl Anders Theodor Starfelt,C. Starfelt,CB
+Jean-Eudès Aholou,J. Aholou,"CM, CDM"
+Niclas Eliasson Santana,N. Eliasson,"RM, LM"
+Asger Strømgaard Sørensen,A. Sørensen,CB
+Elías José Gómez,E. Gómez,"LB, LWB"
+Jack Stacey,J. Stacey,"RB, RWB"
+Adam Armstrong,A. Armstrong,"ST, LM"
+Carlos Armando Gruezo Arboleda,C. Gruezo,"CDM, CM"
+손준호 孙准浩,Son Jun Ho,"CDM, CM"
+Arbër Zeneli,A. Zeneli,"LM, LW"
+Ondrej Duda,O. Duda,"CAM, CF"
+Patrick Berg,P. Berg,"CM, CDM"
+Gustavo Henrique da Silva Sousa,Gustavo,ST
+Joris Kayembe Ditu,J. Kayembe,"LWB, LM, CB"
+Federico Bonazzoli,F. Bonazzoli,"ST, CF"
+Ozan Tufan,O. Tufan,"CM, CAM, CDM"
+Fábio Samuel Amorim Silva,Samu,CM
+Munir Mohand Mohamedi,Munir,GK
+Lucas Adrián Hoyos,L. Hoyos,GK
+颜骏凌,Yan Junling,GK
+Amahl Pellegrino,A. Pellegrino,LW
+Adrián Marín Gómez,Adrián Marín,"LB, LWB"
+Kevin Lasagna,K. Lasagna,"ST, CF"
+Javairô Dilrosun,J. Dilrosun,"RW, LW, CAM"
+Jean-Luc Mamadou Diarra Dompé,J. Dompé,"LW, LWB"
+Nemanja Radoja,N. Radoja,"CM, CDM"
+Jack Hendry,J. Hendry,CB
+Hernani Azevedo Júnior,Hernani,"CM, CDM"
+Camilo Sebastián Mayada Mesa,C. Mayada,"RB, CM"
+Martín Nicolás Campaña Delgado,M. Campaña,GK
+Karlan Ahearne-Grant,K. Grant,"ST, LW, RW"
+Matthias Bader,M. Bader,"RB, RM"
+Murilo de Souza Costa,Murilo,"RM, RW, LM"
+Todd Cantwell,T. Cantwell,"LM, CM"
+Ben Sheaf,B. Sheaf,"CDM, CM"
+Ainsley Maitland-Niles,A. Maitland-Niles,"RWB, CM, RB"
+Scott McKenna,S. McKenna,CB
+Benjamin Verbič,B. Verbič,"LW, ST"
+Leonardo César Jardim,Léo Jardim,GK
+Sergio Akieme Rodríguez,Akieme,"LB, LWB, LM"
+Jon Gorenc Stanković,J. Gorenc Stanković,"CDM, CB"
+Emiliano Javier Amor,E. Amor,CB
+Sean Davis,S. Davis,"CDM, CM"
+Greg John Taylor,G. Taylor,LB
+Haris Hajradinović,H. Hajradinović,"CM, CAM"
+Jakub Jankto,J. Jankto,"LM, CM, RM"
+Facundo Altamirano,F. Altamirano,GK
+Jacob Bruun Larsen,J. Bruun Larsen,"LW, LM, ST"
+Stijn Spierings,S. Spierings,"CDM, CM"
+Maximilian Mittelstädt,M. Mittelstädt,"LB, LM"
+Gastón Claudio Giménez,G. Giménez,"CDM, CM"
+Samuel Portugal Lima,Samuel Portugal,GK
+Simon Désiré Sylvanus Deli,S. Deli,CB
+Marvin Wanitzek,M. Wanitzek,CM
+Joël Drommel,J. Drommel,GK
+Robin Lod,R. Lod,"RM, ST, CM"
+Hamza Choudhury,H. Choudhury,"CDM, CM"
+Daniel Lønne Iversen,D. Iversen,GK
+Lukas Maria Görtler,L. Görtler,"CM, RM, CAM"
+Wuilker Fariñez Aray,W. Faríñez,GK
+Óscar Eduardo Estupiñán Vallesilla,Ó. Estupiñán,ST
+Antonio José Raíllo Arenas,Raíllo,CB
+Stanislav Iljutcenko,S. Iljutcenko,ST
+Selim Amallah,S. Amallah,"CAM, CM, LW"
+Oliver Abildgaard,O. Abildgaard,CDM
+Thembinkosi Lorch,T. Lorch,"RW, LW, CF"
+Pantelis Hatzidiakos,P. Hatzidiakos,"RB, CB"
+José Carlos Lazo Romero,Lazo,LM
+Dael Fry,D. Fry,CB
+Jean-Kévin Duverne,J. Duverne,"RB, LB"
+Lawrence Ati Zigi,L. Zigi,GK
+Christ-Emmanuel Faitout Maouassa,F. Maouassa,LB
+Frederico Peter Cabral Bardini,Freder Cabral,GK
+Hugo Goiteira Regalo,Hugo Goiteira,CB
+Osvaldo Murilo Lodeiro Ferreira,Osvaldo Lodeiro,"CB, RB, LB"
+Lúcio Anselmo Calegario Pitta,Lúcio Anselmão,"CM, LB"
+Caio Welson Chissano Dourado,Caio Chissano,"LB, LM"
+Paulson Otávio Junqueira Gonçalves,Paulson Junqueira,LB
+Nicolás Júlio Formido Paiva,Nicolás Formido,"CAM, LM, CM"
+Guto Ramón Costinho Ribeiro,Guto Costinho,CB
+Michel David Cruceiro Muscato,Michel Cruceiro,"CDM, CM"
+Emanuel Breno Teixeira Rocha,Emu Teixeira,CB
+Jonas Welson Damasto Orsi,Jonas Damasto,LB
+Jeff Nazario Meire Costinho,Jeffmeirson,LB
+Márcio Anderson Tramontino Sá,Tramontinaldo,"RB, RM"
+Nathan Walter Neves Bessa,Neviano Neves,"CM, RM"
+Thomas Nicolas Silva Rangel,Silvosinho,"RB, RM, RWB"
+Fabrio Sandro Farinha Donatelo,Fabrio Farinha,"CAM, LM"
+Breno Ronaldo Duarte Catarino,Brenão Duarte,RM
+Leonardo Luis Sandelas Junior,Sandelas Júnior,CDM
+Darío Filipe Esteiro Cortejo,Darinho Carioca,ST
+Luis David Couprins Acuna,Luis Couprins,"CDM, CM"
+Nuno Caio Lisareda Abravanel,Nuno Lisareda,ST
+Rodolfo Dilson Pitta Fonseca,Rodolfo Pittaça,"ST, LM"
+Claudiano Vair Paes Neto,Claudinho Vair,RW
+Thiago Marcos Rolim Nascimento,Thio Rolim,"LW, LM"
+Marlon Lourival Nideiro Cintra,Marlon Nideiro,CAM
+Alvin Severino Sousa Diniz,Alvildo Sousa,"CAM, CM"
+Fabrício Sandro Arnoia Sepa,Fabri Arnoia,"RW, CF"
+Amadou Diawara,A. Diawara,"CDM, CM"
+Lyanco Evangelista Silveira Neves Vojnović,Lyanco,CB
+Jean-Victor Makengo,J. Makengo,"CM, CDM"
+Philana Tinotenda Kadewere,T. Kadewere,"RW, ST"
+Gautier Larsonneur,G. Larsonneur,GK
+Saviour Amunde Godwin,S. Godwin,"LW, RW"
+Ádám Nagy,Á. Nagy,"CDM, CM"
+Filip Krovinović,F. Krovinović,"CAM, CM, CDM"
+Josip Mišić,J. Mišić,"CDM, CM"
+Gorka Guruzeta Rodríguez,Guruzeta,ST
+Jhon Janer Lucumí Bonilla,J. Lucumí,CB
+Kelvin Amian Adou,K. Amian,"RWB, RM, RB"
+Emre Mor,E. Mor,"RM, LM"
+Diogo António Cupido Gonçalves,Diogo Gonçalves,"RW, RWB"
+Filippo Bandinelli,F. Bandinelli,CM
+Pelenda Joshua Tunga Dasilva,J. Dasilva,"CM, CAM"
+Reiss Nelson,R. Nelson,"RW, LW"
+Axel Tuanzebe,A. Tuanzebe,CB
+Lloyd Kelly,L. Kelly,CB
+João Miguel Macedo da Silva,Miguel Silva,GK
+Romain Del Castillo,R. Del Castillo,"RM, LM, RW"
+Ronaël Julien Pierre-Gabriel,R. Pierre-Gabriel,"RB, RWB"
+Francisco José Sánchez Rodríguez,Curro Sánchez,"RM, CAM, CM"
+Andraž Šporar,A. Šporar,ST
+Yann Dorgelès Isaac Karamoh,Y. Karamoh,"LW, LM"
+Ismael Díaz De León,I. Díaz,"ST, LW"
+Antonio Latorre Grueso,Toni Lato,"LB, LWB, LM"
+Dániel Sallói,D. Sallói,"LW, ST"
+Denys Boyko,D. Boyko,GK
+Mark Travers,M. Travers,GK
+森岡 弘良太,R. Morioka,"CM, CAM"
+Fahd Moufi,F. Moufi,RB
+Wesley Moraes Ferreira da Silva,Wesley,ST
+Lucas Gabriel Merolla,L. Merolla,CB
+浅野 佐藤,T. Asano,"RM, RW, CAM"
+Claudio Nicolás Bravo,C. Bravo,LB
+Cristian Alberto Tarragona,C. Tarragona,ST
+Amir Hadžiahmetović,A. Hadžiahmetović,"CDM, CM, LM"
+Carles Aleñá Castillo,Aleñá,"CM, RM, LM"
+Arijanet Anan Murić,A. Murić,GK
+Milad Mohammadi Keshmarzi,M. Mohammadi,LB
+Rémi Oudin,R. Oudin,"LM, RM"
+Hugo Cuypers,H. Cuypers,ST
+Amath Ndiaye Diedhiou,A. Ndiaye,"LM, ST, RM"
+Jens Petter Hauge,J. Hauge,"LM, RM, CAM"
+Vágner Joshua Corraldo Santoso,Vágner Corraldo,"LB, LM"
+Mardial Sidney Cunha Sousa,Mardial Cunha,CB
+Henry Chukwuemeka Onyekuru,H. Onyekuru,"LW, LM, RW"
+José Artur de Lima Junior,Artur,"CDM, CM"
+伊藤 宏樹,H. Ito,"CB, CDM"
+Lewis Travis,L. Travis,"CDM, CM"
+Didier Lamkel Zé,D. Lamkel Zé,"ST, LM"
+László Bénes,L. Bénes,"CM, CAM"
+José Antonio Caro Díaz,Caro,GK
+Lucas Höler,L. Höler,"ST, CF"
+Rúben Gonçalo Silva Nascimento Vinagre,Rúben Vinagre,"LWB, LB"
+Rasmus Schmidt Nicolaisen,R. Nicolaisen,CB
+Ryan Yates,R. Yates,"CDM, CM"
+Ethan Kwame Colm Raymond Ampadu,E. Ampadu,"CDM, CM, CB"
+Giorgi Kvilitaia,G. Kvilitaia,ST
+Fabio Depaoli,F. Depaoli,"RB, RM, LM"
+Mario González Gutiérrez,Mario González,ST
+Enzo Diogo Merques Gomes,Enzo Merques,LB
+Marlion Gustavo Simões Paiva,Marlion Simões,"LB, CM"
+Jorge Renato Praceira Diniz,Jorge Praceira,CB
+Nildo Enaldo Reisão Dinis,Nildo Reisão,"CDM, CB"
+Alberth Josué Elis Martínez,A. Elis,"ST, RM"
+Dimitris Giannoulis,D. Giannoulis,"LB, LWB"
+Alexis Claude-Maurice,A. Claude-Maurice,"CM, LM, LW"
+Álvaro Fernández Llorente,Álvaro,GK
+Arnaud Dominique Nordin,A. Nordin,"RM, ST, LM"
+Lewis O'Brien,L. O'Brien,"CM, CDM, LM"
+Robert Nesta Glatzel,R. Glatzel,ST
+Jan Sýkora,J. Sýkora,"LM, CAM, LB"
+Emmanouil Siopis,M. Siopis,"CDM, CM"
+Jordan Torunarigha,J. Torunarigha,"CB, LB"
+Edward Nketiah,E. Nketiah,ST
+Oleksandr Karavaev,O. Karavaev,"RM, LB, RB"
+Matías Nicolás Rojas Romero,M. Rojas,"RW, RM, CM"
+Julian Gressel,J. Gressel,"RM, RWB"
+Miles Gordon Robinson,M. Robinson,CB
+Dennis Tørset Johnsen,D. Johnsen,"LW, RW, ST"
+Jorge Cuenca Barreno,Jorge Cuenca,CB
+Santiago Ignacio Bueno Sciutto,S. Bueno,CB
+Michael Amir Murillo Bermudez,M. Murillo,"RB, RWB, RM"
+Albert Guðmundsson,A. Guðmundsson,"RM, LM, CAM"
+Callum O'Hare,C. O'Hare,"CAM, RW, ST"
+Jon Guridi Aldalur,Guridi,"CM, CAM, CDM"
+Marcin Bułka,M. Bułka,GK
+Nahuel Lautaro Bustos,N. Bustos,"ST, LM"
+Leo Skiri Østigård,L. Østigård,CB
+Jefferson David Savarino Quintero,J. Savarino,"RM, RW, ST"
+Jørgen Strand Larsen,J. Larsen,ST
+Ibrahima Niane,I. Niane,"ST, LW"
+Atakan Karazor,A. Karazor,"CDM, CB"
+Hervé Kouakou Koffi,H. Koffi,GK
+Zian Flemming,Z. Flemming,"CAM, ST, RW"
+Ibrahima Diallo,I. Diallo,"CDM, CM"
+Frank Ogochukwu Onyeka,F. Onyeka,"CDM, CM"
+Pasquale Mazzocchi,P. Mazzocchi,"RWB, LM, RB"
+Romano Christian Schmid,R. Schmid,"CAM, CM"
+Georgios Giakoumakis,G. Giakoumakis,ST
+Danilo Pereira Da Silva,Danilo,ST
+Rominigue Kouamé,R. Kouamé,"CM, CDM"
+Davit Khocholava,D. Khocholava,CB
+Pedro Filipe Figueiredo Rodrigues,Pêpê,"CM, CDM"
+Pierre Kunde Malong,P. Malong,"CDM, CM"
+Elvis Rexhbeçaj,E. Rexhbeçaj,"CM, CDM, CAM"
+Maxime Jean Roberto Leverbe,M. Leverbe,CB
+Sandro Leonardo Morales,L. Morales,"CB, RB"
+Ludovit Reis,L. Reis,"CM, CDM"
+Matthew Sean O'Riley,M. O'Riley,"CM, CDM"
+Mert Hakan Yandaş,M. Yandaş,"CM, CAM"
+Caoimhin Kelleher,C. Kelleher,GK
+Nathaniel Phillips,N. Phillips,CB
+Marcelo Josemir Saracchi Pintos,M. Saracchi,"LB, LWB"
+Denis Vavro,D. Vavro,CB
+Facundo Tomás Garcés,F. Garcés,CB
+Alexander Niklas Meyer-Schade,A. Meyer,GK
+Ignatius Kpene Ganago,I. Ganago,ST
+Alejandro Centelles Plaza,Álex Centelles,LB
+Patric Pfeiffer,P. Pfeiffer,CB
+Viktor Einar Gyökeres,V. Gyökeres,ST
+Borna Barišić,B. Barišić,LB
+Manuel Javier Vallejo Galván,Manu Vallejo,"ST, LM, CAM"
+Saâd Abdullah Bguir,S. Bguir,"CAM, RM, CF"
+Badr Benoun,B. Benoun,"CB, CDM"
+Manuel Morlanes Ariño,Manu Morlanes,"CDM, CM"
+Ramón Rodríguez Jiménez,Monchu,"CM, CDM"
+Abdoulrahmane Harroui,A. Harroui,"CDM, CM, RM"
+Stanley Pierre N,S. Nsoki,"CB, LWB"
+Carlos Miguel Coronel,Carlos Coronel,GK
+Håkon Evjen,H. Evjen,"RW, CAM"
+Mark Alexander McKenzie,M. McKenzie,CB
+Jorman David Campuzano Puentes,J. Campuzano,"CDM, CM"
+Ivica Ivušić,I. Ivušić,GK
+Gianluca Cristiano Busio,G. Busio,"CM, CDM"
+Cristian Sleiker Cásseres Yepes,C. Cásseres Jr,"CDM, CM, RM"
+Linton Maina,L. Maina,"LM, RM, ST"
+Joseph Scally,J. Scally,"RB, LB"
+Largie Ramazani,L. Ramazani,"RM, LM, ST"
+Brandon Williams,B. Williams,LB
+Marcus Holmgren Pedersen,M. Pedersen,"RB, LB"
+Ali Gholizadeh,A. Gholizadeh,"RM, CAM, CF"
+Ayoub El Kaabi,A. El Kaabi,"ST, RM"
+Francisco Leonel Lima Silva Machado,Chiquinho,"CM, CAM"
+Tobias Mohr,T. Mohr,"LM, LB"
+José Corpas Serna,Corpas,RM
+Jaka Bijol,J. Bijol,"CB, CDM"
+Ivan Šunjić,I. Šunjić,"CDM, CM"
+Loïc Andre Terry Lapoussin,L. Lapoussin,"LM, CM, LWB"
+Fernando Dos Santos Pedro,Fernando,"ST, CAM"
+Marius Bülter,M. Bülter,"LM, ST, RM"
+Jayden Bogle,J. Bogle,"RWB, RB"
+Braian José Samudio Segovia,B. Samudio,"LM, RM, ST"
+Felipe de Sousa Silva,Felipe Silva,ST
+Tomáš Chorý,T. Chorý,ST
+Kamal Sowah,K. Sowah,"CF, CAM, ST"
+Yassine Benrahou,Y. Benrahou,"RM, CM, ST"
+Aiham Hanz Ousou,A. Ousou,CB
+Denys Popov,D. Popov,CB
+Juan Diego Molina Martínez,Stoichkov,"LM, ST, CAM"
+Leandro Barreiro Martins,L. Barreiro Martins,"CM, CDM"
+Willer Emilio Ditta Pérez,W. Ditta,CB
+Pedro De la Vega,P. De la Vega,"RM, RW, LW"
+前田 大然,D. Maeda,"LW, ST"
+Santiago Gerardo Rojas López,S. Rojas,GK
+Yari Verschaeren,Y. Verschaeren,"CAM, RM, CM"
+Luca Nicolás Orellano,L. Orellano,RW
+Saud Abdullah Abdul Hamid,S. Abdulhamid,"RB, CB, CDM"
+Tajon Buchanan,T. Buchanan,"RM, LM"
+Nicolás Capaldo Toboas,N. Capaldo,CM
+Tomáš Čvančara,T. Čvančara,ST
+Dino Hotić,D. Hotić,"CAM, CM, RW"
+Joël Mohammed Ramzan Piroe,J. Piroe,"ST, RW"
+Marcos Antonio Silva Santos,Marcos Antonio,"CM, CDM"
+Jaime Seoane Valenciano,Jaime Seoane,"CM, CAM, CDM"
+Ian Ethan Maatsen,I. Maatsen,"LB, LWB"
+Sergio Camello Pérez,Sergio Camello,ST
+Ismaila Pathé Ciss,P. Ciss,CDM
+Josip Stanišić,J. Stanišić,"RB, CB"
+Angelo Stiller,A. Stiller,"CM, CDM"
+Joshua Orobosa Zirkzee,J. Zirkzee,"ST, CAM"
+Nicolai Vallys,N. Vallys,LM
+Rodrigo Zalazar Martínez,R. Zalazar,"CM, CAM"
+Tom Krauß,T. Krauß,"CM, CDM"
+Gregore de Magalhães da S.,Gregore,"CDM, CM"
+Moustapha Zeghba,M. Zeghba,GK
+Mathis Rayan Cherki,R. Cherki,"CAM, LW, RW"
+Milan Fabrizio van Ewijk,M. van Ewijk,RWB
+Douglas Augusto Soares Gomes,Douglas Augusto,"CM, CAM, CDM"
+Jóbson de Brito Gonzaga,Maracás,CB
+Andrea Colpani,A. Colpani,"CM, CAM"
+Aster Jan Vranckx,A. Vranckx,"CM, CDM"
+Marcos André de Sousa Mendonça,Marcos André,"ST, LW, LM"
+Rıdvan Yılmaz,R. Yılmaz,LB
+Anthony Rouault,A. Rouault,CB
+Taylor Jay Harwood-Bellis,T. Harwood-Bellis,CB
+Nicolás Melamed Ribaudo,Nico Melamed,"LM, CAM, RM"
+Tanguy-Austin Nianzou Kouassi,T. Nianzou,CB
+Junior Alexis Hernández Angulo,J. Hernández,LB
+Isaiah Jones,I. Jones,RWB
+Joseph Stanley Okumu,J. Okumu,CB
+Giorgos Kyriakopoulos,G. Kyriakopoulos,"LB, LM, LW"
+Alejandro Francés Torrijo,Francés,CB
+Gastón Hernán Olveira Echeverría,G. Olveira,GK
+Jan Thielmann,J. Thielmann,"RM, ST, LM"
+José Andrés Martínez Torres,J. Martínez,CDM
+Terem Igobor Moffi,T. Moffi,ST
+Loïc Badé,L. Badé,CB
+Azzedine Ounahi,A. Ounahi,CM
+José Adoni Cifuentes Charcopa,J. Cifuentes,"CDM, CM"
+Ercan Kara,E. Kara,ST
+Youssouf Ndayishimiye,Y. Ndayishimiye,"CB, CDM, CM"
+Samuel de Almeida Costa,Samú Costa,"CDM, CM"
+Jean Emile Junior Onana Onana,J. Onana,"CM, CDM"
+Moisés Isaac Caicedo Corozo,M. Caicedo,"CDM, CM"
+Facundo Daniel Torres Pérez,F. Torres,"RM, LM"
+Wellington Moisés Ramírez Preciado,M. Ramírez,GK
+Aaron Nicolás Molinas,A. Molinas,"CAM, CM"
+Luca Netz,L. Netz,"LB, LM"
+Ilan Kais Kebbal,I. Kebbal,"RW, ST, RM"
+Fabiano Josué de Souza Silva,Fabiano Souza,"RB, RM"
+Anthony David Junior Elanga,A. Elanga,"RW, LW, RM"
+Eliot Matazo,E. Matazo,"CDM, CM"
+Illia Zabarnyi,I. Zabarnyi,CB
+Andrea Cambiaso,A. Cambiaso,"LWB, LM, RWB"
+David Pereira Da Costa,David Costa,"LW, CAM, CM"
+Václav Jemelka,V. Jemelka,"CB, LB"
+Nicolas Jackson,N. Jackson,"ST, CAM, LM"
+Ilaix Moriba,I. Moriba,CM
+Óscar Mingueza García,Mingueza,"CB, RB"
+Yorbe Vertessen,Y. Vertessen,"RW, ST"
+Nicolò Fagioli,N. Fagioli,"CDM, CM, CAM"
+Francisco Fernandes Conceição,Francisco Conceição,RW
+Kevin Leonardo Mier Robles,K. Mier,GK
+Sam Beukema,S. Beukema,CB
+André Filipe Russo Franco,André Franco,"CAM, CM"
+Daniel Alexis Leite Figueira,Daniel Figueira,GK
+Raphael Onyedika,R. Onyedika,"CDM, CM"
+Matteo Cancellieri,M. Cancellieri,"RW, CF"
+Kristjan Asllani,K. Asllani,"CDM, CM"
+Yira Sor,Y. Sor,"ST, RM"
+Fabio Miretti,F. Miretti,"CM, CAM, CDM"
+Yahya Attiat-Allah,Y. Attiat-Allah,LB
+Lukáš Sadílek,L. Sadílek,"CM, CDM"
+Marcus Vincius Oliveira Alencar,Marquinhos,"RM, LM"
+Moses Usor,M. Usor,"RM, LM, ST"
+Rune Almenning Jarstein,R. Jarstein,GK
+Atiba Hutchinson,A. Hutchinson,"CM, CDM"
+Lisandro López,L. López,"ST, CAM"
+José Ernesto Sosa,J. Sosa,"CM, CDM"
+Roberto Soldado Rillo,Soldado,ST
+Alex Cordaz,A. Cordaz,GK
+Łukasz Józef Podolski,L. Podolski,"CF, ST, CAM"
+Steven Davis,S. Davis,CM
+Juan Manuel Insaurralde,J. Insaurralde,CB
+Julio Alberto Barroso,J. Barroso,CB
+Allan Fuentoza,A. Fuentoza,LB
+Eduardo Dinsol,E. Dinsol,"RB, RM"
+Johan Guerredero,J. Guerredero,"CDM, CM, CAM"
+Bernardo Peñena,B. Peñena,ST
+Felipe Barridos,F. Barridos,GK
+Sinan Bolat,S. Bolat,GK
+Daniele Padelli,D. Padelli,GK
+Tom Heaton,T. Heaton,GK
+Nicolás Mario Domingo,N. Domingo,"CDM, CM, CB"
+Darren Randolph,D. Randolph,GK
+Mario Suárez Mata,Mario Suárez,"CDM, CB"
+Jonathan Ramón Maidana,J. Maidana,CB
+Manuel Alejandro García Sánchez,Manu García,"CM, CDM"
+Jonas Bybjerg Lössl,J. Lössl,GK
+Marco Mancosu,M. Mancosu,"CAM, CF"
+Niklas Moisander,N. Moisander,CB
+James Tomkins,J. Tomkins,CB
+Ritchie Ria Alfons De Laet,R. De Laet,"RB, CB, LB"
+Alexandre Roger Oukidja,A. Oukidja,GK
+Morgan Schneiderlin,M. Schneiderlin,"CDM, CM"
+Cristian Eduardo Zapata Valencia,C. Zapata,CB
+Thomas Mangani,T. Mangani,"CDM, CM"
+Ryan Henk Donk,R. Donk,"CB, CDM"
+Xavier Torres Buigues,Xavi Torres,"CDM, CB"
+Marcelo Antônio Guedes Filho,Marcelo,CB
+Hassan Al Haydos,H. Al Haydos,"RW, CAM, LW"
+Craig George Cathcart,C. Cathcart,CB
+川島 永嗣,E. Kawashima,GK
+Radim Řezník,R. Řezník,"RB, CB"
+Mahmut Tekdemir,M. Tekdemir,"CDM, CM, CB"
+Ciaran Clark,C. Clark,CB
+Mathias Jattah-Njie Jørgensen,Zanka,CB
+Martin Kelly,M. Kelly,"CB, RB"
+Osvaldo Nicolás Fabián Gaitán,N. Gaitán,"CAM, CM"
+Ricky van Wolfswinkel,R. van Wolfswinkel,"ST, CAM"
+Ismaël Traoré,I. Traoré,CB
+Andrea Poli,A. Poli,"CDM, CM"
+Matt Ritchie,M. Ritchie,"LM, LB"
+Francisco José Olivas Alba,Kiko Olivas,CB
+Jakob Jantscher,J. Jantscher,ST
+Fredrik Gulbrandsen,F. Gulbrandsen,"ST, LW"
+Mubarak Wakaso,M. Wakaso,"CM, LM"
+Admir Mehmedi,A. Mehmedi,"CAM, CF, LW"
+Nélson Miguel Castro Oliveira,Nélson Oliveira,ST
+Bastian Oczipka,B. Oczipka,"LB, LWB, CB"
+Timothée Kolodziejczak,T. Kolodziejczak,"CB, LB"
+Fehmi Mert Günok,M. Günok,GK
+Óscar Sielva Moreno,Óscar Sielva,"CDM, CM"
+André Hansen,A. Hansen,GK
+Tony Jantschke,T. Jantschke,"CB, RB"
+Peter Pekarík,P. Pekarík,RB
+Tomás Eduardo Rincón Hernández,T. Rincón,"CM, CDM"
+Junior Wakalible Lago,L. Júnior,LM
+Alejandro Bedoya,A. Bedoya,"CM, CDM"
+Sébastien Corchia,S. Corchia,"RB, RWB"
+吉田 麻也,M. Yoshida,CB
+김승규 金承奎,Kim Seung Gyu,GK
+Valon Berisha,V. Berisha,"CM, CAM, CDM"
+Bo Kristoffer Nordfeldt,K. Nordfeldt,GK
+Paul Lasne,P. Lasne,"CDM, CM"
+Mato Jajalo,M. Jajalo,"CDM, CM"
+Sebastian Polter,S. Polter,ST
+Romain Hamouma,R. Hamouma,"ST, RM"
+Maxime Le Marchand,M. Le Marchand,CB
+Alan Pulido Izaguirre,A. Pulido,ST
+Riad Nouri,R. Nouri,"RM, LM"
+Steve Cook,S. Cook,CB
+Iago Herrerín Buisán,Herrerín,GK
+Alfredo Kulembe Ribeiro,Fredy,"CM, CAM, CDM"
+Milan Heča,M. Heča,GK
+Guido Burgstaller,G. Burgstaller,ST
+Stefan Ilsanker,S. Ilsanker,"CB, CDM"
+Sergi Enrich Ametller,Sergi Enrich,ST
+Adrián San Miguel del Castillo,Adrián,GK
+Phil Jones,P. Jones,CB
+Josepmir Aarón Ballón Villacorta,J. Ballón,"CDM, CM"
+Anselmo de Moraes,Anselmo,"CM, CDM, CAM"
+Lorenzo Crisetig,L. Crisetig,"CDM, CM"
+Joaquín Navarro Jiménez,Ximo Navarro,"CB, RB"
+Damian Dąbrowski,D. Dąbrowski,CDM
+Patrick Herrmann,P. Herrmann,RM
+Stanislav Tecl,S. Tecl,ST
+Josip Drmić,J. Drmić,ST
+Cristian Esteban Gamboa Luna,C. Gamboa,RB
+Martin Linnes,M. Linnes,"RWB, LB"
+Dominick Drexler,D. Drexler,"CAM, CM, RM"
+Jonathan Mensah,J. Mensah,CB
+Jack Robinson,J. Robinson,"CB, LB"
+김태환 金泰万,Kim Tae Hwan,"RB, RWB"
+Yoann Court,Y. Court,"RM, LM, CAM"
+Manuel Agudo Durán,Nolito,"LM, ST"
+Wilson Bruno Naval da Costa Eduardo,Wilson Eduardo,ST
+Josué Filipe Soares Pesqueira,Josué,"CAM, CM, CF"
+André Hoffmann,A. Hoffmann,CB
+Numa Lavanchy,N. Lavanchy,"RB, RWB, RM"
+Jesse Pekka Joronen,J. Joronen,GK
+Jamie Paterson,J. Paterson,"LW, CM, CAM"
+Pedro Mba Obiang Avomo,Pedro Obiang,"CDM, CM"
+Nicolai Møller Boilesen,N. Boilesen,CB
+Michael Esser,M. Esser,GK
+Benito Raman,B. Raman,"ST, RM, LM"
+Christopher Schindler,C. Schindler,CB
+Emmanuel Gigliotti,E. Gigliotti,ST
+Tomáš Kalas,T. Kalas,CB
+Christian Lund Gytkjær,C. Gytkjær,ST
+Kenny McLean,K. McLean,"CDM, CM, LB"
+김영권 金英权,Kim Young Gwon,CB
+Noë Dussenne,N. Dussenne,CB
+Ohi Anthony Kwoeme Omoijuanfo,O. Omoijuanfo,ST
+Diego Santiago Fagúndez Pepe,D. Fagundez,"LM, RM, CAM"
+Federico Fernández,F. Fernández,CB
+Luis Ricardo Mejía Cajar,L. Mejía,GK
+Konstantinos Stafylidis,K. Stafylidis,"LB, RB, CDM"
+Simon Zoller,S. Zoller,"ST, RM, RW"
+Timothy Chandler,T. Chandler,"RM, RWB"
+Facundo Tomás Quignón,F. Quignon,"CDM, CM"
+Jesé Rodríguez Ruiz,Jesé,"LM, ST, RM"
+Jack Butland,J. Butland,GK
+Thomas Monconduit,T. Monconduit,"CDM, CM"
+Gaëtan Courtet,G. Courtet,ST
+Loris Karius,L. Karius,GK
+Lévy Koffi Djidji,K. Djidji,CB
+Kenny Lala,K. Lala,"RB, RWB"
+Jan Bořil,J. Bořil,"LB, RB"
+Charly Musonda Junior,C. Musonda,"RM, LM"
+Davy Roef,D. Roef,GK
+Ghayas Zahid,G. Zahid,"CAM, CM"
+Diego Iván Rubio Kostner,D. Rubio,"ST, CAM"
+João Carlos Reis Graça,Joãozinho,LB
+Salvador José Milhazes Agra,Salvador Agra,"RW, LW"
+Mattia Valoti,M. Valoti,CM
+최영준 财杨钧,Choi Young Joon,"CDM, CM"
+Matteo Bianchetti,M. Bianchetti,CB
+Mirko Pigliacelli,M. Pigliacelli,GK
+Jack Alexander Price,J. Price,"CDM, CM"
+Dener Gomes Clemente,Dener,"CM, CDM, CAM"
+Lucas Nahuel Castro,L. Castro,"CM, CAM"
+Gastón Brugman Duarte,G. Brugman,"CDM, CM"
+Stefano Denswil,S. Denswil,"CB, LB"
+Leonardo Pavoletti,L. Pavoletti,ST
+Nicola Murru,N. Murru,LB
+Vlad Iulian Chiricheș,V. Chiricheș,CB
+Harry Toffolo,H. Toffolo,"LWB, LB"
+Amato Ciciretti,A. Ciciretti,"RW, CAM"
+Dominique Heintz,D. Heintz,CB
+Mikael Ishak,M. Ishak,ST
+Matt Hedges,M. Hedges,CB
+Filip Viktor Helander,F. Helander,CB
+Jere Juhani Uronen,J. Uronen,"LB, LM"
+Paulo Henrique Soares dos Santos,Paulinho,"ST, CAM"
+Kaan Ayhan,K. Ayhan,CB
+Lucas Pedro Alves de Lima,Lucas Lima,LB
+Andrew Kyere Yiadom,A. Yiadom,"RWB, RB, CB"
+Lars Veldwijk,L. Veldwijk,ST
+Dimitrios Kourmpelis,D. Kourbelis,"CDM, CB"
+Magnus Lennart Eriksson,M. Eriksson,CM
+Robin Pröpper,R. Pröpper,CB
+Youssouf Yacoub M'Changama,Y. M'Changama,"CAM, CM"
+Sam Byram,S. Byram,"LB, RB"
+Thom Jan Marinus Haye,T. Haye,"CM, CDM"
+Gerso Fernandes,Gerso,"LW, RW"
+Branimir Hrgota,B. Hrgota,"CAM, ST"
+Daniel Bachmann,D. Bachmann,GK
+Florian Tardieu,F. Tardieu,"CDM, CM"
+Dimitrios Siovas,D. Siovas,CB
+Birama Touré,B. Touré,"CDM, CM"
+Andrés Felipe Cadavid Cardona,A. Cadavid,CB
+Siebe Schrijvers,S. Schrijvers,"CM, CF, ST"
+Joshua Brenet,J. Brenet,"RB, LB"
+Carlos Vinícius Santos de Jesús,Carlinhos,"CM, CAM"
+Joaquín José Marín Ruiz,Quini,"RB, LB"
+Lucas Eduardo dos Santos João,Lucas João,ST
+Yasir Gharsan Al-Shahrani,Y. Al Shahrani,"LB, RB"
+Jordi Quintillà Guasch,Jordi Quintillà,"CDM, CM"
+Wladimiro Falcone,W. Falcone,GK
+Patrick Drewes,P. Drewes,GK
+Ben Osborn,B. Osborn,"LWB, LM, CM"
+César De La Hoz López,De La Hoz,"CDM, CB"
+Pedro Miguel Martins Santos,Pedro Santos,"LB, LM, RM"
+Martin Callie Boyle,M. Boyle,"RM, ST"
+Nyasha Liberty Mushekwi,N. Mushekwi,ST
+Marco Benassi,M. Benassi,CM
+Thomas Alun Lockyer,T. Lockyer,CB
+Jackson Alexander Irvine,J. Irvine,CM
+Ibrahim Amadou,I. Amadou,"CDM, CB, CM"
+Jonathan David Gómez,J. Gómez,"CAM, CM"
+Lewis Baker,L. Baker,"CM, CDM"
+Federico Barba,F. Barba,"CB, LB"
+Damian Kądzior,D. Kądzior,"CF, LM, RM"
+Nicolas Gavory,N. Gavory,"LB, LWB, CB"
+Andreas Voglsammer,A. Voglsammer,"ST, LM, RM"
+Sondre Buskerud Tronstad,S. Tronstad,"CM, CDM"
+Max Lowe,M. Lowe,"LWB, LB"
+Ivan Ricardo Neves Abreu Cavaleiro,Ivan Cavaleiro,"LM, LW, ST"
+Clinton Mua N'Jie,C. Njie,"RM, ST"
+Andreas Beyer Maxsø,A. Maxsø,CB
+Jack O'Connell,J. O'Connell,CB
+Jonas Meffert,J. Meffert,"CDM, CM"
+Loïs Diony,L. Diony,"ST, LM"
+Roberto Insigne,R. Insigne,"RW, RM"
+John Souttar,J. Souttar,CB
+Maxime Chanot,M. Chanot,CB
+Jorrit Hendrix,J. Hendrix,"CDM, CM"
+Wylan Cyprien,W. Cyprien,"CDM, CM"
+Kellyn Kai Perry-Acosta,K. Acosta,"CM, CDM"
+Lucas Abraham Chávez,L. Cháves,GK
+Chuba Akpom,C. Akpom,ST
+Felipe Andrés Mora Aliaga,F. Mora,ST
+Joe Rothwell,J. Rothwell,CM
+Ken Nlata Sema,K. Sema,"RM, LM"
+Alex Mowatt,A. Mowatt,"CM, CDM"
+Ager Aketxe Barrutia,Aketxe,CAM
+Davide Biraschi,D. Biraschi,"CB, RB"
+Sérgio Andrés Otálvaro Botero,S. Otálvaro,"RB, RM"
+Rafael Pérez,R. Pérez,CB
+Édgar Felipe Pardo Castro,F. Pardo,"RM, RW"
+Felipe Aguilar Mendoza,F. Aguilar,CB
+Danovis Banguero Lerma,D. Banguero,LB
+Fredy Hinestroza Arias,F. Hinestroza,"LM, RM"
+Mauricio Andrés Cuero Castillo,M. Cuero,"RM, LM"
+Juan Camilo Angulo Villegas,J. Angulo,RB
+Jesper Karlström,J. Karlström,CDM
+Patricio Rodolfo Rubio Pulgar,P. Rubio,"ST, LW"
+Paolo Duval Goltz,P. Goltz,CB
+Sebastian Schonlau,S. Schonlau,CB
+Emmanuel Más Sgros,E. Mas,"LB, LWB, LM"
+Lucas Martín Villafáñez,L. Villafañez,"CAM, CM, LW"
+Matías Ezequiel Catalán,M. Catalán,"CB, RB"
+Pablo Javier Pérez,P. Pérez,"CM, CDM"
+Brayan Josué Cortés Fernández,B. Cortés,GK
+Alan Joaquín Aguerre,A. Aguerre,GK
+Sebastián Emanuel Moyano,S. Moyano,GK
+Mariano Ezequiel Bíttolo,M. Bíttolo,"LB, LWB, LM"
+Martín Cauteruccio Rodríguez,M. Cauteruccio,"ST, RM"
+Jonathan Cristian Silva,J. Silva,"LB, LWB, CB"
+Leonardo Rafael Jara,L. Jara,RB
+Rúben Miguel Nunes Vezo,Rúben Vezo,"CB, RB"
+Christian Mathenia,C. Mathenia,GK
+Alexander Schlager,A. Schlager,GK
+Matthew Miazga,M. Miazga,CB
+David Jason Remeseiro Salgueiro,Jason,RM
+Alireza Jahanbakhsh,A. Jahanbakhsh,RW
+Patrick Mainka,P. Mainka,CB
+Domagoj Antolić,D. Antolić,"CM, CDM, CAM"
+Wallace Fortuna dos Santos,Wallace,CB
+Hamza Sakhi,H. Sakhi,"CM, LM, RM"
+Alan James Browne,A. Browne,"CM, RM, RWB"
+Jorge Hernán Menosse Acosta,H. Menosse,CB
+Carlos Manuel Cardoso Mané,Carlos Mané,"RW, LW, LM"
+Václav Černý,V. Černý,RW
+Mame Baba Thiam,M. Thiam,"LM, ST, LW"
+Alexis Martín Arias,A. Martín Arias,GK
+Andrew Hjulsager,A. Hjulsager,"CAM, CM, CF"
+Mbwana Ally Samatta,M. Samatta,ST
+Khama Billiat,K. Billiat,"CF, RW, ST"
+Didier Ibrahim Ndong,D. Ndong,"CDM, CM"
+Sargis Adamyan,S. Adamyan,"ST, LM, CAM"
+Francesco Filippo Zampano,F. Zampano,"RB, LB"
+Sean Desmond Klaiber,S. Klaiber,RB
+David Costas Cordal,David Costas,CB
+Alex Ferrari,A. Ferrari,"CB, RB"
+Liam Henderson,L. Henderson,"CM, CAM, CF"
+Pietro Ceccaroni,P. Ceccaroni,CB
+Nicolás Orsini,N. Orsini,ST
+Isaac Carcelén Valencia,Iza Carcelén,"RB, RM"
+Federico Mattiello,F. Mattiello,"RB, RM, LM"
+Alberto Grassi,A. Grassi,"CM, CDM"
+Lorenzo Venuti,L. Venuti,RB
+Federico Ricci,F. Ricci,"RW, CAM"
+Gregory Kwesi Wüthrich,G. Wüthrich,CB
+Ryan Jared Thomas,R. Thomas,"CM, CAM, CDM"
+Mickaël Ramon Malsa,M. Malsa,"CM, CDM"
+Deiver Andrés Machado Mena,D. Machado,"LWB, LB"
+Mathieu Maertens,M. Maertens,"CF, CAM, CM"
+Papa Alioune N'Diaye,B. Ndiaye,"CM, CDM"
+Michael David Barrios Puerta,M. Barrios,"RM, ST"
+Alexis Rafael Pérez Fontanilla,A. Pérez,CB
+Jérôme Junior Onguéné,J. Onguéné,CB
+Thierry Ambrose,T. Ambrose,"ST, LM"
+이창민 李昌珉,Lee Chang Min,CM
+Matt Clarke,M. Clarke,CB
+Marcel Sobottka,M. Sobottka,"CDM, CM"
+Erik Thommy,E. Thommy,"LM, RM, CF"
+Paul Seguin,P. Seguin,CM
+Peter Michorl,P. Michorl,"CM, CDM, CAM"
+Leonel Di Plácido,L. Di Plácido,"RB, RWB, RM"
+Craig Halkett,C. Halkett,CB
+Aaron Long,A. Long,CB
+Cristian Buonaiuto,C. Buonaiuto,"LM, CAM"
+Adrián Andrés Cubas,A. Cubas,"CM, CDM"
+Bernard Mensah,B. Mensah,"CAM, CM"
+Jonathan Rodríguez Menéndez,Jony,LM
+Ulisses Alexandre Garcia Lopes,U. Garcia,"LB, LM"
+Florin Lucian Tănase,F. Tănase,"CF, ST, CM"
+Marcelo Nicolás Benítez,M. Benítez,"LB, LM, CM"
+Andrea Conti,A. Conti,RB
+Smail Prevljak,S. Prevljak,ST
+Leart Paqarada,L. Paqarada,"LB, LWB"
+Federico San Emeterio Díaz,San Emeterio,"CM, CDM"
+Stephen Kingsley,S. Kingsley,"CB, LWB, LB"
+Sandi Lovrič,S. Lovrič,"CM, CDM"
+Darnell Furlong,D. Furlong,"RB, RWB"
+Sergi Canós Tenés,Sergi Canós,"LW, RWB, LWB"
+Jordy de Wijs,J. de Wijs,CB
+Thomas Goiginger,T. Goiginger,"RM, LM, CF"
+Marcelo Javier Cabrera Rivero,J. Cabrera,"RM, LM, RWB"
+Juan Ferney Otero Tovar,J. Otero,"RM, CAM, LM"
+Iago Azevedo dos Santos,Iago,CB
+Steve Michel Mounié,S. Mounié,ST
+Benjamin Whiteman,B. Whiteman,"CDM, CM"
+Rivaldo Coetzee,R. Coetzee,"CDM, CB"
+Adama Noss Traoré,A. Traoré,"CAM, CM, RW"
+Simone Bastoni,S. Bastoni,"CM, LM, LB"
+José Raúl Gutiérrez Parejo,Raúl Guti,"CM, CDM"
+José Antonio Devecchi,J. Devecchi,GK
+Rúben Barcelos De Sousa Lameiras,Rúben Lameiras,RW
+Théo Valls,T. Valls,CM
+Kingsley Ehizibue,K. Ehizibue,RB
+Miguel Ángel Trauco Saavedra,M. Trauco,"LB, LM"
+Bryan Andrés Rovira Ferreira,B. Rovira,"CDM, CM"
+Rasmus Lauritsen,R. Lauritsen,CB
+Andrea Cistana,A. Cistana,CB
+Mohamed Salim Fares,M. Fares,"LW, LM"
+Ramón Darío Ábila,R. Ábila,ST
+Cristian Omar Espinoza,C. Espinoza,RM
+Sead Hakšabanović,S. Hakšabanović,LW
+Younes Namli,Y. Namli,"RM, CAM, CM"
+Bart Nieuwkoop,B. Nieuwkoop,"RM, RWB, RB"
+Federico Fattori Mouzo,F. Fattori,"CDM, CM"
+Baldomero Perlaza Perlaza,B. Perlaza,"CDM, CM"
+Cyle Christopher Larin,C. Larin,ST
+Víctor Ignacio Malcorra,V. Malcorra,"LM, CM"
+Ivo Tiago dos Santos Rodrigues,Ivo Rodrigues,"RM, LM, RWB"
+Cristián Alexis Borja González,C. Borja,LB
+Diego Francisco Viera Ruiz Díaz,D. Viera,CB
+Eric Joel Andersson,J. Andersson,"RB, RWB"
+Samuel Adeniyi Adegbenro,S. Adegbenro,"ST, LW, RW"
+Abdallah Kerim Mrabti,K. Mrabti,"CAM, RM, ST"
+Jakub Hromada,J. Hromada,"CDM, CM"
+정승현 郑承铉,Jeong Seung Hyun,CB
+Nicolás Martín Tripichio,N. Tripichio,"RB, CB"
+Christofer Gonzáles Crespo,C. Gonzáles,"CAM, LW, CM"
+Mërgim Vojvoda,M. Vojvoda,"LM, LWB, RM"
+Andreas Schjølberg Hanche-Olsen,A. Hanche-Olsen,CB
+Gerrit Holtmann,G. Holtmann,"LM, LW, RW"
+Francisco Andrés Sierralta Carvallo,F. Sierralta,CB
+Elijah Adebayo,E. Adebayo,ST
+Gil Bastião Dias,Gil Dias,"LM, RM, LB"
+Lorenzo Maria Dickmann,L. Dickmann,RB
+Allano Brendon de Souza Lima,Allano,"LM, RM"
+Sergio Guardiola Navarro,Sergi Guardiola,ST
+Gastón Rodrigo Pereiro López,G. Pereiro,"CAM, CF"
+José Antonio Ferrández Pomares,Josan,"RM, RWB"
+Jacek Góralski,J. Góralski,CDM
+Benjamin Tetteh,B. Tetteh,"ST, LW"
+Harry James Souttar,H. Souttar,CB
+Vital Manuel N,V. Nsimba,LB
+Luiz Santiago Sacramento Cruz,Sacramentinho,GK
+Heitor Edvaldo Barreto Gesser,Heitor Gesse,LB
+Túlio Sebastião Changas Tramontino,Túlio Changas,GK
+Fabiano Elton Sonta Pessoa,Fabiano Sonta,"CB, CDM"
+Ailton Jonas Valpaços Salazar,Ailton Valpaços,"CB, CDM"
+Guto Ramón Milazar Coimbra,Guto Milazar,LB
+Sebastião Erick Couteira Baía,Tião Couteira,"CAM, RM"
+Kauã Ricardo Abranches Simões,Kauã Abranches,"CAM, RM, RB"
+Gustavo Rafael Lobateiro Gomes,Gustavo Lobateiro,"CAM, ST, CF"
+Evandro Sérgio Rochedo Paulino,Evandro Rochedo,ST
+André Mikael Milazar Santoso,André Milazisco,GK
+Jorge Pietro Teixeira Lima,Teixe Gaúcho,CB
+Alam Cristian Boas Anjos,Alminho Boas,"CDM, CM, CB"
+Flávio Raphael Rebeilo Mestres,Flávio Rebeilo,LB
+Tony Josimar Mutto Abrão,Tony Muttinho,"RB, RWB, RM"
+Durval Murilo Dutría Pereira,Durval Dutría,CM
+Éder Marvin Oliveira Simão,Édundo Oliveira,CB
+Pavel de Jesus Serra Fonseca,Pavelinho Serra,CB
+M. Vanderlei Paulino Kenedy,Vanderleiton,CB
+Igor Paolo Madinha Eustáquio,Igor Madinha,"RM, CAM"
+Timoteo Samuel Triano Branco,Timo Triano,"CDM, CM"
+Antônio Felipe Macedo Calegari,Calegarcinho,"ST, CAM"
+Durval Hélton Vieira Aldair,Vieiraldo Junior,"CDM, LB"
+Kelivelson Vaz Laranjeiras,Kelivelson,"CDM, RB, RM"
+Manuel Leonardo Conceição Paes,Leordinho Paes,"CAM, LM"
+Marcos Alam Bastos Domingues,Alam Basteirinho,CAM
+Fábio Kel Melo Feijó,Fábio Melitinho,"CAM, LM"
+Dersan Jaime Dinis Abravanel,Dersan Dinis,RW
+Hélton Luiz Celanova Vieira,Hélton Celanova,ST
+Gérson Fábio Noalha Rochela,Gérson Noalha,"ST, CAM, LM"
+Vicemte Ernesto Tófoli Laranjeiras,Vicemte Tófoli,LW
+Leandro Freddy Vivenço Morais,Leandro Vivenço,ST
+João Fabrício Bruinheira Salvador,João Bruinheira,GK
+Hugo Adryan Rubiães Chaves,Hugo Rubiães,"CDM, RB"
+Emre Akbaba,E. Akbaba,"CAM, CM, LM"
+Rey Manaj,R. Manaj,ST
+José Carlos Ferreira Júnior,Juninho,CB
+Mathieu Cafaro,M. Cafaro,"LM, RM, CM"
+Braian Ezequiel Cufré,B. Cufré,"LB, LM"
+Jeison Steven Lucumí Mina,J. Lucumí,"LM, RM"
+Keinan Davis,K. Davis,ST
+Landry Nany Dimata,L. Dimata,ST
+Álvaro Tejero Sacristán,Álvaro Tejero,RB
+Mitchell van Bergen,M. van Bergen,"RW, ST, LW"
+Mateusz Lis,M. Lis,GK
+Richie Mamah Laryea,R. Laryea,"RWB, RB, LB"
+Shaquell Moore,S. Moore,"RB, RM"
+Agustín Bouzat,A. Bouzat,"RW, LW"
+Timothy Evans Fosu-Mensah,T. Fosu-Mensah,"RB, CB"
+Vítor Costa de Brito,Vítor Costa,LB
+Federico Ricca Rostagnol,F. Ricca,"CB, LB"
+Sultan Abdullah Al-Ghannam,S. Al Ghannam,RB
+Diego Martín Zabala Morales,D. Zabala,"RW, RM, LW"
+Guillermo Gastón Acosta,G. Acosta,"CM, RM"
+Chidozie Collins Awaziem,C. Awaziem,CB
+Jens Dalsgaard Stage,J. Stage,"CM, RM"
+Bernardo Fernandes da Silva Junior,Bernardo,"LB, CB"
+邦本 宜裕,T. Kunimoto,"RW, CM, LW"
+김대원 金大元,Kim Dae Won,"LW, ST, RW"
+Iké Dominique Ugbo,I. Ugbo,ST
+Mathias Pereira Lage,M. Pereira Lage,"RM, LM, CM"
+Devis Estiven Vásquez Llach,D. Vásquez,GK
+Mikel Villanueva Álvarez,M. Villanueva,CB
+Jakob Glesnes,J. Glesnes,CB
+Robert Gumny,R. Gumny,"RB, CB, RM"
+Claud Adjapong,C. Adjapong,"RB, RWB"
+David Chidozie Okereke,D. Okereke,"ST, RW, LW"
+Fredrik André Bjørkan,F. Bjørkan,LB
+Kaio Antonaldo Selva Mota,Kainho Selva,CB
+Caio Bruno Milaçar Kenedy,Caio Milaçar,CAM
+Gonzalo Daniel Escobar,G. Escobar,"LB, LWB"
+Ionuț Andrei Radu,I. Radu,GK
+Alejandro Hohberg González,A. Hohberg,"LW, CAM"
+Carlos Gustavo Quintana,C. Quintana,CB
+Aurélio Gabriel Ulineia Buta,Aurélio Buta,"RM, RB, RWB"
+Jens Odgaard,J. Odgaard,"ST, RW, CAM"
+Jair Amador Silos,Jair Amador,CB
+Arkadiusz Reca,A. Reca,"LM, LWB, LB"
+Konstantinos Laifis,K. Laifis,CB
+Emil Bohinen,E. Bohinen,"CM, CDM"
+Pedro Miguel Braga Rebocho,Pedro Rebocho,LB
+Gastón Suso,G. Suso,CB
+Omar Tyrell Crawford Richards,O. Richards,"LB, LWB"
+Filip Stojković,F. Stojković,RB
+Michele Castagnetti,M. Castagnetti,"CDM, CM"
+Kevin Bonifazi,K. Bonifazi,CB
+Marlon Rodrigues Xavier,Marlon,LB
+Yoann Salmier,Y. Salmier,CB
+Dylan Daniel Mahmoud Bronn,D. Bronn,"CB, RB"
+Gaïus Makouta,G. Makouta,"CM, CAM"
+Yehvann Diouf,Y. Diouf,GK
+Alberto Andrea Paleari,A. Paleari,GK
+Tomás Jesús Alarcón Vergara,T. Alarcón,"CDM, CM"
+Irvin Cardona,I. Cardona,ST
+Deyovaisio Zeefuik,D. Zeefuik,RB
+Gastón Gómez,G. Gómez,GK
+Luca Zanimacchia,L. Zanimacchia,RM
+Alejandro Pozo Pozo,Álex Pozo,"RB, RM, RWB"
+João Rodolfo Bardinho Barros,João Bardinho,"LB, RB"
+João Othávio Basso,João Basso,"CB, CDM"
+Sergio Fernando Peña Flores,S. Peña,"CM, CAM"
+Marko Rog,M. Rog,"CM, CDM"
+Souleyman Doumbia,S. Doumbia,"LWB, LM, LB"
+Sam Lammers,S. Lammers,ST
+Anel Ahmedhodžić,A. Ahmedhodžić,CB
+Santiago Cáseres,S. Cáseres,"CDM, CM, CB"
+Gerardo Daniel Arteaga Zamora,G. Arteaga,LB
+Aymen Barkok,A. Barkok,"CAM, CF, CM"
+Anastasios Chatzigiovanis,A. Chatzigiovanis,RW
+Lamine Fomba,L. Fomba,"CDM, CM"
+Fodé Ballo-Touré,F. Ballo-Touré,LB
+Luis Daniel González Cova,L. González,"RM, LM, CAM"
+田中 青,A. Tanaka,"CDM, CM"
+Arthur Gomes Lourenço,Arthur Gomes,"LW, RW"
+Zaydou Youssouf,Z. Youssouf,"CM, CDM, RM"
+Hannes Wolf,H. Wolf,"CAM, LM, LB"
+Reginald Jacob Cannon,R. Cannon,"CB, RWB, RB"
+Oleksandr Zubkov,O. Zubkov,"RW, CAM, LW"
+Gaëtan Weissbeck,G. Weissbeck,"CAM, RM"
+Samuel Kalu Ojim,S. Kalu,"LM, RW"
+Gustavo Ezequiel Blanco Leschuk,G. Blanco Leschuk,ST
+Nathan Tella,N. Tella,"LM, ST"
+Hannes Delcroix,H. Delcroix,"CB, LB"
+Marcus Tavernier,M. Tavernier,"CAM, CM, RM"
+Abdelhamid Sabiri,A. Sabiri,"CAM, CM, LM"
+Arnaud Bodart,A. Bodart,GK
+Philipp Förster,P. Förster,"CAM, CF, CM"
+Christian Luyindama Nekadio,C. Luyindama,CB
+Alan Javier Franco,A. Franco,CB
+Alessio Zerbin,A. Zerbin,LW
+Patrick Cutrone,P. Cutrone,ST
+Jack Elliott,J. Elliott,"CB, CDM"
+Lucas Blondel,L. Blondel,RB
+Ilias Chair,I. Chair,"CAM, LW"
+Miha Blažič,M. Blažič,CB
+Emre Kılınç,E. Kılınç,"RM, CM"
+Ron Schallenberg,R. Schallenberg,"CDM, CM"
+정우영 Woo Yeong Jeong,Jeong Woo Yeong,"CAM, CF"
+Carlos Daniel López Huesca,Carlitos,"ST, CAM"
+Christoph Zimmermann,C. Zimmermann,CB
+Seny Timothy Dieng,S. Dieng,GK
+Robin Hack,R. Hack,"LM, CAM, CF"
+Juan Pablo Álvarez,J. Álvarez,"RM, RW"
+Matías de los Santos de los Santos,M. de los Santos,CB
+José Antonio Morente Oliva,Tete Morente,"RM, LM"
+Michaël Bruno Dominique Cuisance,M. Cuisance,"CM, CAM"
+Caleb Ansah Ekuban,C. Ekuban,"ST, RM"
+Michal Sáček,M. Sáček,"CDM, CM"
+Nicolas Thierry Raskin,N. Raskin,"CM, CDM"
+Pablo Renan dos Santos,Pablo Santos,CB
+David Hovorka,D. Hovorka,CB
+Tommaso Augello,T. Augello,"LB, LM"
+Matteo Gabbia,M. Gabbia,CB
+Aleš Matějů,A. Matějů,"RB, LB, CB"
+Samuel Moutoussamy,S. Moutoussamy,"CM, CDM, LW"
+Emanuel Vignato,E. Vignato,CAM
+Franco Luis Torgnascioli Lagreca,F. Torgnascioli,GK
+Matías Germán Melluso,M. Melluso,"LB, LWB"
+Mateo Carabajal,M. Carabajal,"CB, RB, CDM"
+Zinho Vanheusden,Z. Vanheusden,CB
+Borja Sánchez Laborde,Borja Sánchez,LM
+Joseph Martin Paintsil,J. Paintsil,"RM, LM"
+Tomás Belmonte,T. Belmonte,"CM, CDM"
+Rogério Oliveira da Silva,Rogério,LB
+Modibo Sagnan,M. Sagnan,CB
+Martín Aguirregabiria Padilla,Martín,"RB, RM, LB"
+Lucas de Souza Cunha,Lucas Cunha,CB
+Francis Apelete Amuzu,F. Amuzu,"LM, RM"
+Majeed Ashimeru,M. Ashimeru,"CM, CDM, CAM"
+Ola Selvaag Solbakken,O. Solbakken,"RW, LW"
+Francisco Reis Ferreira,Ferro,CB
+Camilo Damián Cándido Aquino,C. Cándido,"LB, LW, LM"
+Lorenzo Jesús Morón García,Loren,ST
+Giangiacomo Magnani,G. Magnani,CB
+Morten Wetche Frendrup,M. Frendrup,"CDM, CM"
+Johan Stiven Carbonero Balanta,J. Carbonero,"LW, RW"
+Kristian Thorstvedt,K. Thorstvedt,"CAM, CM"
+Maarten Vandevoordt,M. Vandevoordt,GK
+Alexandru Cicâldău,A. Cicâldău,"CM, CAM"
+Neco Williams,N. Williams,"RB, RWB"
+Kevin Andrés Agudelo Ardila,K. Agudelo,"CAM, CM"
+Rabbi Matondo,R. Matondo,"LW, RW, ST"
+Enzo Loiodice,E. Loiodice,"CDM, CM"
+Keane Lewis-Potter,K. Lewis-Potter,"LW, LM, ST"
+Mahdi Camara,M. Camara,"CM, CDM"
+James David Garner,J. Garner,"CDM, CM"
+Jaidon Anthony,J. Anthony,"LW, LM"
+Iñigo Vicente Elorduy,Iñigo Vicente,LM
+Maliele Vincent Pule,V. Pule,"RW, LW, CAM"
+Keven Schlotterbeck,K. Schlotterbeck,CB
+Johan Felipe Vásquez Ibarra,J. Vásquez,"CB, LB"
+Volodymyr Shepelev,V. Shepelev,"CM, CDM"
+Fashion Sakala Junior,F. Sakala,"RW, ST, LW"
+Gonzalo Villar del Fraile,Gonzalo Villar,"CM, CDM"
+Pol Lozano Vizuete,Pol Lozano,"CDM, CM"
+Jens-Lys Michel Cajuste,J. Cajuste,"CM, CDM"
+Hugo Magnetti,H. Magnetti,"CDM, CM"
+Kevin Behrens,K. Behrens,ST
+Aleš Čermák,A. Čermák,"CAM, CM"
+Alhassan Yusuf Abdullahi,A. Yusuf,"CDM, CM"
+Juan Gabriel Rodríguez,J. Rodríguez,CB
+Mamadou Loum N,M. Loum,"CDM, CM"
+Maximilian Bauer,M. Bauer,CB
+Facundo Colidio,F. Colidio,"CAM, ST, LM"
+Doğan Alemdar,D. Alemdar,GK
+Billy Gilmour,B. Gilmour,"CM, CDM"
+Joe Gelhardt,J. Gelhardt,"ST, CF"
+Iván Jaime Pajuelo,Iván Jaime,"CAM, ST, LW"
+Marcelo Andrés Herrera Mansilla Barrios,A. Herrera,"RB, RWB"
+Ignacio Peña Sotorres,Iñaki Peña,GK
+Lucas Beltrán,L. Beltrán,"ST, RW"
+Agustín José Urzi,A. Urzi,"LM, LW"
+Adam Fernando Bareiro Gamarra,A. Bareiro,ST
+Sékou Koïta,S. Koita,ST
+Felix Kalu Nmecha,F. Nmecha,"CAM, CM, LM"
+Iván Martín Núñez,Iván Martín,"RM, CM"
+Won Sang Um,Um Won Sang,"RW, ST, RM"
+András Schäfer,A. Schäfer,"CM, CDM"
+Juan Sebastián Pedroza Perdomo,S. Pedroza,"CDM, CM"
+Facundo Mura,F. Mura,"RB, LB"
+Filip Panák,F. Panák,"CB, CDM"
+Kamal Anthony Miller,K. Miller,CB
+Giovanni Alessandro González Apud,G. González,"RB, RWB, RM"
+Darius Dumitru Olaru,D. Olaru,"CM, CAM, RW"
+Mihai Valentin Mihăilă,V. Mihăilă,"LM, LW"
+Zakaria Aboukhlal,Z. Aboukhlal,"RW, LW"
+Gustav Tang Isaksen,G. Isaksen,"RW, LW"
+Abdul-Aziz Yakubu,A. Yakubu,ST
+Mateu Jaume Morey Bauzá,Mateu Morey,"RB, RM"
+Berat Ayberk Özdemir,B. Özdemir,"CM, CDM"
+Anatoliy Trubin,A. Trubin,GK
+Pedro Alfredo Ortíz Angulo,P. Ortíz,GK
+Lilian Brassier,L. Brassier,"LB, CB"
+Meschack Elia Lina,M. Elia,"ST, RM"
+Luis Ismael Vázquez,L. Vázquez,ST
+Bruno Vendaza,B. Vendaza,CDM
+Randy Nteka,R. Nteka,"ST, CAM"
+Paulo Lucas Santos de Paula,Paulinho,CM
+Paulo Victor da Silva,Paulinho,"LB, LWB"
+Domagoj Bradarić,D. Bradarić,"LWB, LM, LB"
+Fábio Daniel Soares Silva,Fábio Silva,ST
+João Pedro Junqueira de Jesus,João Pedro,"ST, LM"
+Salis Abdul Samed,S. Abdul Samed,"CDM, CM"
+Agustín Maximiliano Rogel Paita,A. Rogel,CB
+Ismail Joshua Jakobs,I. Jakobs,"LB, LM"
+Jamie Leweling,J. Leweling,"ST, RW"
+Sotirios-Polykarpos Alexandropoulos,S. Alexandropoulos,"CDM, CM"
+アペルカンプ 真大 カール,S. Appelkamp,"CAM, LM, CM"
+Antonio Sánchez Navarro,Antonio Sánchez,"RM, CM, LM"
+Lautaro Alberto Morales,L. Morales,GK
+Nathanaël Mbuku,N. Mbuku,"CF, RM, CAM"
+Issa Kaboré,I. Kaboré,"RWB, RB"
+Alberto Espínola Giménez,A. Espínola,RB
+Rodrigo Abascal Barros,R. Abascal,CB
+Guzmán Corujo Bríccola,G. Corujo,CB
+Brian Alexis Ocampo Ferreira,B. Ocampo,"LM, RM"
+Richard Hernán Schunke,R. Schunke,CB
+Talles Magno Bacelar Martins,Talles Magno,"LM, CF"
+Pablo Damián Lavandeira Hernández,P. Lavandeira,"CAM, RM, LM"
+Patrik Wålemark,P. Wålemark,"RW, LW"
+Juan Danilo Santacruz González,D. Santacruz,"CAM, RM, LM"
+Fran Tudor,F. Tudor,"RM, CB, RWB"
+Strahinja Pavlović,S. Pavlović,CB
+Yvann Maçon,Y. Maçon,"RB, RWB, LB"
+Andrés Federico Pereira Castelnoble,F. Pereira,"CB, RB"
+Fabricio Díaz Badaracco,F. Díaz,"CM, CDM"
+Boško Šutalo,B. Šutalo,CB
+Santiago Hezze,S. Hezze,"CDM, CM"
+Marcelino Ignacio Nuñez Espinoza,M. Núñez,"CM, CDM"
+Malick Laye Thiaw,M. Thiaw,CB
+Carlos Jonas Alcaraz,C. Alcaraz,"CAM, CM, LM"
+Mohamed-Ali Cho,M. Cho,ST
+Marco Grüll,M. Grüll,"LM, ST"
+Christos Tzolis,C. Tzolis,"LW, RW"
+Jérémy Le Douaron,J. Le Douaron,ST
+Lucas Gourna-Douath,L. Gourna,"CDM, CM"
+Maduka Emilio Okoye,M. Okoye,GK
+Richard Ofori Antwi,R. Ofori,GK
+Gijs Smal,G. Smal,LB
+Oleksandr Tymchyk,O. Tymchyk,RB
+Ivor Pandur,I. Pandur,GK
+Oier Zarraga Egaña,Zarraga,"CM, RM"
+Johann Lepenant,J. Lepenant,"CDM, CM"
+Carlos Augusto Zopolato Neves,Carlos Augusto,"LM, CB, LWB"
+Jackson Muleka Kyanvubu,J. Muleka,"ST, RW, LW"
+Agustín Álvarez Martínez,A. Álvarez Martínez,"ST, CF"
+Obinna Nwobodo,O. Nwobodo,"CDM, CM"
+Luiz Lúcio Reis Júnior,Luiz Júnior,GK
+Matteo Lovato,M. Lovato,CB
+Viktor Korniienko,V. Korniienko,LB
+Yan Bueno Couto,Yan Couto,"RM, RB, RWB"
+Etienne Green,E. Green,GK
+Alex Eduardo Valera Sandoval,A. Valera,ST
+Mourad Batna,M. Batna,RW
+Martin Vitík,M. Vitík,"CB, RB"
+Abdallah Dipo Sima,A. Sima,"RM, ST"
+Alexis David Duarte Pereira,A. Duarte,CB
+Juan Antonio Iglesias Sánchez,Juan Iglesias,"RWB, RB, LWB"
+Taras Kacharaba,T. Kacharaba,CB
+Benjamin Šeško,B. Šeško,ST
+Oscar Exequiel Zeballos,E. Zeballos,"RW, LW"
+Anass Zaroury,A. Zaroury,"LM, ST"
+Milos Kerkez,M. Kerkez,LB
+Memeh Caleb Okoli,C. Okoli,CB
+Maxime Estève,M. Estève,CB
+Sergi Cardona Bermúdez,Sergi Cardona,"LB, LM"
+Francisco Ribeiro Tomé,Kiko Bondoso,"RW, LW"
+Mohamed Bouldini,M. Bouldini,ST
+Giannis Kotsiras,G. Kotsiras,RB
+Adem Zorgane,A. Zorgane,"CM, CDM"
+Dominik Greif,D. Greif,GK
+José Manuel Arias Copete,Copete,CB
+Andrew da Silva Ventura,Andrew,GK
+Amir Sâyoud,A. Sâyoud,"RM, CAM, CF"
+Mattia Viti,M. Viti,CB
+Martín Satriano,M. Satriano,ST
+Jakub Kiwior,J. Kiwior,"CB, CDM"
+David Jurásek,D. Jurásek,"LB, LM"
+Almoez Ali,A. Ali,ST
+Karim Boudiaf,K. Boudiaf,"CM, CDM"
+Yahya Jabrane,Y. Jabrane,CDM
+David Douděra,D. Douděra,"RM, RB"
+Václav Jurečka,V. Jurečka,"ST, RM, CF"
+Gabriel Davi Gomes Sara,Gabriel Sara,"CAM, CM"
+Igor Guilherme Barbosa da Paixão,Igor Paixão,"LW, RW"
+Rúben Miguel Marques dos Santos Fernandes,Rúben Fernandes,CB
+Roque Luis Santa Cruz Cantero,R. Santa Cruz,ST
+Rubén Castro Martín,Rubén Castro,ST
+Antolín Alcáraz Viveros,A. Alcáraz,CB
+Aitor Sanz Martín,Aitor Sanz,"CM, CDM"
+Muhammet Demir,M. Demir,ST
+Luíz Carlos Martins Moreira,Luíz Carlos,"CM, CDM"
+Bartosz Białkowski,B. Białkowski,GK
+Gökhan İnler,G. İnler,"CDM, CM"
+Jeff Hernandero,J. Hernandero,CAM
+Joe Neiroga,J. Neiroga,"LB, LM"
+Brayan Cespeda,B. Cespeda,"CDM, CM, CAM"
+Kevin Cordesia,K. Cordesia,"LM, CAM"
+Jaime Darenova,J. Darenova,ST
+Rafael Peradezes,R. Peradezes,GK
+Billy Sharp,B. Sharp,ST
+John Ruddy,J. Ruddy,GK
+Theo Walcott,T. Walcott,RM
+Itumeleng Khune,I. Khune,GK
+Emiliano Viviano,E. Viviano,GK
+Benito Nicolas Viola,N. Viola,"CM, CDM"
+Fabian Lustenberger,F. Lustenberger,CB
+Tobias Sippel,T. Sippel,GK
+Jonathan de Guzmán,J. de Guzmán,"CM, CDM, CAM"
+Rafael Wihby Bracali,Bracali,GK
+Rouwen Hennings,R. Hennings,ST
+Oscar René Cardozo Marín,Ó. Cardozo,ST
+Christian Brüls,C. Brüls,"CAM, CM"
+Marcelo Moreno Martins,M. Moreno Martins,ST
+Sebastian De Maio,S. De Maio,CB
+王大雷,Wang Dalei,GK
+Walter Alejandro Gargano Guevara,W. Gargano,"CDM, CM"
+Adil Rami,A. Rami,CB
+Jonathan Howson,J. Howson,"CDM, CM"
+Julien Faussurier,J. Faussurier,"RB, RM"
+Matthieu Dreyer,M. Dreyer,GK
+Gianni Bruno,G. Bruno,"ST, RW"
+Alex Smithies,A. Smithies,GK
+Joseph Michael Allen,J. Allen,"CDM, CM"
+Federico Macheda,F. Macheda,ST
+Kyle Bartley,K. Bartley,CB
+Roman Neustädter,R. Neustädter,"CB, CDM"
+Vitor Hugo Gomes da Silva,Vítor Gomes,"CM, CDM"
+Ashley Luke Barnes,A. Barnes,ST
+Claudemir Domingues de Souza,Claudemir,"CDM, CM"
+Stefan Marius Johansen,S. Johansen,"CM, CDM"
+Omar El Kaddouri,O. El Kaddouri,"CM, CAM, LW"
+Ondřej Čelůstka,O. Čelůstka,"CB, LB"
+Lewis Harry Holtby,L. Holtby,"CM, CDM"
+Sylvio Ronny Rodelin,R. Rodelin,"ST, LM, CAM"
+Loïc Négo,L. Négo,"RM, RB, CM"
+Gonzalo Marinelli,G. Marinelli,GK
+Bruno Fornaroli Mezza,B. Fornaroli,ST
+Etrit Berisha,E. Berisha,GK
+香川 真司,S. Kagawa,"CAM, CF, CM"
+Junior Stanislas,J. Stanislas,"RM, LM, RW"
+David Junior Hoilett,J. Hoilett,"LM, RWB, LWB"
+Daniel João Santos Candeias,Daniel Candeias,"RM, LM"
+Diego Farias da Silva,Diego Farias,"LW, CF, ST"
+Bartosz Salamon,B. Salamon,CB
+Enrique González Casín,Quique,"ST, LM, RM"
+Kamil Jacek Glik,K. Glik,CB
+Markus Henriksen,M. Henriksen,"CB, CDM"
+Henrik Dalsgaard,H. Dalsgaard,"CB, RB"
+Guðlaugur Victor Pálsson,V. Pálsson,"CDM, CM, CB"
+Oscar Erik Jansson,O. Jansson,GK
+Ken Remi Stefan Strandberg,S. Strandberg,CB
+Jeroen Zoet,J. Zoet,GK
+Alberto Perea Correoso,Alberto Perea,"LM, CAM, RM"
+Johann Berg Guðmunds­son,J. Guðmundsson,"RM, LM, CAM"
+Marco D'Alessandro,M. D'Alessandro,"LM, RM"
+Jed Steer,J. Steer,GK
+Daniel Ginczek,D. Ginczek,"ST, RW"
+Romaine Theodore Sawyers,R. Sawyers,"CM, CAM, CDM"
+Enda Stevens,E. Stevens,"LWB, LB"
+Yunus Mallı,Y. Mallı,"CAM, CF, CM"
+Matthias Jürgen Zimmermann,M. Zimmermann,RB
+Artur Ioniță,A. Ioniță,CM
+Juan Pedro Ramírez López,Juanpe,CB
+Milan Đurić,M. Đurić,ST
+Marco Rojas,M. Rojas,"LM, RM"
+Scott Malone,S. Malone,"LWB, LB"
+Andile Ernest Jali,A. Jali,"CDM, CM"
+Jörg Siebenhandl,J. Siebenhandl,GK
+Shaun Hutchinson,S. Hutchinson,CB
+Asier Villalibre Molina,Villalibre,ST
+Julian Börner,J. Börner,CB
+Fredrik Ulvestad,F. Ulvestad,"CDM, CM"
+Knowledge Musona,K. Musona,"CAM, LM, ST"
+Luca Marrone,L. Marrone,CB
+Mathew Allan Leckie,M. Leckie,"LM, RM"
+Javier López Rodríguez,Javi López,RB
+Jeffrey Bruma,J. Bruma,CB
+Alfreð Finnbogason,A. Finnbogason,ST
+Oğuzhan Özyakup,O. Özyakup,"CM, CAM"
+Jake Bidwell,J. Bidwell,"LWB, LB"
+Gabriel Moisés Antunes da Silva,Gabriel Silva,"LB, LWB"
+Giulio Donati,G. Donati,CB
+Papiss Mison Djilobodji,P. Djilobodji,CB
+Pascal Testroet,P. Testroet,ST
+Caio Canedo Corrêa,Caio Canedo,"LM, ST, RM"
+Róbert Mak,R. Mak,"RW, RM, LM"
+Timothy Michael Ream,T. Ream,CB
+Steve Clark,S. Clark,GK
+Elbasan Rashani,E. Rashani,"LM, LW"
+Raúl Lizoáin Cruz,Raúl Lizoain,GK
+Antonio Aldo Caracciolo,A. Caracciolo,CB
+홍철 洪喆,Hong Chul,"LWB, LB"
+Ilija Nestorovski,I. Nestorovski,ST
+John Guidetti,J. Guidetti,ST
+Kamil Ahmet Çörekçi,K. Çörekçi,"RB, RWB"
+Marcin Kamiński,M. Kamiński,CB
+David Timor Copoví,Timor,"CDM, CB, CM"
+Tomáš Koubek,T. Koubek,GK
+Thomas Ince,T. Ince,"RM, ST, CM"
+Cyrus Sylvester Frederick Christie,C. Christie,"RB, RWB, CB"
+Jonson Clarke-Harris,J. Clarke-Harris,ST
+George Baldock,G. Baldock,"RWB, RB"
+Brecht Dejaegere,B. Dejaegere,"CM, CAM"
+Lorenzo Tonelli,L. Tonelli,CB
+Nick Powell,N. Powell,"CAM, CM, ST"
+Maxime Colin,M. Colin,"RWB, RB, CB"
+Camillo Ciano,C. Ciano,"ST, CAM"
+Marco Capuano,M. Capuano,CB
+Ahmed Musa,A. Musa,"RM, ST, LM"
+Mats Møller Dæhli,M. Dæhli,CAM
+Robbie Brady,R. Brady,"LM, LWB, CM"
+Cristiano Piccini,C. Piccini,"CB, RB"
+Nicolas Benezet,N. Benezet,"LM, CAM"
+Alfredo Morales,A. Morales,"CDM, CM, CB"
+Stefano Sturaro,S. Sturaro,"CM, CDM"
+Charles Kwabena Sapong,C. Sapong,"ST, LM"
+Dimitri Bisoli,D. Bisoli,"CM, CDM"
+Goran Alexander Sjöström Milošević,A. Milošević,CB
+Matt Davidson Rider Crooks,M. Crooks,CM
+Abdón Prats Bastidas,Abdón Prats,"ST, LM"
+Kevin Müller,K. Müller,GK
+Christoffer Åke Sven Nyman,C. Nyman,ST
+Isaías Sánchez Cortés,Isaías,"CDM, CM"
+Britt Curtis Assombalonga,B. Assombalonga,"ST, LW"
+David Pavelka,D. Pavelka,"CDM, CM, CB"
+Ognjen Vranješ,O. Vranješ,CB
+Alfredo Donnarumma,A. Donnarumma,ST
+Conor Townsend,C. Townsend,"LB, LWB, CB"
+Tommy Smith,T. Smith,"RWB, RB"
+Felipe Alejandro Gutiérrez Leiva,F. Gutiérrez,"CM, CAM"
+Adrien Trebel,A. Trebel,"CM, CDM"
+Lucas Andersen,L. Andersen,"LW, ST"
+Viktor Gorridsen Fischer,V. Fischer,"LM, CAM"
+Stelios Kitsiou,S. Kitsiou,"RWB, RB"
+Marcello Falzerano,M. Falzerano,"RW, CM, RM"
+Zinho Gano,Z. Gano,ST
+Alexander Gerard van de Streek,S. van de Streek,"CAM, CM, ST"
+Emrah Başsan,E. Başsan,"RM, LM"
+Fabio Lucioni,F. Lucioni,CB
+Mick van Buren,M. van Buren,"ST, RW"
+Víctor Yoshimar Yotún Flores,Y. Yotún,"CM, CDM, LM"
+Mats Seuntjens,M. Seuntjens,"ST, LW"
+Kal Naismith,K. Naismith,"CB, LB"
+Phillipp Klement,P. Klement,"CAM, CM"
+Zlatko Tripić,Z. Tripić,LW
+Daniele Baselli,D. Baselli,CM
+Dwight Gayle,D. Gayle,"ST, LW"
+Stefanos Kapino,S. Kapino,GK
+Isaac Kiese Thelin,I. Thelin,ST
+Yassine Benzia,Y. Benzia,"CAM, CM"
+Jeremy Dudziak,J. Dudziak,"CAM, CM"
+Callum Jack Robinson,C. Robinson,"ST, LW, RW"
+Bi Sylvestre Franck Fortune Boli,F. Boli,ST
+Leke Samson James,L. James,ST
+Sebastian Andersson,S. Andersson,ST
+Erik Durm,E. Durm,"RB, LB"
+Andreas Christopher Linde,A. Linde,GK
+Oluwasemilogo Adesewo Ibidapo Ajayi,S. Ajayi,CB
+Murray Wallace,M. Wallace,"CB, LWB, LB"
+Davide Adorni,D. Adorni,CB
+Matteo Ricci,M. Ricci,"CM, CDM"
+Robin Kwamina Quaison,R. Quaison,"CF, ST, LM"
+Alfie Mawson,A. Mawson,CB
+Marky Delgado,M. Delgado,"CDM, CM"
+이명주 李明柱,Lee Myung Joo,CM
+Andrés José Rodríguez Gaitán,Andy,"CM, CDM"
+Rasmus Sebastian Holmén,S. Holmén,CB
+Julian Jeanvier,J. Jeanvier,CB
+Thomas Murg,T. Murg,"RW, LW"
+Filippo Falco,F. Falco,"CF, CAM, RW"
+Abdoulaye Touré,A. Touré,"CDM, CM"
+Louis Schaub,L. Schaub,"CAM, RM, CM"
+Anthony Partipilo,A. Partipilo,"CAM, ST, CF"
+Bismark Adjei-Boateng,B. Adjei-Boateng,"CDM, CM"
+Bradley Dack,B. Dack,"CAM, CM"
+Corentin Jean,C. Jean,"ST, RW"
+Lisandro Magallán,L. Magallán,CB
+Gaspar Andrés Servio,G. Servio,GK
+Esteban Ariel Saveljich,E. Saveljich,CB
+Claudio Gastón Corvalán,C. Corvalán,"LB, CB"
+Jamal Lowe,J. Lowe,"ST, LW, RW"
+Kevin Möhwald,K. Möhwald,"CM, CAM"
+Alejandro José Muñoz Miguel,Alex Muñoz,"LB, CB"
+Jérôme Gondorf,J. Gondorf,"CM, CDM"
+Markus Kolke,M. Kolke,GK
+Max Meyer,M. Meyer,"CAM, CM, LM"
+Mikkel Desler,M. Desler,"RB, RWB"
+José Ignacio Martínez García,Nacho,LB
+Issiaga Sylla,I. Sylla,"LB, LWB"
+Jordi Martins Almeida,Jordi,GK
+Gyasi Zardes,G. Zardes,ST
+David Kinsombi,D. Kinsombi,"CM, RM, CDM"
+Davie Selke,D. Selke,ST
+Josué Humberto Gonçalves Leal Sá,Josué Sá,CB
+Laurent Depoitre,L. Depoitre,ST
+Brede Mathias Moe,B. Moe,CB
+José Francisco Cevallos Enríquez,J. Cevallos,"CAM, CM"
+Sven van Beek,S. van Beek,CB
+Samuel Piette,S. Piette,"CDM, CM"
+Lucas Daniel Cavallini,L. Cavallini,ST
+Sascha Horvath,S. Horvath,"CAM, RM, LM"
+Rémi Walter,R. Walter,"CDM, CM"
+킴진수 金珍洙,Kim Jin Su,LB
+Erik Jonathan Ring,J. Ring,"RW, CF"
+William Troost-Ekong,W. Troost-Ekong,CB
+Marius Gersbeck,M. Gersbeck,GK
+Alan Nahuel Ruiz,A. Ruiz,"ST, CAM"
+Samuel Gustafson,S. Gustafson,"CDM, CM"
+Arsénio Martins Lafuente Nunes,Arsénio,"LW, RM, LM"
+Rasmus Schüller,R. Schüller,"CDM, CM"
+Iver Tobias Rørvik Fossum,I. Fossum,CM
+Tim Kleindienst,T. Kleindienst,ST
+Didier Andrés Moreno Asprilla,D. Moreno,"CDM, CM"
+Andrés Ricaurte Vélez,A. Ricaurte,"CAM, CDM, CM"
+Jefferson Andrés Duque Montoya,J. Duque,ST
+Sergio Postigo Redondo,Postigo,CB
+Reinaldo Lenis Montes,R. Lenis,"RM, LM, ST"
+Diego Hernán González,D. González,CM
+Marcos Nikolas Bolados Hidalgo,M. Bolados,"RW, RM"
+Diego Matías Rodríguez,D. Rodríguez,GK
+Héctor Daniel Villalba,H. Villalba,"RM, LM, RW"
+Julio Alberto Buffarini,J. Buffarini,RB
+Emanuel Olivera,E. Olivera,CB
+Rubén Alejandro Botta Montero,R. Botta,"CAM, RM, CF"
+Guido Marcelo Carrillo,G. Carrillo,ST
+Elio Capradossi,E. Capradossi,CB
+Francesco Vicari,F. Vicari,CB
+Nikola Maksimović,N. Maksimović,CB
+Abdulaziz Hatem,A. Hatem,"CM, CDM"
+Emiliano Jorge Rubén Méndez,E. Méndez,"CDM, CM"
+Jorge Emanuel Broun,J. Broun,GK
+Federico Gastón Carrizo,F. Carrizo,"LM, RM, ST"
+Lawrence Shankland,L. Shankland,ST
+George Honeyman,G. Honeyman,"CM, RW, CAM"
+Pieter Gerkens,P. Gerkens,"CM, CAM, CDM"
+Cláudio Winck Neto,Cláudio Winck,RB
+Édson Felipe da Cruz,Édson,"CDM, CB"
+Stian Rode Gregersen,S. Gregersen,"CB, RB"
+Patrik Ulf Anders Carlgren,P. Carlgren,GK
+Aníbal Cesis Godoy Lemus,A. Godoy,"CDM, CM"
+Lukas Reiff Lerager,L. Lerager,CM
+César Nicolás Fuentes González,C. Fuentes,"CDM, CM"
+Jodel Dossou,J. Dossou,RM
+Josip Elez,J. Elez,CB
+Jules Olivier Ntcham,O. Ntcham,"CM, CAM, RW"
+Luís Rafael Soares Alves,Rafa Soares,LB
+Pablo Ignacio Galdames Millán,P. Galdames,"CM, CDM"
+Daniel Pedro Calvo San Román,Dani Calvo,CB
+Michał Sławomir Helik,M. Helik,CB
+Erik Ross Palmer-Brown,E. Palmer-Brown,CB
+Ezequiel Osvaldo Cerutti,E. Cerutti,"RW, LW, RM"
+Jesús David Murillo Largacha,J. Murillo,"CB, RB"
+Víctor Camarasa Ferrando,Camarasa,"CM, CAM, RM"
+Ethan Shea Horvath,E. Horvath,GK
+Uroš Matić,U. Matić,"CM, CDM"
+José Manuel Rodríguez Benito,Chema,CB
+Thomas Didillon,T. Didillon,GK
+Simone Scuffet,S. Scuffet,GK
+Norbert Gyömbér,N. Gyömbér,CB
+César Alejandro Falletti dos Santos,C. Falletti,"CAM, RM, CF"
+Aarón Escandell Banacloche,Aarón,GK
+Óscar Alexander Whalley Guardado,Óscar Whalley,GK
+Francesco Di Mariano,F. Di Mariano,"LW, ST, LM"
+Florent Hadërgjonaj,F. Hadergjonaj,"RB, LB"
+Ernesto Torregrossa,E. Torregrossa,ST
+Anderson Esiti,A. Esiti,CDM
+Dawid Igor Kownacki,D. Kownacki,"ST, RM, CAM"
+Dominic Hyam,D. Hyam,CB
+Luca Mazzitelli,L. Mazzitelli,"CM, CDM"
+Ryan Hollingshead,R. Hollingshead,"LB, RB, CB"
+Alexander Thomas Jeremejeff,A. Jeremejeff,ST
+Enzo Crivelli,E. Crivelli,"ST, LW"
+Luiz Fernando da Silva Monte,Fernando Karanga,"ST, RW, RM"
+Núrio Domingos Matias Fortuna,Núrio Fortuna,"LM, CB, LB"
+James Bree,J. Bree,"RWB, RB"
+Juan Cruz Komar,J. Komar,CB
+Antonio Sivera Salvá,Sivera,GK
+Zinedine Ferhat,Z. Ferhat,"LM, RM"
+Oliver Hüsing,O. Hüsing,CB
+Manolis Saliakas,M. Saliakas,RB
+Sebastian Griesbeck,S. Griesbeck,"CB, CDM"
+Rúnar Alex Rúnarsson,R. Rúnarsson,GK
+Iván Villar Martínez,Iván Villar,GK
+Nélson Macedo Monte,Nélson Monte,"CB, RB"
+강상우 姜祥佑,Kang Sang Woo,"LB, LWB, LM"
+João Rafael de Brito Teixeira,João Teixeira,"CAM, CM"
+Ryan Ledson,R. Ledson,"CDM, CM"
+Stefano Moreo,S. Moreo,"ST, LW"
+Alexis Blin,A. Blin,"CDM, CM, CB"
+Anthony Briançon,A. Briançon,CB
+Ádám Lang,Á. Lang,CB
+Hakan Arslan,H. Arslan,"CDM, CM"
+Benedikt Zech,B. Zech,CB
+Alexandre Mendy,A. Mendy,ST
+Edoardo Goldaniga,E. Goldaniga,CB
+Salomon Junior Sambia,J. Sambia,"RWB, RB, RM"
+André Luís Gomes Simões,André Simões,"CDM, CM"
+Damián Alberto Martínez,D. Martínez,RB
+Yoann Barbet,Y. Barbet,CB
+Samy Mmaee Nwambeben,S. Mmaee,CB
+Mattia Bani,M. Bani,CB
+Gabriel Gustavo Alanís,G. Alanís,"RM, LM, LWB"
+Víctor Ezequiel Salazar,V. Salazar,"RB, RWB"
+Jairo Izquierdo González,Jairo,"LWB, LB, LM"
+Yann Yves Laurent Bodiger,Y. Bodiger,"CDM, CM, CAM"
+Taylan Antalyalı,T. Antalyalı,"CDM, CM"
+Krystian Bielik,K. Bielik,CDM
+Murilo Henrique Pereira Rocha,Murilo Henrique,"LM, CAM, CM"
+Kevin Diks Bakarbessy,K. Diks,"RB, LB"
+Mamadou Sylla Diallo,M. Sylla,"ST, RM, LM"
+Marnon Thomas Busch,M. Busch,RB
+Walmer Pacheco Mejía,W. Pacheco,"RB, RM"
+Nicolas Thibault Haas,N. Haas,CM
+Tony Mauricio,T. Mauricio,RM
+Jarlan Junior Barrera Escalona,J. Barrera,"CAM, RM, RW"
+Nicolás Emanuel Fernández,N. Fernández,"ST, LW, RW"
+Nathan Raphael Pelae Cardoso,Nathan,CB
+Ahmet Oğuz,A. Oğuz,"RB, RWB"
+Anuar Mohamed Tuhami,Anuar,"CM, CAM, LM"
+Ryan Phelim Manning,R. Manning,"LWB, CB, LB"
+Jordan Morris,J. Morris,"LM, ST, RM"
+Bilal Boutobba,B. Boutobba,"RM, RW"
+Hidde Willem ter Avest,H. ter Avest,RB
+Sada Thioub,S. Thioub,"RM, LM"
+Diego González Polanco,Diego González,CB
+Martin Fraisl,M. Fraisl,GK
+Felix Platte,F. Platte,ST
+Daniel Tan Barlaser,D. Barlaser,CDM
+Randall Enrique Leal Arley,R. Leal,"LM, RM"
+Patrick Pentz,P. Pentz,GK
+Carlens Jean Fedlaire Ruby Arcus,C. Arcus,RB
+Ryan Mmaee Nwambeben Kabir,R. Mmaee,ST
+Viktor Kovalenko,V. Kovalenko,"CM, CAM"
+Benedikt Gimber,B. Gimber,CDM
+Dalbert Henrique Chagas Estevão,Dalbert,"LWB, LM"
+Tim Skarke,T. Skarke,"RM, LM"
+Anto Grgić,A. Grgić,"CM, CDM, CAM"
+Luca Daniel de la Torre,L. de la Torre,"CM, CDM, LM"
+Michel Vlap,M. Vlap,"CAM, CM"
+Lukas Klünter,L. Klünter,"RB, CB"
+Miloš Degenek,M. Degenek,CB
+Mads Pedersen,M. Pedersen,"LM, LB"
+Gerard Valentín Sancho,Gerard Valentín,"RM, RB"
+Cristián Andrés Dájome Arboleda,C. Dájome,"LM, ST"
+Jannik Huth,J. Huth,GK
+Iñigo Córdoba Querejeta,Córdoba,"LM, RM, CAM"
+Jhonatan Luiz da Siqueira,Jhonatan,GK
+Oumar Gonzalez,O. Gonzalez,CB
+Vanderlei Tiago Cõembra Laforte,Vanderlei Cõembra,"RB, LB"
+Jorge Pietro Carvalho Porfírio,Jorge Carvallinho,"CB, LB"
+Alex Alessandro Freitas Conceição,Alex das Freitas,"CDM, CM"
+Antonaldo Luiz Vaz Stein,Antonaldo Vaz,LB
+Carleto Adilson Costinha Caldeira,Carleto Costinha,"CAM, ST, RM"
+Mauro Guilherme Ribeiro Rangel,Mauro Riboas,CAM
+Thiago Claudnei Almeida Reis,Thiago Alminxa,"ST, RW"
+Walter Elias Silvieiro Borges,Walter Silvieiro,ST
+Ailton Nuno Cardenhas Macedo,Ailton Cardenhas,GK
+Marcelo Emanuel Morais Silva,Eminho Moringa,CB
+Wiliam Carlos Santoso Sampaio,Wiliam Santinho,GK
+Wagner Mauro Orsi Vasquez,Wagner Orsinho,LB
+Luisinho Lúcio Conradi Andrade,Luisinho Conradi,LB
+Edson Gérson Torres Guerra,Edsinho Torres,LB
+Germano Wilson Monico Salvador,Germano Monico,CM
+Diogo Josué Pinho Parrela,Diogo Parrela,"RB, RWB"
+Bernardo Joshua Mota Damasco,Bernardo Motinho,"RB, RM"
+Alex Martin Frandeira Álvares,Alexandre Frandeira,"CB, CDM"
+Luis Claudinei Peixoto Álvares,Dinei Peixo,"RW, RM"
+Pedro Márcio Rocha Rosa,Pedrildo Rocha,"LW, LM"
+Jairo Ralph Resende dos Santos,Jairão Zezé,"CAM, CM"
+Jessé Martin Ledeiro Serra,Jessé Ledeiro,"CAM, CF"
+Adrián Guto Negrão Bastos,Adrián Burnabão,"CAM, CF"
+Gustavo Rafael Outomouro Tófoli,Gus Outomouro,"ST, LM"
+Nilson Rafael Vilela de Brito,Rafanilton Vilela,"ST, CF, CAM"
+Cryzan da Cruz Queiroz Barcelos,Cryzan,"ST, RW"
+José Ndong Machín Dicombo,José Machín,CM
+Gojko Cimirot,G. Cimirot,"CDM, CM, CB"
+Nuno Miguel da Costa Jóia,Nuno da Costa,ST
+Michael Nicolás Santos Rosadilla,M. Santos,ST
+Antonio Marchesano,A. Marchesano,"CAM, CF"
+Jamal Lewis,J. Lewis,"LB, LWB"
+Miloš Pantović,M. Pantović,"CAM, CM"
+Casper De Norre,C. De Norre,"CM, LM"
+László Kleinheisler,L. Kleinheisler,"CAM, CM"
+Ismaël Chester Diallo,I. Diallo,"LB, CB"
+Scott Wharton,S. Wharton,CB
+Joan Sastre Vanrell,Joan Sastre,"RB, LB"
+Fabian Reese,F. Reese,"LM, LW, ST"
+Emil Riis Jakobsen,E. Riis,ST
+Jonathan Montiel Caballero,Joni Montiel,"CAM, CM, LM"
+Jannes-Kilian Horn,J. Horn,"LB, CB"
+Daniel Andreas Sundgren,D. Sundgren,"RWB, CB"
+Ronald Alberto Matarrita Ulate,R. Matarrita,"LB, LM, LWB"
+Gaëtan Perrin,G. Perrin,"LM, RM"
+Anfernee Dijksteel,A. Dijksteel,"CB, RWB, RB"
+Elias Cobbaut,E. Cobbaut,CB
+中村 航輔,K. Nakamura,GK
+Simen Kristiansen Juklerød,S. Juklerød,LB
+江坂 任,A. Esaka,"CAM, ST, CF"
+Ignacio Francisco Chicco,I. Chicco,GK
+三竿 健斗,K. Misao,CDM
+Franco Troyansky,F. Troyansky,"ST, RM, LM"
+Joaquín Nicolás Pereyra,J. Pereyra,"LM, CM"
+三好 康児,K. Miyoshi,"RM, CAM, LM"
+Christopher James Mepham,C. Mepham,CB
+室屋 成,S. Muroya,"RWB, RB"
+Phillip Tietz,P. Tietz,ST
+Riley Patrick McGree,R. McGree,"CM, CAM"
+Barış-Fahri Atik,B. Atik,"LW, ST, CAM"
+Alexis Arias Tuesta,A. Arias,"CM, CDM, CAM"
+Thiago Martins Bueno,Thiago Martins,CB
+Ronaldo Augusto Vieira Nan,Ronaldo Vieira,"CDM, CM"
+Eduardo Flávio Fonseira Meire,Eduardo Fonseira,GK
+Jony Allison Reitosa Ribeiro,Jony Reitosa,RB
+Rômulo Roberto Calsede Caiado,Rômulo Calsede,ST
+Anthony Ralston,A. Ralston,RB
+Callum Styles,C. Styles,"LWB, CM, RM"
+Siebe Van der Heyden,S. Van der Heyden,CB
+Aschraf El Mahdioui,A. El Mahdioui,"CDM, CM"
+Carel Willem Hendrik Eiting,C. Eiting,"CM, CDM"
+Sam Surridge,S. Surridge,ST
+Myziane Maolida,M. Maolida,"LM, ST"
+Mikkel Rygaard Jensen,M. Rygaard,"CM, CAM"
+Oualid El Hajjam,O. El Hajjam,"RB, CB"
+Bakaye Dibassy,B. Dibassy,"CB, LB"
+Bakery Jatta,B. Jatta,"RW, RM, LW"
+Idrissa Doumbia,I. Doumbia,"CDM, CM"
+Juan Soriano Oropesa,Juan Soriano,GK
+Kristian Pedersen,K. Pedersen,"LB, CB"
+Houboulang Mendes,H. Mendes,"RB, CB, RWB"
+Max Besuschkow,M. Besuschkow,"CM, CDM"
+Jean Thierry Lazare Amani,L. Amani,"CM, CDM, CAM"
+João Pedro Reis Amaral,João Amaral,CAM
+Jonathan Diego Menéndez,J. Menéndez,"RM, LW, RW"
+Josh Maja,J. Maja,"ST, CAM"
+Matúš Bero,M. Bero,"CM, CAM"
+Dara Joseph O'Shea,D. O'Shea,"CB, RB"
+Djamel Eddine Benlamri,D. Benlamri,CB
+Samir Memišević,S. Memišević,"CDM, CB, CM"
+Mounir Chouiar,M. Chouiar,"LM, LW"
+Berkay Özcan,B. Özcan,"CM, CAM, LM"
+Auston Levi-Jesaiah Trusty,A. Trusty,"CB, LB"
+Kyle Duncan,K. Duncan,"RWB, RM, RB"
+Davide Djily Diaw,D. Diaw,ST
+Nilson Evair Loyola Morales,N. Loyola,"LB, LM"
+Marc Cardona Rovira,Marc Cardona,ST
+Clément Jerome Michelin,C. Michelin,"RB, RWB"
+Steven Alzate,S. Alzate,"CM, CDM"
+Guilherme Schettine Guimarães,Guilherme Schettine,ST
+Martin Hongla Yma,M. Hongla,"CM, CDM"
+Calvin Stengs,C. Stengs,"RM, CAM"
+Enrique Pérez Muñoz,Kike Pérez,"CM, CAM, CDM"
+Bruno Ricardo Valdez Wilson,Bruno Wilson,CB
+Dimitrios Nikolaou,D. Nikolaou,CB
+Tomás Ezequiel Guidara,T. Guidara,RB
+Andrés Felipe Román Mosquera,F. Román,RB
+Jeremy Ebobisse,J. Ebobisse,"ST, RM"
+Gastón Nicolás Reniero,N. Reniero,ST
+Scott Edward Twine,S. Twine,"LW, LM, CM"
+Raoul Petretta,R. Petretta,LB
+Ajdin Hrustić,A. Hrustić,"CM, RM, CF"
+Magnus Kofod Andersen,M. Andersen,"CM, CDM"
+Cristian Nahuel Barrios,N. Barrios,"LW, CAM"
+Ola Brynhildsen,O. Brynhildsen,"LM, ST"
+Elisha Owusu,E. Owusu,"CDM, CM"
+Erhan Mašović,E. Mašović,"CB, CDM"
+Moritz Heyer,M. Heyer,"RB, CDM, CB"
+Haji Wright,H. Wright,ST
+Mickaël Nadé,M. Nadé,CB
+Pedro Miguel Cunha Sá,Pedro Sá,"CDM, CM"
+Jure Balkovec,J. Balkovec,"LB, CB, RB"
+Kennedy Kofi Boateng,K. Boateng,CB
+Maximilian Ullmann,M. Ullmann,LB
+Christopher Antwi-Adjei,C. Antwi-Adjei,"LM, LW, RM"
+Cristian George Ganea,C. Ganea,LB
+Jelle Bataille,J. Bataille,"RB, LB"
+Philipp François Köhn,P. Köhn,GK
+Braydon Marvin Manu,B. Manu,"RM, LM, ST"
+Konstantinos Galanopoulos,K. Galanopoulos,"CM, CDM"
+Yunus Akgün,Y. Akgün,"RW, CAM, RM"
+Nicolas-Gerrit Kühn,N. Kühn,"RM, CAM"
+Dennis Man,D. Man,"RM, LM, RW"
+Leo Štulac,L. Štulac,"CDM, CM"
+Flynn Downes,F. Downes,"CDM, CM"
+Lukáš Juliš,L. Juliš,ST
+Sofian Kiyine,S. Kiyine,"LM, CM"
+Martín Ismael Payero,M. Payero,CM
+Abdulelah Ali Al-Amri,A. Al Amri,"CB, RB"
+Jessy Deminguet,J. Deminguet,"CM, CDM"
+Daniel Raba Antolín,Dani Raba,"RM, ST"
+Manprit Sarkaria,M. Sarkaria,"CAM, ST"
+Antonio Moya Vega,Toni Moya,"CM, CDM"
+Ahmed Reda Tagnaouti,A. Tagnaouti,GK
+Juan Brandáriz Movilla,Chumi,"CB, RB"
+Juan Ignacio Méndez,J. Méndez,"CDM, CM"
+Tiago Magalhães de Sá,Tiago Sá,GK
+Ricardo Ryller Ribeiro Lino Silva,Ricardo Ryller,"CDM, CM"
+Vivaldo Borges dos Santos Neto,Neto Borges,"LWB, LB"
+Edo Kayembe,E. Kayembe,"CDM, CM"
+Christoph Klarer,C. Klarer,CB
+Bilal Hussein,B. Hussein,CM
+Liberato Gianpaolo Cacace,L. Cacace,"LB, LWB"
+André Oliveira Silva,André Silva,"ST, LW"
+Sepp van den Berg,S. van den Berg,CB
+Brandon Bye,B. Bye,RB
+Josha Mamadou Karaboue Vagnoman,J. Vagnoman,"RB, RM, LB"
+John Buckley,J. Buckley,"CAM, CM"
+Finn Gilbert Dahmen,F. Dahmen,GK
+Aubrey Maphosa Modiba,A. Modiba,"LB, LW"
+Kevin Simone Sessa,K. Sessa,"RM, CM"
+Nicușor Silviu Bancu,N. Bancu,"LWB, LB, LM"
+Alberto Soro Álvarez,Alberto Soro,"RM, LM, ST"
+Tudor Cristian Băluţă,T. Băluță,"CDM, CM"
+Jurgen Ekkelenkamp,J. Ekkelenkamp,"CAM, CM"
+Josep Martínez Riera,Josep Martínez,GK
+André Filipe Cunha Vidigal,André Vidigal,"LM, RM"
+Mert Müldür,M. Müldür,RB
+Mujaid Sadick Aliu,Mujaid,"CB, RB"
+Gavin Okeroghene Bazunu,G. Bazunu,GK
+Ryan Giles,R. Giles,"LWB, LW, LB"
+Albert Vallçi,A. Vallci,"RB, CB, LB"
+Francisco Gámez López,Fran Gámez,RB
+Daniel George Ballard,D. Ballard,CB
+Gonzalo Cacicedo Verdú,Gonzalo Verdú,CB
+Enrique Gallego Puigsech,Enric Gallego,ST
+홍현석 Hyeon Seok Hong,Hong Hyeon Seok,"CM, CAM, CDM"
+Jesús Jiménez Núñez,Jesús Jiménez,ST
+Luca Pfeiffer,L. Pfeiffer,ST
+Sadegh Moharrami,S. Moharrami,"RB, RM, RWB"
+Filip Benković,F. Benković,CB
+Gabriel Rafael Fuentes Gómez,G. Fuentes,LB
+Ross Cameron Stewart,R. Stewart,ST
+Toni Borevković,T. Borevković,CB
+Mykyta Burda,M. Burda,CB
+Mohamed Ali Camara,M. Camara,CB
+Victor Alexander da Silva,Vitinho,"RB, RWB, LB"
+Carlos Sebastián Ferreira Vidal,S. Ferreira,ST
+Manuel Vicente Capasso,M. Capasso,CB
+Luciano Daniel Pons,L. Pons,ST
+Otar Kiteishvili,O. Kiteishvili,"CAM, CM"
+Juan Diego Palacios Ricardo,D. Palacios,LB
+Giorgi Tsitaishvili,G. Tsitaishvili,"RM, LM"
+Vladyslav Supriaha,V. Supriaha,ST
+Gianluca Ferrari,G. Ferrari,"CB, RB"
+Adrián Guerrero Aguilar,Guerrero,"LM, LWB, LB"
+Cameron Peter Devlin,C. Devlin,"CM, CDM"
+Santiago Sosa,S. Sosa,"CDM, CM"
+Mads Hermansen,M. Hermansen,GK
+Ethan Laird,E. Laird,"RB, RWB"
+Tomáš Wiesner,T. Wiesner,"RB, RM"
+Ezequiel Eduardo Bullaude,E. Bullaude,"CAM, CM, RM"
+Marcelo Alexis Weigandt,M. Weigandt,RB
+Valery Fernández Estrada,Valery,"RM, LWB, LM"
+Bafodé Diakité,B. Diakité,"RB, LB, CB"
+Lucien Jefferson Agoume,L. Agoumé,"CDM, CM"
+Francisco González Metilli,F. González Metilli,"RM, LM, ST"
+Abdoul Kader Bamba,A. Bamba,"LM, RM, CM"
+DeJuan Lytelle Jones,D. Jones,"LB, RB"
+Renzo López Patrón,R. López,ST
+Gianluca Gaetano,G. Gaetano,"CAM, CM"
+Jaume Grau Ciscar,Jaume Grau,"CDM, CM"
+Gerson Leal Rodrigues Gouveia,Gerson Rodrigues,"LM, ST"
+Paul Akouokou,P. Akouokou,"CDM, CM"
+Boubakar Kouyaté,B. Kouyaté,CB
+Khalid Eisa Mohamed Bilal,K. Eissa,GK
+Dayne St. Clair,D. St. Clair,GK
+Andy Joseph Pelmard,A. Pelmard,"CB, LB"
+Folarin Balogun,F. Balogun,ST
+Bandar Mohammed Mohammed Saeed Mahdi Al Ahbabi,B. Al Ahbabi,"RB, RM"
+Gue Sung Cho,Cho Gue Sung,"ST, LW"
+Santiago Moreno,S. Moreno,"RM, LM"
+Andrei Andonie Burcă,A. Burcă,CB
+Ilia Iliev Gruev,I. Gruev,"CDM, CM"
+Jacob Greaves,J. Greaves,"CB, LB"
+Nathan N'Goumou Minpole,N. Ngoumou,RM
+Marvin Ekpiteta,M. Ekpiteta,CB
+Rasmus Carstensen,R. Carstensen,RB
+Sebastian Vinther Jørgensen,S. Jørgensen,RM
+Dante Stipica,D. Stipica,GK
+Dejan Joveljić,D. Joveljić,ST
+Cristian Orlando Vega,C. Vega,"CDM, CM"
+Marco Meyerhöfer,M. Meyerhöfer,"RB, RM"
+Fabian Kunze,F. Kunze,"CDM, CM"
+Mathías Guerreyro,M. Guerreyro,"RW, LW"
+Lucas Chevalier,L. Chevalier,GK
+Yusuf Demir,Y. Demir,"RW, CAM, RM"
+Crysencio Summerville,C. Summerville,"RM, LM"
+Kamil Piątkowski,K. Piątkowski,CB
+Nazareno Colombo,N. Colombo,CB
+Francisco Javier Hidalgo Gómez,Son,"RB, LB"
+Riccieli Eduardo da Silva Júnior,Riccieli,CB
+Benjamín Rollheiser,B. Rollheiser,"LM, RM, ST"
+Hjalmar Ekdal,H. Ekdal,CB
+Fernando Niño Rodríguez,Fer Niño,ST
+Alexis Laurent Patrice Roge Flips,A. Flips,"RM, LM, CAM"
+Adil Aouchiche,A. Aouchiche,"LM, CAM, CM"
+Giannis Michailidis,G. Michailidis,CB
+Alan Damián Medina Silva,A. Medina,"RW, CF"
+Franco Ezequiel Calderón,F. Calderón,CB
+Amad Diallo Traoré,A. Diallo,"RM, RW"
+Paolo Alessandro Reyna Lea,P. Reyna,"LB, LM"
+Luis Enrique Iberico Robalino,L. Iberico,"LW, LM, ST"
+Georges Mikautadze,G. Mikautadze,"ST, LM, CAM"
+Pedro Manuel Lobo Peixoto Mineiro Mendes,Pedro Mendes,ST
+Julio Joao Ortiz Landázuri,J. Ortiz,"CAM, CF, CM"
+Farouk Chafaï,F. Chafaï,CB
+坂元 達裕,T. Sakamoto,"RM, CF, LM"
+Bartol Franjić,B. Franjić,"CDM, CB, LB"
+Daryl Dike,D. Dike,ST
+Frederick Henry Kessler,H. Kessler,CB
+Emiliano Martínez Toranza,E. Martínez,CDM
+Vitor Carvalho Vieira,Vitor Carvalho,"CDM, CM"
+Lazaros Rota,L. Rota,RB
+Josh Thomas Doig,J. Doig,"LWB, LM, LB"
+Santiago Mariano Rodríguez Molina,S. Rodríguez,"CAM, LM, RM"
+Alistair Johnston,A. Johnston,"RM, RWB, CB"
+Julian Justvan,J. Justvan,"CAM, RM, LWB"
+Mamadou Lamine Gueye,L. Gueye,"RM, RW, LM"
+Márton Dárdai,M. Dárdai,CB
+Adam Karabec,A. Karabec,"CAM, RM, LM"
+Oleksandr Syrota,O. Syrota,CB
+Matouš Trmal,M. Trmal,GK
+Eric Exequiel Meza,E. Meza,"RB, RWB"
+Filip Kaša,F. Kaša,CB
+Josep María Chavarría Pérez,Pep Chavarría,LB
+Brandon Soppy,B. Soppy,"RWB, RM"
+Evann Guessand,E. Guessand,"ST, LW"
+Emmanuel Elysee Djedje Agbadou,E. Agbadou,"CB, CDM"
+Jon Morcillo Conesa,Jon Morcillo,"LM, LW"
+Tote António Gomes,Toti Gomes,CB
+Ardian Ismajli,A. Ismajli,CB
+Jan Paul van Hecke,J. van Hecke,CB
+Octavian George Popescu,O. Popescu,"LW, CAM"
+Matisse Samoise,M. Samoise,RM
+Mees Hilgers,M. Hilgers,"CB, RB"
+Dion Lopy,D. Lopy,"CM, CDM"
+Ousmane Doumbia,O. Doumbia,"CDM, CM"
+Maximiliano Falcón,M. Falcón,CB
+Karim El Berkaoui,K. El Berkaoui,"ST, LW"
+Evren Eren Elmalı,E. Elmalı,LB
+Victor Bernth Kristiansen,V. Kristiansen,LB
+Juan Carlos Portillo,J. Portillo,"CDM, CB, CM"
+Pape Matar Sarr,P. Sarr,CM
+Victor Edvardsen,V. Edvardsen,"ST, LW"
+Matías Fernando Cóccaro Ferreira,M. Cóccaro,ST
+Jesús Vázquez Alcalde,Jesús Vázquez,"LB, LWB, LM"
+Kaio Jorge Pinto Ramos,Kaio Jorge,ST
+Simon Adingra,S. Adingra,"LM, ST, LW"
+Kiliann Sildillia,K. Sildillia,"RB, CB, RM"
+Andreas Rædergård Schjelderup,A. Schjelderup,"LW, CAM, ST"
+Ignacio Schor,I. Schor,"RM, RW, LM"
+Juan Infante,J. Infante,"LB, LWB"
+Diber Armando Cambindo Abonia,D. Cambindo,ST
+Ramiro Enrique Paz,R. Enrique,"ST, LW"
+Cristian Nicolás Medina,C. Medina,CM
+Dario Špikić,D. Špikić,"RW, LW, RM"
+Iliman Ndiaye,I. Ndiaye,"CAM, ST"
+Andrew Abiola Omobamidele,A. Omobamidele,CB
+Miguel Gutiérrez Ortega,Miguel Gutiérrez,"LB, LWB"
+Antonio Blanco Conde,Antonio Blanco,"CM, CDM"
+Ezequiel Fernández,E. Fernández,"CDM, CM"
+Björn Meijer,B. Meijer,"LB, LM, LWB"
+Jay Gorter,J. Gorter,GK
+Matheus de Mello Costa,Matheus Costa,CB
+Rareș Ilie,R. Ilie,"LW, CAM, LM"
+Jaloliddin Masharipov,J. Masharipov,LM
+Emir Sahiti,E. Sahiti,"RW, LW, LM"
+Bernardo Maria Cardoso Vital,Bernardo Vital,CB
+Filipe Bem Relvas V. Oliveira,Filipe Relvas,"CB, LB"
+Bradley Locko,B. Locko,"LB, LWB, LM"
+L. Henrique Rosa da Silva,Luiz Henrique,"RM, LM"
+Jairo Concha,J. Concha,"CAM, CM"
+Nicolás Peranic,N. Peranic,GK
+Petar Bočkaj,P. Bočkaj,"LB, LWB, LM"
+Yonathan Rodríguez,Y. Rodríguez,"CDM, CM"
+Henrique Pereira Araújo,Henrique Araújo,ST
+Libor Holík,L. Holík,"RB, LB"
+Eduardo Gonzaga Mendes Santos,Eduardo Santos,"CB, RB"
+Máximo Perrone,M. Perrone,"CM, CDM"
+Martin Ádám,M. Ádám,ST
+Daniel Boloca,D. Boloca,"CM, CDM"
+Lorenzo Lucca,L. Lucca,ST
+Michele Collocolo,M. Collocolo,"CDM, CM"
+Boualem Khoukhi,B. Khoukhi,"CB, CDM"
+Hrvoje Smolčić,H. Smolčić,CB
+Milan Pavkov,M. Pavkov,ST
+Yuri de Souza Fonseca,Yuri,"ST, CAM"
+Bartholomew Owogbalor Ogbeche,B. Ogbeche,"ST, CAM"
+김영광 Young Kwang Kim,Kim Young Kwang,GK
+Blerim Džemaili,B. Džemaili,"CM, CDM"
+Mikel Rico Moreno,Mikel Rico,"CM, CDM"
+Romain Jules Salin,R. Salin,GK
+Vincent Demarconnay,V. Demarconnay,GK
+Philipp Pentke,P. Pentke,GK
+Uwe Hünemeier,U. Hünemeier,CB
+Mathieu Debuchy,M. Debuchy,"CB, RB"
+Isaias Modonza,I. Modonza,"RB, CB"
+Mario Antonio Rancoret,M. Rancoret,"CB, CDM"
+Luca Villasoel,L. Villasoel,"CB, RB, LB"
+Pablo Villarronda,P. Villarronda,"CDM, CM"
+Raimundo Latorres,R. Latorres,"CB, RB"
+Erick Evaldes,E. Evaldes,CB
+Jordano Rozalas,J. Rozalas,"CDM, CM"
+Juan Carlos Gustaldo,J. Gustaldo,ST
+Antonio Cambrillo,A. Cambrillo,ST
+Juan Canderio,J. Canderio,CAM
+Jérémy Ménez,J. Ménez,"ST, CF, LW"
+Daniel Congré,D. Congré,CB
+Johan Dahlin,J. Dahlin,GK
+Gabriel Alejandro Paletta,G. Paletta,CB
+Shane Patrick Long,S. Long,ST
+Gonzalo Rubén Bergessio,G. Bergessio,ST
+José Ángel Crespo Rincón,José Crespo,"CB, RB, LB"
+Federico Dionisi,F. Dionisi,"ST, RW"
+Kyle John McFadzean,K. McFadzean,CB
+Gonzalo Castro Irizábal,G. Castro,"LM, LW, CAM"
+Kaiansu Kei Kamara,K. Kamara,ST
+Dax McCarty,D. McCarty,CDM
+Jelle Vossen,J. Vossen,"ST, RW"
+Adelino André Vieira de Freitas,Vieirinha,"LB, RB, CB"
+Artur Jędrzejczyk,A. Jędrzejczyk,"CB, RB"
+Ruud Boffin,R. Boffin,GK
+Scott Harry Nathaniel Arfield,S. Arfield,"CM, CAM"
+Erik Pieters,E. Pieters,"LB, LM, CB"
+Ralf Sebastian Fährmann,R. Fährmann,GK
+Edgar Bruno da Silva,Edgar,ST
+Eren Derdiyok,E. Derdiyok,ST
+曾诚,Zeng Cheng,GK
+Alexandru Epureanu,A. Epureanu,CB
+Kermit Romeo Erasmus,K. Erasmus,"ST, CF, LW"
+Rúben Tiago Rodrigues Ribeiro,Rúben Ribeiro,"CM, CDM, CAM"
+Andy Carroll,A. Carroll,ST
+Troy Deeney,T. Deeney,ST
+Fin Bartels,F. Bartels,"CF, CAM, RW"
+Jonathan Hogg,J. Hogg,"CDM, CM, CB"
+Michael Lang,M. Lang,RB
+Dan Gosling,D. Gosling,"CM, RB"
+Ádám Csaba Szalai,Á. Szalai,ST
+Vasco Herculano Salgado Cunha Mango Fernandes,Vasco Fernandes,"CB, LB"
+Even Hovland,E. Hovland,CB
+Juan Torres Ruiz,Juan Cala,CB
+Kyle Naughton,K. Naughton,"CB, RB"
+Samuel Di Carmine,S. Di Carmine,ST
+Sean Morrison,S. Morrison,CB
+Matt Godden,M. Godden,ST
+Paul-José M'Poku Ebunge,P. Mpoku,"CAM, RW, RM"
+Jonathan Peter McLaughlin,J. McLaughlin,GK
+Matt Phillips,M. Phillips,"RW, RM"
+Joren Dom,J. Dom,"RB, RWB, CM"
+Volkan Babacan,V. Babacan,GK
+Vincent Julien Sasso,V. Sasso,CB
+Alfred John Momar N'Diaye,A. N'Diaye,"CDM, CM"
+Daniel Brosinski,D. Brosinski,"RB, LWB, RWB"
+Jake Livermore,J. Livermore,"CDM, CM"
+Thiago Rangel Cionek,Thiago Cionek,"CB, RB"
+Dennis Diekmeier,D. Diekmeier,RB
+Danny Latza,D. Latza,"CM, CDM"
+José Antonio Ríos Reina,Ríos Reina,LB
+Andrea Rispoli,A. Rispoli,"RB, RM"
+Bengali-Fodé Koita,B. Koita,"ST, RW"
+Pedro Alcalá Guirado,Alcalá,CB
+Tom Cleverley,T. Cleverley,CM
+Lunan Ruben Gabrielsen,R. Gabrielsen,CB
+Håvard Kallevik Nielsen,H. Nielsen,"ST, CAM"
+Kévin Théophile-Catherine,K. Théophile-Catherine,CB
+Mário Jorge Malico Paulino,Camora,LB
+Patrick Mortensen,P. Mortensen,ST
+Leandro Chichizola,L. Chichizola,GK
+임상협 廉桑,Lim Sang Hyub,"LM, RM"
+Bo Niklas Hult,N. Hult,LB
+Giedrius Arlauskis,G. Arlauskis,GK
+Andreu Fontàs Prat,Fontàs,CB
+Juan Villar Vázquez,Juan Villar,ST
+Steven de Sousa Vitória,Steven Vitória,CB
+Marc Mateu Sanjuán,Marc Mateu,"LM, LB"
+David Martins Simão,David Simão,"CM, CDM"
+Vid Belec,V. Belec,GK
+Leonardo Sebastián Prediger,S. Prediger,"CDM, CM"
+Tom Lees,T. Lees,CB
+Christian Groß,C. Groß,"CDM, CB"
+Sam Clucas,S. Clucas,"CM, CDM"
+Necip Uysal,N. Uysal,"CB, CDM, RB"
+Judilson Mamadu Tuncará Gomes,Pelé,"CDM, CM"
+Daniel Sánchez Ayala,Daniel Ayala,CB
+Ehsan Haji Safi,E. Haji Safi,"LB, CM, CB"
+Florent Olivier Sylvain Hanin,F. Hanin,"LB, LM, LWB"
+Danny Batth,D. Batth,CB
+Geoffry Hairemans,G. Hairemans,"RM, CAM, CM"
+Nahir Besara,N. Besara,"CAM, ST, CM"
+Jacopo Sala,J. Sala,"CDM, RB"
+Marcel Büchel,M. Büchel,"CDM, CM"
+Boadu Maxwell Acosty,B. Acosty,"RM, RW"
+Raffaele Maiello,R. Maiello,"CM, CDM"
+Franco Daniel Jara,F. Jara,ST
+Gonzalo Pablo Castellani,G. Castellani,"CAM, CM, CDM"
+Andy Aryel Najar Rodríguez,A. Najar,"CB, RB"
+Romain Amalfitano,R. Amalfitano,"CM, CDM, CAM"
+Vincent Pajot,V. Pajot,"CM, CDM"
+Georgios Tzavellas,G. Tzavellas,CB
+김보경 金甫炅,Kim Bo Kyung,"CM, CAM, RM"
+Ermir Lenjani,E. Lenjani,"LWB, LB, LM"
+Abdoulaye Bamba,A. Bamba,"RB, RWB, LB"
+Timm Klose,T. Klose,CB
+Pier Miqueas Barrios,P. Barrios,"CB, RB"
+Francisco García Solsona,Fran García,"LB, LWB"
+Diego Mariño Villar,Diego Mariño,GK
+Taulant Xhaka,T. Xhaka,CDM
+Joffrey Cuffaut,J. Cuffaut,"CB, RB"
+Roberto Inglese,R. Inglese,ST
+Ciprian Ioan Deac,C. Deac,"CM, RW"
+Daniel Batz,D. Batz,GK
+Felicio Anando Brown Forbes,F. Brown Forbes,ST
+Cristian Martínez Borja,C. Martínez Borja,ST
+Nicolai Oppen Larsen,N. Larsen,GK
+Steven Skrzybski,S. Skrzybski,"ST, CAM, RM"
+Jeff Patrick Hendrick,J. Hendrick,"CM, CDM"
+Marc Martínez Aranda,Marc Martínez,GK
+Kristof D'Haene,K. D'Haene,"LB, LWB, LM"
+Yevhen Konoplyanka,Y. Konoplyanka,"LM, CF"
+张琳芃,Zhang Linpeng,"CB, RB"
+Ryan Leonard,R. Leonard,"CDM, RWB, CB"
+Soner Aydoğdu,S. Aydoğdu,"CM, CDM"
+Adam Rhys Davies,A. Davies,GK
+蒋光太,Jiang Guangtai,CB
+Muhamed Bešić,M. Bešić,"CDM, RB"
+Alessandro Salvi,A. Salvi,"RB, LB, RM"
+Luca Tremolada,L. Tremolada,"CAM, CM"
+Florent Ogier,F. Ogier,CB
+Clecildo Rafael Martins de Souza Ladislau,Rafael Martins,ST
+Lionel Jules Carole,L. Carole,LB
+Andrea La Mantia,A. La Mantia,ST
+Nicola Leali,N. Leali,GK
+Daniel Mathias Høegh,D. Høegh,CB
+Frederik Hillersborg Sørensen,F. Sørensen,"CB, RB"
+Liam Boyce,L. Boyce,ST
+Hannes Van Der Bruggen,H. Van Der Bruggen,"CM, CDM"
+Sebastian Francisco Lletget,S. Lletget,"CM, CAM, RM"
+Pierre Emmanuel Sagna,P. Sagna,RB
+Daniel Anthony Johnson,D. Johnson,"CAM, CM, ST"
+William David Keane,W. Keane,"CAM, ST"
+Michele Camporese,M. Camporese,CB
+Johannes Geis,J. Geis,CDM
+Felix Klaus,F. Klaus,"RM, LM"
+Joe Willis,J. Willis,GK
+Aden Flint,A. Flint,CB
+Joshua Risdon,J. Risdon,RB
+Ertaç Özbir,E. Özbir,GK
+Nathan Byrne,N. Byrne,RB
+Paweł Marek Wszołek,P. Wszołek,RM
+Florian Hübner,F. Hübner,CB
+Massimo Bruno,M. Bruno,"CAM, LM, RM"
+Virgil Roy Misidjan,V. Misidjan,"LW, RW"
+Sonny Bradley,S. Bradley,CB
+Ahmad Benali,A. Benali,"CM, CF, CDM"
+Yoann Touzghar,Y. Touzghar,ST
+Jón Guðni Fjóluson,J. Fjóluson,CB
+Christian Nikolaj Sørensen,C. Sørensen,LB
+Rafał Wolski,R. Wolski,"CAM, CM"
+Tetchi Jores Charlemagne Ulrich Okore,J. Okore,CB
+Adam Michael Reach,A. Reach,"LWB, LW, CM"
+Baptiste Reynet,B. Reynet,GK
+Marcus Bettinelli,M. Bettinelli,GK
+George Alan Saville,G. Saville,"CM, CDM"
+Joe Ralls,J. Ralls,"CM, CDM, CAM"
+Raphael Holzhauser,R. Holzhauser,"CAM, CM, CF"
+Rubén Pardo Gutiérrez,Rubén Pardo,"CM, CDM, CAM"
+Toni Leistner,T. Leistner,CB
+Álvaro Vadillo Cifuentes,Vadillo,"LM, RM"
+Dieumerci Ndongala,D. Ndongala,"RW, RM"
+Carl Oscar Johan Lewicki,O. Lewicki,"CDM, CM, CB"
+David Ferreiro Quiroga,David Ferreiro,"LM, RM, CM"
+Álvaro Lemos Collazo,Álvaro Lemos,"RB, RM"
+Luca Ceppitelli,L. Ceppitelli,CB
+Christian Atsu Twasam,C. Atsu,"RW, LW"
+Benjamin Uphoff,B. Uphoff,GK
+Stefano Sabelli,S. Sabelli,RB
+Jérémy Frick,J. Frick,GK
+Terrence Anthony Boyd,T. Boyd,ST
+Rudy Camacho,R. Camacho,CB
+Tristan Dingomé,T. Dingomé,"CM, CAM"
+Mario Sampirisi,M. Sampirisi,"RB, CB"
+Brad Potts,B. Potts,"RWB, RB"
+Jordan Zacharie Lukaku Menama Mokelenge,J. Lukaku,"LB, LM, LWB"
+Marcus Christer Rohdén,M. Rohdén,"CM, RM"
+Kenneth Josiah Omeruo,K. Omeruo,CB
+Modou Barrow,M. Barrow,"LM, LW, RM"
+Amari'i Bell,A. Bell,"LWB, LB, CB"
+Ademilson Braga Bispo Júnior,Ademilson,"ST, LM"
+Pelly-Ruddock Mpanzu,P. Mpanzu,"CM, CDM"
+Matthew Pearson,M. Pearson,CB
+Dénys Bain,D. Bain,CB
+Erik Zenga,E. Zenga,"CDM, CM"
+Mitchell Dijks,M. Dijks,LB
+Zymer Bytyqi,Z. Bytyqi,"LM, RM, LW"
+Roberto Antonio Correa Silva,Rober Correa,"RB, RWB, CB"
+Danny Blum,D. Blum,"RW, LW"
+José Antonio Delgado Villar,Nono,"CM, CDM"
+Quentin Bernard,Q. Bernard,"LB, CB"
+Jimmy Giraudon,J. Giraudon,CB
+Nawaf Shaker Al Abid,N. Al Abed,"CAM, LW, RW"
+Hattan Sultan Bahebri,H. Bahebri,LW
+Luis Carlos Cardozo Espillaga,L. Cardozo,"CB, RB"
+Philipp Ziereis,P. Ziereis,CB
+Jean Mota Oliveira de Sousa,Jean Mota,"CM, CDM"
+Kristoffer Haugen,K. Haugen,"LWB, LB"
+Antônio Carlos Cunha Capocasali Junior,Antônio Carlos,CB
+Abdul Rahman Baba,B. Rahman,"LWB, LB"
+Dorian Dessoleil,D. Dessoleil,CB
+Eugeni Valderrama Domènech,Eugeni,"CM, CDM, LM"
+Rasmus Thelander,R. Thelander,CB
+Thomas Dähne,T. Dähne,GK
+José Rodríguez Martínez,José Rodríguez,"CM, CDM, RM"
+Abdullah Ibrahim Al Maiouf,A. Al Mayoof,GK
+Manuel Prietl,M. Prietl,"CDM, CM, CB"
+Emiliano Marcondes Camargo Hansen,E. Marcondes,"CAM, CM"
+Mattijs Branderhorst,M. Branderhorst,GK
+Riccardo Improta,R. Improta,"LW, LM, CM"
+José María Martín-Bejarano Serrano,José Mari,"CDM, CM"
+Mohammed Al Owais,M. Al Owais,GK
+Paulo Sérgio Mota,Paulinho,"RWB, RB"
+Pablo Valcarce Vidal,Pablo Valcarce,"RM, LM, ST"
+Arnór Ingvi Traustason,A. Traustason,"LW, CM"
+Michele Rigione,M. Rigione,CB
+Robert Berić,R. Berić,ST
+Jérémie Bela,J. Bela,"LM, LWB, RM"
+Jordi Vanlerberghe,J. Vanlerberghe,"CB, CDM, CM"
+Sebastian Kerk,S. Kerk,"CAM, CF, LM"
+Brandon Thomas Llamas,Brandon Thomas,"ST, LM, RM"
+Steven Moreira,S. Moreira,"RB, RWB"
+Callum O'Dowda,C. O'Dowda,"LM, LW"
+Michael Rose,M. Rose,CB
+Tiago Matías Casasola,T. Casasola,"RWB, RM, RB"
+DeAndre Roselle Yedlin,D. Yedlin,"RB, RWB"
+Awer Bul Mabil,A. Mabil,"LM, RM, LW"
+Roberto Suárez Pier,Róber,"CB, CDM"
+Francisco Javier Calvo Quesada,F. Calvo,CB
+Levin Mete Öztunali,L. Öztunalı,"CAM, CM, RWB"
+Simon Gustafson,S. Gustafson,"CM, CAM"
+Thomas Lehne Olsen,T. Olsen,ST
+Christian Neiva Afonso,Kiki,"LB, CB"
+Sam Gallagher,S. Gallagher,"ST, RW"
+Francesco Forte,F. Forte,ST
+Germán Mera Cáceres,G. Mera,CB
+Julián Alveiro Quiñónes García,J. Quiñónes,CB
+William David Cuesta Mosquera,W. Cuesta,GK
+Rafael Andrés Carrascal Avilez,R. Carrascal,"CM, CDM"
+Sebastián Pérez Cardona,S. Pérez,"CM, CDM"
+Martín Vladimir Rodríguez Torrejón,M. Rodríguez,"LW, CAM"
+Óscar Mauricio Opazo Lara,Ó. Opazo,"RB, LB"
+Andrew Hughes,A. Hughes,CB
+Claudio Matías Kranevitter,M. Kranevitter,"CDM, CM"
+Matías Alejandro Ibáñez Basualdo,M. Ibáñez,GK
+Damián Alfredo Pérez,D. Pérez,LB
+Diego Luis Braghieri,D. Braghieri,CB
+Dany Alejandro Rosero Valencia,D. Rosero,CB
+Horacio De Dios Orzán,H. Orzán,"CM, CDM, CB"
+Emanuel Mariano Insúa Zapata,E. Insua,LB
+Axel Wilfredo Werner,A. Werner,GK
+Adrien Hunou,A. Hunou,ST
+Cristian Matías Menéndez,C. Menéndez,ST
+Carlos Daniel Auzqui,C. Auzqui,"CAM, RM"
+Darnell Fisher,D. Fisher,"RWB, RB"
+Filipe Miguel Neves Ferreira,Filipe Ferreira,"LWB, LB, CB"
+Damián Marcelo Musto,D. Musto,"CDM, CM"
+Riccardo Gagliolo,R. Gagliolo,"CB, LWB, LB"
+Harry Cornick,H. Cornick,"ST, RW"
+Rémy Dugimont,R. Dugimont,"LM, CAM, ST"
+Mark Diemers,M. Diemers,"CAM, LM"
+Alain Baroja Méndez,A. Baroja,GK
+Josh Laurent,J. Laurent,"CDM, CM, CAM"
+Ryan Peter Hedges,R. Hedges,"RW, RM, CAM"
+Julián Rodrigo Fernández,J. Fernández,"CDM, CM"
+Stipe Perica,S. Perica,ST
+Claudio Ezequiel Aquino,C. Aquino,"LM, RM, CAM"
+Luca Lezzerini,L. Lezzerini,GK
+Marcos Mauro López Gutiérrez,Marcos Mauro,CB
+Samuel Ayomide Adekugbe,S. Adekugbe,LB
+Saîf-Eddine Khaoui,S. Khaoui,"CAM, RM, CM"
+Oliver McBurnie,O. McBurnie,ST
+Olivier Michel Kemen,O. Kemen,"CM, CAM, CDM"
+Bersant Celina,B. Celina,"LM, CAM"
+Paweł Piotr Bochniewicz,P. Bochniewicz,CB
+Bongani Zungu,B. Zungu,"CDM, CM"
+Assan Torrez Ceesay,A. Ceesay,ST
+Ofir Meir Marciano,O. Marciano,GK
+Iván Márquez Álvarez,Iván Márquez,CB
+Stefano Giuseppe Arne Holmquist Vecchia,S. Vecchia,"LW, CF"
+Juan José Narváez Solarte,J. Narváez,"LM, ST"
+Anthony Mandrea,A. Mandrea,GK
+Filip Wojciech Jagiełło,F. Jagiełło,"CM, CAM"
+Alessandro André Schöpf,A. Schöpf,"CM, CDM, CAM"
+Alessandro Bellemo,A. Bellemo,CM
+Cameron Mark Thomas Brannagan,C. Brannagan,CM
+Ahmed El Messaoudi,A. El Messaoudi,"CM, CAM, CDM"
+Uroš Đurđević,U. Đurđević,ST
+Reece Burke,R. Burke,CB
+José Ángel Carrillo Casamayor,Carrillo,ST
+Joe Lolley,J. Lolley,"RW, RM, LM"
+Víctor Andrés Moreno Córdoba,V. Moreno,CB
+Daniel Lovitz,D. Lovitz,"LWB, LB"
+최경록 崔琼罗,Choi Kyoung Rok,"CAM, CM, RW"
+刘彬彬,Liu Binbin,"LM, RM"
+Jay Fulton,J. Fulton,"CDM, CM"
+Patrick Roberts,P. Roberts,"RM, RW, CAM"
+Yonathan Emanuel Cabral,Y. Cabral,CB
+Juan Manuel García García,Juanma García,"ST, RM, LM"
+曹赟定,Cao Yunding,"LM, LW"
+吉翔,Ji Xiang,"RB, RM"
+唐淼,Tang Miao,"RWB, RB"
+Héctor Hugo Fértoli,H. Fertoli,"LM, RM, CAM"
+Chadrac Akolo Ababa,C. Akolo,"ST, RW, CF"
+Rui Filipe Caetano Moura,Carraça,"RB, RWB, RM"
+Issam Chebake,I. Chebake,RB
+Hugo Adnan Boumous,H. Boumous,CAM
+Sebastian Ernst,S. Ernst,"CAM, CM"
+Tom van Weert,T. van Weert,ST
+Robert Bauer,R. Bauer,"CB, RB, CDM"
+Lucas Andrés Colitto,L. Colitto,"RM, LM, CAM"
+Samuel Christopher Bastien,S. Bastien,"CM, LM"
+Paolo Fernándes Cantin,Paolo Fernandes,"RM, LM, CAM"
+Néstor Adriel Breitenbruch,N. Breitenbruch,"RB, CB, RWB"
+Jesús Imaz Ballesté,Jesús Imaz,"ST, CF, CAM"
+Alessandro Ciranni,A. Ciranni,"RWB, RB, RM"
+Tyronne Ebuehi,T. Ebuehi,RB
+Joe Williams,J. Williams,"CDM, CM, CAM"
+Julian Pollersbeck,J. Pollersbeck,GK
+Bingourou Kamara,B. Kamara,GK
+Walter Iván Alexis Montoya,W. Montoya,"RM, CM"
+Leonardo Mancuso,L. Mancuso,ST
+Jessy Bénet,J. Benet,"CM, CAM, LW"
+Arnaud Lusamba,A. Lusamba,CM
+Scott Wright,S. Wright,RW
+Alessandro Micai,A. Micai,GK
+Antonio Palumbo,A. Palumbo,"CM, CAM, CF"
+Gennaro Acampora,G. Acampora,"CM, CDM"
+Liam Patrick Kelly,L. Kelly,GK
+Jhon Fredy Duque Arias,J. Duque,CDM
+Mads Døhr Thychosen,M. Thychosen,"CB, RB"
+Constantin Valentin Budescu,C. Budescu,"CAM, LM, CF"
+Sergio Antônio Soler de Oliveira Júnior,Serginho,"CM, RM, ST"
+Kasim Adams Nuhu,K. Adams Nuhu,CB
+Marc Bola,M. Bola,"LWB, LB"
+Antonin Bobichon,A. Bobichon,"CM, CAM, LM"
+David Gil Mohedano,David Gil,GK
+António Manuel Pereira Xavier,Xavier,"LW, RW"
+Lucas Alexander Sosa,L. Sosa,"CB, LB"
+Kieran Dowell,K. Dowell,"RM, CAM, CM"
+Marcus Coco,M. Coco,"RM, RW, RWB"
+Leonardo Adelino da Silva Lopes,Leonardo Lopes,"CM, CDM"
+Antonio Milić,A. Milić,CB
+Jonathan Sebastián Galván,J. Galván,"CB, CDM"
+Federico Vicente Lanzillota,F. Lanzillotta,GK
+Juninho Bacuna,J. Bacuna,"CM, CAM"
+Max Christiansen,M. Christiansen,"CDM, CM"
+Joaquín Marcelo Laso,J. Laso,"CB, RB"
+Matthew Ryan Polster,M. Polster,"CDM, RB"
+Augusto Martín Batalla Barga,A. Batalla,GK
+Tobias Frank Salquist Nielsen,T. Salquist,CB
+Henk Veerman,H. Veerman,ST
+Dario Melnjak,D. Melnjak,LB
+Danilo Arboleda Hurtado,D. Arboleda,CB
+Maximiliano Samuel Romero,M. Romero,"ST, LW"
+Marvin Mehlem,M. Mehlem,"CAM, LM"
+Josep Señé Escudero,Josep Señé,CM
+Felix Passlack,F. Passlack,"RM, RB, CM"
+Christopher James Ikonomidis,C. Ikonomidis,"RM, ST, LM"
+Thapelo James Morena,T. Morena,"RB, RW, RWB"
+Sergi Palencia Hurtado,Sergi Palencia,"RB, RWB, RM"
+Matías Gabriel Vera,M. Vera,"CDM, CM"
+Antonino La Gumina,A. La Gumina,ST
+Andrew Ferai Rinomhota,A. Rinomhota,"CDM, CM"
+Francisco Oliveira Geraldes,Francisco Geraldes,"CM, CAM"
+Brandley Mack-Olien Kuwas,B. Kuwas,RM
+Ryan Nyambe,R. Nyambe,"RWB, RB"
+Saúl Savin Salcedo Zárate,S. Salcedo,CB
+Vincent Marchetti,V. Marchetti,"CDM, CM, LB"
+João Pedro da Costa Gamboa,João Gamboa,"CDM, CM"
+Tyler Roberts,T. Roberts,"RW, CAM, CM"
+Marc Roberts,M. Roberts,CB
+Mickaël David Alphonse,M. Alphonse,"RB, LB"
+Joher Khadim Rassoul,J. Rassoul,"LB, CB, RB"
+Jan Kliment,J. Kliment,ST
+Matthieu Udol,M. Udol,"LWB, LB, CB"
+Jonas Föhrenbach,J. Föhrenbach,LB
+Aleksandr Vyacheslavovich Zhirov,A. Zhirov,CB
+Amilton Minervino da Silva,Amilton,"RM, LM, RW"
+Wanderson Carvalho Oliveira,Wanderson,"RM, LB"
+Jorge Miramón Santagertrudis,Jorge Miramón,"RB, RWB, RM"
+Yanis Rahmani Cordeiro,Y. Rahmani,"LM, RM"
+Gökhan Akkan,G. Akkan,GK
+Jules Van Cleemput,J. Van Cleemput,"CB, RWB, RB"
+Dominik Baumgartner,D. Baumgartner,CB
+André Watshini Bukia,A. Bukia,"RW, RM"
+Sandro Mike Lauper,S. Lauper,"CB, CDM, CM"
+Francisco José Villalba Rodrigo,Fran Villalba,"CAM, LM, RM"
+Vítor Martín Angulho Fancini,Vítor Angulho,GK
+Adriano Well. Bastos Oliveira,Adrizinho Bastos,GK
+Daniel Clayton Branco Julião,Claytinho Branco,RB
+Paolo Marco Leima Donatelo,Paolinho Leima,"RWB, RB"
+Breno Evandro Bausa Dimas,Breno Bausa,"CDM, CM"
+Marlon Rômulo Dias Cavalcanti,Marlinito Dias,"CDM, CB"
+Heltinho Melo Chaves,Heltinho Melo,"CAM, RB"
+Elton Matheus Bessa Acuna,Eltildo Bessa,"ST, CF, LW"
+Douglas Arthur Silbeira Martins,Arthur Silbeira,ST
+Jonaldo Kauã Monteiro Moura,Jonaldo Monteiro,"LB, LWB, LM"
+Luan Vágner Simões Eustáquio,Luildo Simões,CAM
+Milton Boas Menceiros Cunha,Milton Menceiros,CB
+Nuno Jorgino Moldeiro Vaz,Nuno Moldeiro,LM
+Elton Matheus Marques Paiva,Eltson Marques,CB
+Renato Peter Mestres Silveira,Natinho Mestres,RM
+Lourival Adnan Diniz Prazeres,Lourival Dinisco,CB
+Anselmo Túlio Marques Barni,Ansel Barni,"CDM, CM, RM"
+Eduardo Estevão Neto Heck,Edardynho Neto,ST
+Leôncio Roger Lobeiro Cunha,Leôncio Lobeiro,"RW, RM"
+Tiago Nathan Pombeira Gesser,Tiago Pombeira,CAM
+Patric Bernard Alves Coelho,Patricio Alagoano,"CAM, RM, RW"
+Jonas Welson Orsi de Meneses,Nascimentardo,"CAM, CF"
+Saberto Josué Botelho Rios,Saberto Botelho,CDM
+Endre Botka,E. Botka,"RB, CB"
+Hauke Finn Wahl,H. Wahl,CB
+Brian Abel Luciatti,B. Luciatti,"CB, LB"
+Mile Svilar,M. Svilar,GK
+Jaime Báez Stábile,J. Baez,"RM, LM"
+Boris Radunović,B. Radunović,GK
+Domen Črnigoj,D. Črnigoj,CM
+Peter Vindahl Jensen,P. Jensen,GK
+Moussa Koné,M. Koné,ST
+Jalil Juan José Elías,J. Elías,"CM, RM, RWB"
+João António Antunes Carvalho,João Carvalho,CAM
+Grady Diangana,G. Diangana,"LM, ST, RM"
+Alexis Nahuel Soto,A. Soto,"LB, CB"
+Brian Rolando Blasi,B. Blasi,"RB, CB, RWB"
+Frederik Beyer Tingager,F. Tingager,CB
+Maxence André Prévôt,M. Prévot,GK
+Quentin Boisgard,Q. Boisgard,"CM, LW, LM"
+Alessandro Murgia,A. Murgia,"CM, CDM"
+金俊仁,Kim Dong Joon,GK
+Jarosław Niezgoda,J. Niezgoda,ST
+Collins Ngoran Suiru Fai,C. Fai,"RB, RWB"
+Juan David Ríos Henao,J. Ríos,"CDM, CM"
+Janni-Luca Serra,J. Serra,ST
+Maurício de Carvalho António,Maurício,CB
+Bubacarr Steve Trawally,B. Trawally,"LW, ST"
+Sarpreet Singh,S. Singh,"LM, CAM, RM"
+Jay Dasilva,J. Dasilva,"LB, LWB, RM"
+Josh Tymon,J. Tymon,"LWB, LB"
+Santiago Colombatto,S. Colombatto,"CM, CDM"
+町田 浩樹,K. Machida,CB
+Kenneth William Dougall,K. Dougall,"CDM, CM"
+Marcel Hartel,M. Hartel,CM
+Cédric Jan Itten,C. Itten,"ST, CAM"
+Valentin Henry,V. Henry,RB
+Stéphane Imad Diarra,S. Diarra,"RM, RW"
+Noah Joel Sarenren Bazee,N. Sarenren Bazee,RM
+Allan Campbell,A. Campbell,"CM, CDM"
+Tahith Chong,T. Chong,"LM, CAM, RW"
+Kristiyan Malinov,K. Malinov,"CDM, CM"
+Unai Elgezabal Udondo,Elgezabal,"CDM, CM, CB"
+Yakou Méïté,Y. Méïté,"ST, RM"
+Douglas Alan Schuck Friedrich,Douglas Friedrich,GK
+Charles Monginda Pickel,C. Pickel,"CDM, CM"
+Kye Francis Rowles,K. Rowles,CB
+Lukas Mühl,L. Mühl,CB
+Sami Khalil Al-Najei,S. Al Najai,"CAM, RM, LM"
+Vitor Marlon Bereitta Cortejo,Vitor Marlão,"LB, CB"
+Jairo Ralph Farnias Almeida,Jairo Farnias,GK
+Doğukan Sinik,D. Sinik,"LW, LM, CAM"
+Flavio Medeiros da Silva,Flavio,"CDM, CM, CAM"
+Gauthier Hein,G. Hein,"RM, CM, CAM"
+Jannik Müller,J. Müller,CB
+Johannes Eggestein,J. Eggestein,"ST, RW"
+Andreas Albers Nielsen,A. Albers,ST
+Marko Pajač,M. Pajač,LB
+Hans Fredrik Jensen,F. Jensen,"CAM, RM, LM"
+Rubin Seigers,R. Seigers,"CB, RB"
+Aleksandar Sedlar,A. Sedlar,"CB, CDM"
+Jimmy Dunne,J. Dunne,CB
+Mohanad Abdulkadhim Qasim Al Jebur Jeahze,M. Jeahze,LB
+Giacomo Vrioni,G. Vrioni,ST
+Carlos Emilio Rodríguez Rodríguez,C. Rodríguez,CB
+Radosław Majecki,R. Majecki,GK
+Bartosz Nowak,B. Nowak,"CF, CAM"
+Benito Ramírez del Toro,Benito,"LB, LM, RM"
+Álvaro José Jiménez Guerrero,Álvaro Jiménez,"RM, LM"
+Khalid Abdul Mumin Suleman,A. Mumin,CB
+Joel Joshghene Asoro,J. Asoro,"RW, ST"
+Vinicius Lúcio Trieiro Lobato,Vinicius Trieiro,RB
+Jailson Pietro Oliva Chiamulera,Jailson Oliva,RB
+Luan Vágner Sendeiro Zanon,Luan Sendeiro,CDM
+Lourival Adnan Rodeiro Reis,Lourival Rodeiro,CM
+Martin Victor Cordeia Damasco,Martin Cordeia,"CAM, CM"
+Marlion Rômulo Rolim Nascimento,Marlion Rolim,CAM
+Phil Yannik Neumann,P. Neumann,"CB, RB"
+Oviemuno Dominic Ejaria,O. Ejaria,"LM, CM, CAM"
+Yan Valery,Y. Valery,"RB, RWB"
+Erick Cathriel Cabaco Almada,E. Cabaco,CB
+Cédric Zesiger,C. Zesiger,CB
+Pedro Díaz Fanjul,Pedro Díaz,"CM, CDM"
+Yanick Marinus Paulus van Osch,Y. van Osch,GK
+Jacob Brown,J. Brown,"ST, RM, RWB"
+Digbo G'nampa Habib Maïga,H. Maïga,"CDM, CM"
+Carl Isak Emanuel Pettersson,I. Pettersson,GK
+Brandon Vázquez Toledo,B. Vazquez,ST
+James Edward Lea Siliki,J. Léa Siliki,"CM, RM"
+Frank Thierry Boya,F. Boya,"CDM, CM, CB"
+Latif Blessing,L. Blessing,"CM, RB"
+Jackson William Yueill,J. Yueill,"CDM, CB, CM"
+Yordan Hernando Osorio Paredes,Y. Osorio,CB
+Grigoris Kastanos,G. Kastanos,"CAM, CM"
+Juan José Nieto Zarzoso,Juanjo Nieto,RB
+Amir Abedzadeh,A. Abedzadeh,GK
+백승호 Seung Ho Paik,Paik Seung Ho,"CM, CDM"
+奥奈 武,A. Onaiwu,"ST, LW"
+Nouhou Tolo,Nouhou,"LB, CB"
+Alfons Sampsted,A. Sampsted,RB
+Gastón Alberto Togni,G. Togni,"LM, LWB, LW"
+Sory Kaba,S. Kaba,ST
+Merveille Bopé Bokadi,M. Bokadi,"CB, CDM"
+シュミット・ダニエル,D. Schmidt,GK
+Yvan Neyou Noupa,Y. Neyou,"CDM, CM"
+Alexandru Ștefan Pașcanu,A. Pascanu,CB
+Lebo Mothiba,L. Mothiba,ST
+Bruno Alexandre Vieira Almeida,Bruno Xadas,"CAM, RM, CM"
+Josh Bowler,J. Bowler,"RM, LM, RW"
+Aron Leonard Dønnum,A. Dønnum,"RM, LM, LWB"
+David Andrés Camacho Valencia,D. Camacho,"RM, RW, ST"
+Beni Baningime,B. Baningime,"CM, CDM"
+나상호 那尚昊,Na Sang Ho,"LM, LW"
+Arnór Sigurðsson,A. Sigurðsson,"CAM, LW, ST"
+Hugo Vetlesen,H. Vetlesen,"CAM, CM"
+田川 亨介,K. Tagawa,"ST, RW, LW"
+Ben Wilmot,B. Wilmot,"CB, RB"
+Gédéon Kalulu Kyatengwa,G. Kalulu,"RB, LB"
+Michael Andrew Johnston,M. Johnston,"LW, RW"
+Kingsley Schindler,K. Schindler,"RM, RB"
+정태욱 Tae Wook Jeong,Jeong Tae Wook,CB
+Idriz Voca,I. Voca,"CDM, CM"
+Sebastian Vasiliadis,S. Vasiliadis,"CDM, CM"
+Klaus Gjasula,K. Gjasula,"CDM, CB"
+Lucas Possignolo,Lucas Possignolo,CB
+Daniel Ojeda Saranova,Dani Ojeda,"RM, LM, CAM"
+Mark-Anthony Kaye,M. Kaye,"CM, CDM"
+Franko Andrijašević,F. Andrijašević,"CM, ST, CAM"
+Vasilis Cornelius Barkas,V. Barkas,GK
+Julian Chabot,J. Chabot,CB
+Jordi Mboula Queralt,Jordi Mboula,RM
+Tim-Henry Handwerker,T. Handwerker,LB
+Rade Dugalić,R. Dugalić,CB
+Aka Wilfried Kanga,W. Kanga,ST
+Daniel Namaso Edi-Mesumbe Loader,D. Loader,"ST, CAM"
+Jonathan Alberto Levi,J. Levi,RW
+Florent Muslija,F. Muslija,"LM, CAM"
+Saba Lobzhanidze,S. Lobjanidze,"RW, RM, LM"
+Bryan Josue Acosta Ramos,B. Acosta,"CM, CDM"
+Abdelkarim Hassan Al Haj Fadlalla,A. Hassan,"LWB, CB"
+Ricardo Luís Chaby Mangas,Ricardo Mangas,"LWB, LB, CB"
+Eldar Ćivić,E. Ćivić,LB
+Kevin Rüegg,K. Rüegg,"RWB, RB, RM"
+Dimitris Limnios,D. Limnios,"LM, RM"
+Brenner Souza da Silva,Brenner,ST
+Antonio Luca Fiordilino,L. Fiordilino,CM
+Ryan Porteous,R. Porteous,CB
+Jan Niklas Beste,J. Beste,"CAM, LM, LB"
+Yıldırım Mert Çetin,M. Çetin,CB
+Shandon Baptiste,S. Baptiste,"CM, CDM"
+Leonardo Sequeira,L. Sequeira,"RM, ST, LM"
+Luca Ranieri,L. Ranieri,"LB, CB"
+Mattéo Tramoni,M. Tramoni,"LM, LW"
+Julián Simón Carranza,J. Carranza,ST
+Júnior Leonardo Moreno Borrero,J. Moreno,"CDM, CM"
+Michael John Cooper,M. Cooper,GK
+Enzo Ebosse,E. Ebosse,"CB, LWB"
+Nikola Maraš,N. Maraš,CB
+Lino Tempelmann,L. Tempelmann,"CM, CDM"
+Cyrille Barros Bayala,C. Bayala,RM
+Antoine Semenyo,A. Semenyo,"ST, RW, RM"
+Olimpiu Vasile Moruțan,O. Moruțan,"RM, RW, CM"
+Yusuf Sarı,Y. Sarı,"RM, RW"
+Mario Hernández Fernández,Mario Hernández,RB
+Antonio Bareiro Álvarez,A. Bareiro,RM
+Roger Brugué Ayguadé,Brugui,"RM, LM, ST"
+Hernán De La Fuente,H. De La Fuente,RB
+Yann Aurel Ludger Bisseck,Y. Bisseck,CB
+Keaton Alexander Parks,K. Parks,"CM, CDM"
+Kevin Facundo Gutiérrez,K. Gutiérrez,"CDM, CM"
+Federico Agustín Gattoni,F. Gattoni,CB
+Harrison Delbridge,H. Delbridge,"CB, RB"
+Christopher Ramos de la Flor,Chris Ramos,"LM, ST, RM"
+Mohamed Dräger,M. Dräger,"RB, RWB"
+Igor Silva de Almeida,Igor Silva,"RB, RWB"
+Joshua Thomas Sargent,J. Sargent,"RM, ST, LM"
+Marius Lode,M. Lode,CB
+Michael Obafemi,M. Obafemi,ST
+Lewis Ferguson,L. Ferguson,"CM, CDM"
+Mohammed Dauda,M. Dauda,"LM, RM, ST"
+Jorge Filipe Oliveira Fernandes,Jorge Fernandes,CB
+Artem Dovbyk,A. Dovbyk,ST
+Deiber Jair Caicedo Mideros,D. Caicedo,"LM, ST"
+Jean Harisson Marcelin,H. Marcelin,CB
+Christopher Mueller,C. Mueller,"RM, RW"
+Alexis Trouillet,A. Trouillet,CM
+Jack Clarke,J. Clarke,"LM, LWB"
+中村 敬斗,K. Nakamura,"LM, LW"
+Brandon Petersen,B. Petersen,GK
+Teboho Mokoena,T. Mokoena,"CM, CDM"
+Álex Collado Gutiérrez,Álex Collado,"RM, CM, CAM"
+Dong Jun Lee,Lee Dong Jun,RM
+Alejandro Domínguez Romero,Álex Domínguez,GK
+Daniel Gómez Alcón,Dani Gómez,ST
+Felix Agu,F. Agu,"RWB, LWB"
+Diego Martín Valencia Morello,D. Valencia,"ST, RW"
+Sebastian Wiktor Walukiewicz,S. Walukiewicz,CB
+Robert Ljubičić,R. Ljubicic,"CDM, CM, LB"
+Alexander William Cochrane,A. Cochrane,"LB, LWB, CB"
+Immanuël-Johannes Pherai,I. Pherai,"CAM, CM"
+Lucas Henrique da Silva,Lucas Áfrico,CB
+André Filipe Magalhães Ribeiro Ferreira,André Ferreira,GK
+Ibrahim Sissoko,I. Sissoko,ST
+Moussa Kalilou Djitté,M. Djitté,ST
+Wouter Burger,W. Burger,"CDM, CB, CM"
+Batista Mendy,B. Mendy,"CDM, CB, CM"
+Aleksandar Radovanović,A. Radovanović,CB
+Nikola Katić,N. Katić,CB
+Dino Perić,D. Perić,CB
+Adrian Šemper,A. Šemper,GK
+Artem Besedin,A. Besedin,ST
+Bogdan Vasylyovych Mykhaylichenko,B. Mykhaylichenko,LB
+Pablo Lima Gualco,P. Lima,"CDM, CM, CAM"
+Christos Albanis,C. Albanis,LM
+Filip Uremović,F. Uremović,CB
+Eladio Zorrilla Jiménez,Elady,"ST, LM, RM"
+Marko Jevtović,M. Jevtović,"CDM, CB, CM"
+Moon Hwan Kim,Kim Moon Hwan,"RB, RWB"
+Bastián Jean Yañez Miranda,B. Yáñez,"LM, LW, RW"
+Carlos Nahuel Benavídez Protesoni,C. Benavídez,"CDM, CM"
+Ivanildo Jorge Mendes Fernandes,Ivanildo Fernandes,CB
+Yohann Magnin,Y. Magnin,"CM, CDM, RWB"
+Maxime Busi,M. Busi,RB
+Franco Matías Russo Panos,F. Russo,CB
+Ignacio Antonio Saavedra Pino,I. Saavedra,"CM, CDM"
+Cole Bassett,C. Bassett,"CAM, CM"
+Farley Vieira Rosa,Farley,"LM, CM, LW"
+José Antonio Paradela,J. Paradela,"LM, CM, CAM"
+Güven Yalçın,G. Yalçın,"ST, RM, LM"
+Montassar Omar Talbi,M. Talbi,CB
+Chima Sean Okoroji,C. Okoroji,LB
+Danylo Ignatenko,D. Ignatenko,"CM, CDM"
+Efstratios Svarnas,S. Svarnas,"CB, RWB"
+Víctor Gómez Perea,Víctor Gómez,RB
+Alejandro Blanco Sánchez,Álex Blanco,"LM, RM"
+Hassan Mohammed Al-Tambakti,H. Tombakti,CB
+Paulo Vítor Fagundes dos Anjos,Paulo Vítor,GK
+Víctor Mollejo Carpintero,Mollejo,"RM, LM, ST"
+Andrés Martín García,Andrés Martín,"ST, RM, CAM"
+Ángelo Smit Preciado Quiñónez,Á. Preciado,"RB, RWB, RM"
+Sam McCallum,S. McCallum,"LB, LWB"
+Ezequiel Ignacio Centurión,E. Centurión,GK
+Dominik Kotarski,D. Kotarski,GK
+Iván Martos Campillo,Iván Martos,"LB, CB"
+Mounaïm El Idrissy,M. El Idrissy,"ST, RM"
+Mads Bidstrup,M. Bidstrup,"CDM, CM"
+Federico Girotti Bonazza,F. Girotti,ST
+Facundo Ezequiel Almada,F. Almada,CB
+Álvaro Vallés Rosa,Álvaro Valles,GK
+Giulian Biancone,G. Biancone,"CB, RWB, LWB"
+Víctor Gustavo Velázquez Ramos,G. Velázquez,CB
+Louka Daniel Prip Andreasen,L. Prip,"RW, CF, ST"
+Alexandro Ezequiel Bernabei,A. Bernabei,LB
+Gideon Mensah,G. Mensah,"LB, LWB"
+Ante Palaversa,A. Palaversa,"CM, CDM"
+Lyndon John Dykes,L. Dykes,ST
+Sean Nealis,S. Nealis,CB
+Gastón Luciano Ávila,G. Ávila,"CB, LB"
+Jeremy Ngakia,J. Ngakia,"RB, RWB"
+Julian Vincente Araujo,J. Araujo,"RB, RWB, RM"
+Iulian Lucian Cristea,I. Cristea,CB
+Risto Radunović,R. Radunović,LB
+Lasse Berg Johnsen,L. Johnsen,"CDM, CM"
+Martin Yankov Minchev,M. Minchev,"RM, LM, ST"
+Ahmed Jahouh,A. Jahouh,CDM
+Gustavo Enrique Giordano Amaro Assunção da Silva,Gustavo Assunção,"CDM, CM"
+Benjamin Cabango,B. Cabango,CB
+Valeriy Bondar,V. Bondar,CB
+Jérémy Mellot,J. Mellot,"RB, LB"
+Braian Óscar Ojeda Rodríguez,B. Ojeda,"CDM, CM"
+Halil İbrahim Dervişoğlu,H. Dervişoğlu,"ST, CF, CAM"
+Sergio Ruiz Alonso,Sergio Ruiz,"CDM, CM, CAM"
+Derrick Arthur Köhn,D. Köhn,"LWB, LB"
+Kirian Rodríguez Concepción,Kirian,"CM, CDM, CAM"
+Mihai Marian Aioani,M. Aioani,GK
+Horaţiu Alexandru Moldovan,H. Moldovan,GK
+Fabio Jesús Pereyra,F. Pereyra,CB
+Jesús Miguel Soraire,J. Soraire,CM
+Thibo Somers,T. Somers,"RM, ST"
+Jim Émilien Ngowet Allevinah,J. Allevinah,"LM, RM, LW"
+Kelvin Kwarteng Yeboah,K. Yeboah,ST
+Andrei Ioan Cordea,A. Cordea,RW
+Fabian Nürnberger,F. Nürnberger,"CM, CDM, LB"
+Gonçalo Rosa Gonçalves Pereira Rodrigues,Guga Rodrigues,CM
+Marley Aké,M. Aké,LW
+Pedro Miguel Costa Álvaro,Pedro Álvaro,CB
+Maxim De Cuyper,M. De Cuyper,"LB, LM"
+Darko Churlinov,D. Churlinov,"RM, ST, RWB"
+Rui Miguel Guerra Pires,Rui Pires,"CDM, CM"
+Lucas Queiroz Canteiro,Luquinha,"CAM, CM, RM"
+Tiago Alexandre de Sousa Esgaio,Tiago Esgaio,"RB, RWB, CB"
+Jonathan Panzo,J. Panzo,CB
