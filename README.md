@@ -1,4 +1,4 @@
-# Top5Leagues Player CLustering Analysis
+# Top5Leagues Player Clustering Analysis
 
 This is a project focused on clustering players into groups based on their individual stats rather than position. Then there is analysis into team performance based on the top 11 players' (by minutes played) assigned clusters. Finally, there is an attempt to glean insight from player wages, though none is revealed.
 
