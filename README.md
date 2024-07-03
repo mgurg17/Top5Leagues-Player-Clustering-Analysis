@@ -72,9 +72,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/yourusername/sports-analytics.git
-2. Navigate to the repository directory: cd sports-analytics
-3. Start Jupyter Notebook: jupyter notebook
+1. Clone the repository: ```bash git clone https://github.com/yourusername/sports-analytics.git ```
+2. Navigate to the repository directory: ```bash cd sports-analytics ```
+3. Start Jupyter Notebook: ```bash jupyter notebook ```
 4. Open and run the desired notebook.
 
 ## Contributing
