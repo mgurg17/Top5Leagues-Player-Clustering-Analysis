@@ -72,16 +72,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ## Usage
 
-### 1. Clone the repository:
-git clone https://github.com/yourusername/sports-analytics.git
-
-### 2. Navigate to the repository directory:
-cd sports-analytics
-
-### 3. Start Jupyter Notebook:
-jupyter notebook
-
-### 4. Open and run the desired notebook.
+1. Clone the repository: git clone https://github.com/yourusername/sports-analytics.git
+2. Navigate to the repository directory: cd sports-analytics
+3. Start Jupyter Notebook: jupyter notebook
+4. Open and run the desired notebook.
 
 ## Contributing
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/coot-sorter/issues) if you want to contribute.
