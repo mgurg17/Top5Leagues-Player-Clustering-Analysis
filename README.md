@@ -2,6 +2,8 @@
 
 This repository contains a collection of Jupyter Notebooks for data collection, clustering, player analysis, and team analysis in sports analytics. The notebooks leverage various data sources and provide insights through clustering techniques and detailed analysis.
 
+Please see "Top5LeaguesClusteringAnalysis_Writeup.pdf" for a concise overview of the project.
+
 ## Repository Structure
 
 - `datacollection.ipynb`: Notebook for collecting and preprocessing the data from various sports sources.
